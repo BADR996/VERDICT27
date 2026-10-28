@@ -1,0 +1,31 @@
+{
+  "titre": "Actualité d'octobre 2026",
+  "maj": "2026-10-28",
+  "intro": "Quelques questions sur les événements de ces dernières semaines : guerre et menace russe, prix de l'énergie, mouvement lycéen et maintien de l'ordre, attentat de Trappes et La Verrière. Les questions portent sur les réponses politiques possibles, pas sur les faits eux-mêmes.",
+  "contexte": [
+    {
+      "sujet": "Guerre et énergie",
+      "texte": "Réunion à l'Élysée le 18 septembre face à la dégradation de la situation internationale (Ukraine, Moyen-Orient, menace hybride russe) et à la hausse des prix de l'énergie.",
+      "url": "https://www.publicsenat.fr/actualites/politique/crise-internationale-suivez-la-prise-de-parole-demmanuel-macron",
+      "source": "Public Sénat"
+    },
+    {
+      "sujet": "Mouvement lycéen",
+      "texte": "Mouvement de blocage des lycées né le 21 septembre à Créteil ; revendications sur les moyens de l'école ; plus de 5 000 interpellations entre le 21 septembre et le 2 octobre selon Amnesty, qui dénonce un usage disproportionné de la force.",
+      "url": "https://www.amnesty.fr/actualites/france-mouvement-lyceens-blocus-lycees-point-sur-la-situation/",
+      "source": "Amnesty International France"
+    },
+    {
+      "sujet": "Manifestations du 17 octobre",
+      "texte": "Manifestations et violences dans plusieurs villes, allocution de M. Macron le 18 octobre, critiques de la gestion de l'exécutif par plusieurs candidats.",
+      "url": "https://fr.euronews.com/2026/10/19/manifestations-du-17-octobre-les-candidats-a-la-presidentielle-critiquent-la-gestion-de-le",
+      "source": "Euronews"
+    },
+    {
+      "sujet": "Trappes et La Verrière",
+      "texte": "Le 23 octobre, une personne a été tuée et au moins quatre blessées par des tirs depuis une voiture ; le Parquet national antiterroriste a ouvert une enquête pour assassinat en relation avec une entreprise terroriste, avec la circonstance d'un mobile raciste.",
+      "url": "https://lcp.fr/actualites/la-haine-doit-cesser-l-emotion-de-la-classe-politique-apres-l-attaque-dans-les-yvelines",
+      "source": "LCP"
+    }
+  ]
+}

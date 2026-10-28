@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Données ouvertes — verdict27</title>
+  <meta name="description" content="Sources, licences (Wikipédia CC BY-SA, Wikimédia Commons) et conditions de réutilisation des données de verdict27.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 20'%3E%3Crect width='10' height='20' fill='%230055a4'/%3E%3Crect x='10' width='10' height='20' fill='%23fff'/%3E%3Crect x='20' width='10' height='20' fill='%23d7000f'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="legal">
+  <header class="topbar">
+    <a class="brand" href="/"><span class="flag" aria-hidden="true"><i></i><i></i><i></i></span>verdict27</a>
+    <nav aria-label="Sections"><a href="/#sondages">Sondages</a><a href="/#evolution">Évolution</a><a href="/#duels">Second tour</a><a href="/#test">Test</a></nav>
+    <a class="btn primary" href="/#test">Faire le test</a>
+  </header>
+
+  <main class="wrap prose">
+    <h1>Données ouvertes, licences et réutilisation</h1>
+    <p class="lead">D'où viennent les données du site, sous quelles licences, et ce que vous pouvez en faire. Cette page sert aussi à respecter les obligations de citation des sources reprises.</p>
+
+    <h2>1. Ce qui est repris, et sous quelle licence</h2>
+    <ul>
+      <li><strong>Sondages :</strong> le tableau de la page Wikipédia « <a href="https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027" target="_blank" rel="noopener">Liste de sondages sur l'élection présidentielle française de 2027</a> », contenu de la communauté de Wikipédia sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr" target="_blank" rel="noopener">CC BY-SA 4.0</a> (attribution + partage dans les mêmes conditions). Les chiffres eux-mêmes sont établis par les instituts de sondage.</li>
+      <li><strong>Photos des candidats :</strong> Wikimédia Commons, chacune sous sa propre licence (auteur et licence indiqués sur la page du fichier).</li>
+      <li><strong>Positions des candidats et questions du test :</strong> établies par l'éditeur à partir de programmes et de déclarations publiques. Les sources par candidat et par thème sont publiées dans <code>sources_positions.csv</code> au fur et à mesure.</li>
+      <li><strong>Sources de certaines positions :</strong> des fiches de <a href="https://observatoire2027.fr/" target="_blank" rel="noopener">Observatoire 2027</a> (contenus éditoriaux sous licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target="_blank" rel="noopener">CC BY 4.0</a>) sont citées comme sources, avec lien et résumé court. Les citations restent la propriété de leurs auteurs.</li>
+      <li><strong>Articles du fil « À la une » :</strong> seuls le titre, le lien, le média, la date et l'extrait fourni par le flux sont affichés. Ils appartiennent à leurs éditeurs et ne sont pas réutilisables via ce site.</li>
+    </ul>
+
+    <h2>2. Ce que le site met à disposition</h2>
+    <ul>
+      <li><strong>Sondages (JSON) :</strong> <a href="/api/polls">/api/polls</a>, mêmes données que celles affichées, avec les candidats et les scénarios.</li>
+      <li><strong>Fichiers de référence :</strong> candidats, thèmes, positions et sources, sous forme de fichiers CSV, <strong>[disponibles sur demande à l'adresse de contact / publiés à l'adresse à préciser]</strong>.</li>
+      <li><strong>Données des contributions et des votes :</strong> jamais publiées individuellement. Seules des statistiques agrégées, sans possibilité de retrouver une personne, pourront l'être (voir la page <a href="/confidentialite.html">Confidentialité</a>).</li>
+    </ul>
+
+    <h2>3. Conditions de réutilisation</h2>
+    <p>Les données de sondages et de positions compilées par le site sont proposées sous licence <strong>[CC BY-SA 4.0 — à confirmer par l'éditeur]</strong>. En pratique, si vous les réutilisez :</p>
+    <ol>
+      <li>citez « verdict27 » avec un lien vers le site, <em>et</em> Wikipédia comme source des sondages ;</li>
+      <li>indiquez la date de récupération des données ;</li>
+      <li>précisez si vous les avez modifiées ;</li>
+      <li>diffusez votre version dans les mêmes conditions (partage à l'identique) ;</li>
+      <li>ne laissez pas croire que l'éditeur ou les instituts parrainent votre usage.</li>
+    </ol>
+    <p>Pour les photos, les articles de presse et les marques, ce sont les conditions de leurs titulaires qui s'appliquent.</p>
+    <p class="muted small">Pourquoi cette licence : les sondages viennent de Wikipédia, dont la licence impose le partage dans les mêmes conditions. Une licence plus permissive sur la compilation serait donc à faire valider juridiquement.</p>
+
+    <h2>4. Qualité et limites</h2>
+    <p>Les données sont reprises automatiquement et peuvent contenir des erreurs de lecture ou de calcul. Elles ne remplacent pas les notices officielles des instituts ni celles de la <a href="https://www.commission-des-sondages.fr" target="_blank" rel="noopener">Commission des sondages</a>. Fournies sans garantie, voir les <a href="/mentions-legales.html">mentions légales</a>. Une erreur ? Voir la page <a href="/methode.html">Méthode et sources</a>, paragraphe « Signaler une erreur ».</p>
+
+    <h2>5. Usage automatisé</h2>
+    <p>L’accès à l’API est libre ; merci de mettre en cache les réponses (les sondages changent au plus quelques fois par jour) et d'indiquer un contact dans l'en-tête <code>User-Agent</code> de vos programmes. Des accès abusifs peuvent être bloqués.</p>
+
+    <p><a href="/mentions-legales.html">Mentions légales</a> · <a href="/methode.html">Méthode et sources</a> · <a href="/">Retour à l'accueil</a></p>
+  </main>
+  <footer class="footer"><div class="wrap"><p><a href="/">Accueil</a> · <a href="/candidats">Tous les candidats</a> · <a href="/methode.html">Méthode</a> · <a href="/mentions-legales.html">Mentions légales</a> · <a href="/donnees-ouvertes.html">Données ouvertes</a> · <a href="/confidentialite.html">Confidentialité</a></p></div></footer>
+</body>
+</html>

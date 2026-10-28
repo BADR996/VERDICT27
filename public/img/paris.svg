@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 440" preserveAspectRatio="xMidYMax slice" role="img" aria-label="Illustration : l'horizon de Paris avec la tour Eiffel, l'Arc de triomphe, les Invalides et l'Élysée">
+  <defs>
+    <linearGradient id="far" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c4a95" stop-opacity=".55"/><stop offset="1" stop-color="#0f2f6b" stop-opacity=".75"/></linearGradient>
+    <linearGradient id="near" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1f4a"/><stop offset="1" stop-color="#071433"/></linearGradient>
+  </defs>
+
+  <!-- ligne de toits lointaine -->
+  <path fill="url(#far)" d="M0,440 V352 L40,346 L40,338 L90,338 L90,350 L150,344 L150,332 L210,332 L210,348 L270,340 L270,352 L330,350 L330,336 L400,336 L400,350 L470,344 L470,330 L520,330 L520,346 L590,340 L590,352 L640,352 L640,338 L700,338 L700,350 L770,346 L770,334 L830,334 L830,348 L900,342 L900,352 L960,350 L960,334 L1020,334 L1020,346 L1080,340 L1080,352 L1140,350 L1140,336 L1200,336 L1200,348 L1280,342 L1280,332 L1340,332 L1340,350 L1410,344 L1410,352 L1480,350 L1480,338 L1540,338 L1540,348 L1600,344 V440 Z"/>
+
+  <!-- Sacré-Cœur lointain -->
+  <g fill="#17407f" opacity=".7">
+    <rect x="1420" y="318" width="70" height="40"/>
+    <path d="M1432,318 q10,-34 20,0 Z M1455,318 q16,-52 32,0 Z"/>
+    <rect x="1469" y="262" width="3" height="10"/>
+  </g>
+
+  <!-- Dôme des Invalides -->
+  <g fill="url(#near)">
+    <rect x="610" y="352" width="180" height="88"/>
+    <rect x="640" y="326" width="120" height="30"/>
+    <rect x="656" y="296" width="88" height="34"/>
+    <path d="M658,298 C662,238 738,238 742,298 Z"/>
+    <rect x="690" y="226" width="20" height="18"/>
+    <path d="M698,226 L700,176 L702,226 Z"/>
+  </g>
+  <g stroke="#17407f" stroke-width="2" opacity=".6"><path d="M676,298 V262 M690,298 V250 M700,298 V246 M710,298 V250 M724,298 V262" fill="none"/></g>
+
+  <!-- Arc de triomphe -->
+  <g fill="url(#near)" fill-rule="evenodd">
+    <path d="M178,440 V312 H422 V440 Z M262,440 V362 A38,38 0 0 1 338,362 V440 Z"/>
+    <rect x="170" y="284" width="260" height="30"/>
+    <rect x="176" y="274" width="248" height="12"/>
+    <rect x="178" y="252" width="244" height="24"/>
+  </g>
+  <g stroke="#17407f" stroke-width="2" opacity=".55" fill="none">
+    <path d="M178,330 H422 M178,348 H262 M338,348 H422"/>
+  </g>
+
+  <!-- Tour Eiffel -->
+  <g fill="url(#near)">
+    <path d="M1176,34 L1184,34 L1190,138 L1197,200 L1210,205 L1210,216 L1202,220 L1213,298 L1246,294 L1246,306 L1232,310 L1268,440 L1214,440 C1214,392 1202,366 1180,360 C1158,366 1146,392 1146,440 L1092,440 L1128,310 L1114,306 L1114,294 L1147,298 L1158,220 L1150,216 L1150,205 L1163,200 L1170,138 Z"/>
+    <path d="M1180,12 L1182,34 L1178,34 Z"/>
+  </g>
+  <g stroke="#2a5aa8" stroke-width="2" opacity=".55" fill="none">
+    <path d="M1172,140 L1188,200 M1188,140 L1172,200 M1160,224 L1200,296 M1200,224 L1160,296 M1144,312 L1216,436 M1216,312 L1144,436"/>
+  </g>
+
+  <!-- Élysée : façade, fronton et drapeau tricolore -->
+  <g fill="url(#near)">
+    <rect x="1290" y="370" width="260" height="70"/>
+    <path d="M1360,370 V340 H1480 V370 Z"/>
+    <path d="M1352,340 L1420,310 L1488,340 Z"/>
+    <rect x="1288" y="362" width="264" height="10"/>
+    <path d="M1290,370 L1330,352 L1360,370 Z M1480,370 L1510,352 L1550,370 Z"/>
+    <rect x="1419" y="238" width="3" height="74"/>
+  </g>
+  <g>
+    <rect x="1422" y="240" width="14" height="22" fill="#2f6fd0"/>
+    <rect x="1436" y="240" width="14" height="22" fill="#f4f6fb"/>
+    <rect x="1450" y="240" width="14" height="22" fill="#e1303c"/>
+  </g>
+  <g fill="#17407f" opacity=".6"><rect x="1310" y="384" width="12" height="22"/><rect x="1336" y="384" width="12" height="22"/><rect x="1372" y="352" width="10" height="16"/><rect x="1418" y="352" width="10" height="16"/><rect x="1464" y="352" width="10" height="16"/><rect x="1492" y="384" width="12" height="22"/><rect x="1520" y="384" width="12" height="22"/></g>
+
+  <!-- toits parisiens au premier plan -->
+  <path fill="url(#near)" d="M0,440 V396 L30,396 L48,384 L96,384 L114,396 L150,396 L150,372 L168,372 L180,358 L214,358 L226,372 L226,396 L260,396 L276,386 L330,386 L346,396 L360,396 L360,440 Z"/>
+  <path fill="url(#near)" d="M430,440 V398 L470,398 L488,386 L548,386 L566,398 L600,398 L600,440 Z"/>
+  <path fill="url(#near)" d="M800,440 V392 L840,392 L858,380 L918,380 L936,392 L970,392 L970,372 L990,372 L1002,360 L1040,360 L1052,372 L1052,392 L1090,392 L1090,440 Z"/>
+  <path fill="url(#near)" d="M1270,440 V400 L1300,400 L1600,400 V440 Z"/>
+  <g fill="#17407f" opacity=".55">
+    <rect x="62" y="388" width="22" height="8"/><rect x="192" y="364" width="14" height="8"/><rect x="296" y="390" width="22" height="6"/>
+    <rect x="496" y="390" width="22" height="8"/><rect x="866" y="384" width="22" height="8"/><rect x="1010" y="364" width="14" height="8"/>
+  </g>
+  <rect x="0" y="436" width="1600" height="4" fill="#071433"/>
+</svg>

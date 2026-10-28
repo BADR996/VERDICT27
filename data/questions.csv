@@ -1,0 +1,209 @@
+﻿id;theme;niveau;sens;texte
+1;econ;1;1;Il faut baisser les impôts sur les entreprises pour stimuler l'emploi.
+2;econ;1;-1;L'État doit posséder les grands secteurs stratégiques (énergie, transports, banques).
+3;econ;1;1;Le marché fixe mieux les prix et les salaires que la réglementation.
+4;econ;2;-1;Le SMIC doit être nettement augmenté, même si cela pèse sur les petites entreprises.
+5;econ;2;1;Il faut réduire le nombre de fonctionnaires.
+6;econ;2;-1;Les grandes fortunes doivent être davantage taxées (impôt sur la fortune renforcé).
+7;econ;2;1;Pour réduire la dette, il faut baisser les dépenses de l'État, quitte à avoir moins de services publics.
+8;welf;1;-1;La retraite à 60 ans doit redevenir possible pour tous.
+9;welf;1;1;Les allocations chômage devraient être plus strictement limitées dans le temps.
+10;welf;1;-1;La santé et l'éducation doivent rester entièrement publiques et gratuites.
+11;welf;2;1;Les bénéficiaires d'aides sociales devraient devoir exercer une activité en contrepartie.
+12;welf;2;-1;Un revenu universel doit être instauré.
+13;welf;2;1;La retraite par capitalisation devrait compléter ou remplacer la retraite par répartition.
+14;welf;2;-1;Le logement social doit être massivement développé, y compris via des quotas contraignants pour les communes.
+15;soci;1;-1;L'accès à la procréation médicalement assistée doit être ouvert à toutes les femmes.
+16;soci;1;1;La famille traditionnelle doit être davantage soutenue que les autres modèles familiaux.
+17;soci;1;-1;L'aide active à mourir (euthanasie) doit être légalisée.
+18;soci;2;1;L'école doit davantage transmettre un récit national valorisant.
+19;soci;2;-1;Les institutions publiques devraient encourager un langage plus inclusif.
+20;soci;2;1;L'école ne devrait pas aborder les questions d'identité de genre.
+21;soci;3;-1;Le cannabis devrait être dépénalisé.
+22;euro;1;-1;La France doit approfondir l'intégration européenne, jusqu'à un budget et une armée communs.
+23;euro;1;1;Les lois françaises doivent primer sur le droit européen.
+24;euro;1;1;La France devrait retrouver une monnaie nationale.
+25;euro;2;-1;L'Union européenne devrait pouvoir lever des impôts propres.
+26;euro;2;1;La France devrait renégocier les traités européens, quitte à ne pas appliquer certaines règles.
+27;euro;2;-1;L'élargissement de l'UE à de nouveaux pays est une bonne chose.
+28;euro;3;1;La France devrait sortir de l'Union européenne.
+29;ecol;1;-1;L'urgence climatique justifie des restrictions fortes (voitures thermiques, vols courts, consommation de viande).
+30;ecol;1;1;Les normes environnementales pénalisent trop l'agriculture et l'industrie françaises.
+31;ecol;2;-1;Il faut interdire les pesticides de synthèse, même si les rendements agricoles baissent.
+32;ecol;2;1;La croissance économique est plus importante que la lutte contre le réchauffement climatique.
+33;ecol;2;-1;Une taxe carbone aux frontières et sur les gros pollueurs doit être instaurée, même au détriment de la compétitivité.
+34;ecol;2;1;Les grands projets d'infrastructure ne doivent pas être bloqués par des recours environnementaux.
+35;ecol;3;-1;L'État doit planifier la sortie des énergies fossiles d'ici 2040.
+36;immi;1;1;Il faut réduire fortement l'immigration légale.
+37;immi;1;-1;La France devrait régulariser les travailleurs sans-papiers installés depuis plusieurs années.
+38;immi;2;1;Les étrangers condamnés doivent être expulsés systématiquement.
+39;immi;2;1;Le droit du sol automatique doit être supprimé.
+40;immi;2;-1;La France doit accueillir davantage de réfugiés fuyant les guerres.
+41;immi;2;1;L'aide médicale d'État devrait être supprimée ou fortement restreinte.
+42;immi;3;-1;Les étrangers résidant régulièrement en France devraient pouvoir voter aux élections locales.
+43;auth;1;1;Les peines de prison doivent être alourdies pour la délinquance du quotidien.
+44;auth;1;-1;La police devrait être davantage contrôlée, y compris par des instances indépendantes.
+45;auth;2;1;Le service national obligatoire devrait être rétabli.
+46;auth;2;-1;La surveillance de masse (caméras, reconnaissance faciale) est une menace pour les libertés.
+47;auth;2;1;Les mineurs délinquants devraient être jugés comme des adultes dès 16 ans.
+48;auth;2;-1;Le droit de manifester ne doit pas être encadré davantage qu'aujourd'hui.
+49;auth;3;1;La peine de mort devrait être rétablie pour certains crimes.
+50;inst;1;-1;Il faut instaurer un référendum d'initiative citoyenne (RIC) sur tous les sujets.
+51;inst;1;1;Le Président de la République doit conserver les pouvoirs que lui donne la Ve République.
+52;inst;2;-1;Le vote blanc devrait être reconnu comme un suffrage exprimé.
+53;inst;2;-1;Une part de proportionnelle devrait être introduite aux élections législatives.
+54;inst;2;1;L'article 49.3 doit rester à la disposition du gouvernement.
+55;inst;2;-1;Des citoyens tirés au sort devraient participer à l'élaboration des lois.
+56;inst;3;-1;Il faut convoquer une assemblée constituante pour passer à une VIe République.
+57;econ;3;1;Les entreprises créent plus de richesse pour le pays que l'État.
+58;econ;3;-1;Les autoroutes, les aéroports et les barrages devraient appartenir à l'État plutôt qu'à des sociétés privées.
+59;econ;3;1;La durée légale du travail à 35 heures devrait être supprimée.
+60;econ;3;-1;L'écart entre le plus haut et le plus bas salaire d'une entreprise devrait être plafonné par la loi.
+61;econ;3;1;Les syndicats ont aujourd'hui trop de pouvoir en France.
+62;econ;3;-1;Les licenciements devraient être strictement encadrés par la loi.
+63;econ;3;1;Il faut faciliter les licenciements pour encourager les embauches.
+64;econ;3;-1;L'État devrait pouvoir plafonner le prix des produits de première nécessité.
+65;econ;3;1;Les droits de succession devraient être supprimés ou fortement réduits.
+66;econ;3;-1;Les profits exceptionnels des grandes entreprises devraient être taxés.
+67;econ;3;1;La concurrence entre opérateurs privés améliore la qualité des services publics.
+68;econ;3;-1;L'État doit planifier les grands choix de l'économie (industrie, énergie, logement).
+69;econ;3;1;Les revenus du capital devraient être soumis à un impôt unique à taux réduit (flat tax).
+70;econ;3;-1;Les grandes plateformes numériques doivent être fortement taxées et régulées.
+71;econ;3;1;Le travail du dimanche devrait être libéralisé.
+72;econ;3;-1;Le droit de grève ne doit pas être restreint dans les services publics.
+73;econ;3;1;L'État devrait vendre une partie de ses participations dans les entreprises publiques.
+74;econ;3;-1;Une semaine de travail de 32 heures sans perte de salaire est un objectif réaliste.
+75;econ;3;-1;La France devrait protéger davantage son industrie par des droits de douane.
+76;welf;3;1;Chacun est avant tout responsable de sa propre réussite ou de son échec.
+77;welf;3;-1;Les inégalités de revenus sont trop importantes en France.
+78;welf;3;1;Le système de protection sociale français coûte trop cher.
+79;welf;3;-1;Les soins devraient être remboursés à 100 % par la Sécurité sociale.
+80;welf;3;1;Les patients devraient payer une petite participation à chaque consultation pour limiter les abus.
+81;welf;3;-1;Le RSA devrait être augmenté de façon significative.
+82;welf;3;1;L'âge légal de départ à la retraite devrait être reculé pour équilibrer les comptes.
+83;welf;3;-1;La durée de cotisation pour la retraite ne doit pas augmenter, même si cela coûte plus cher à l'État.
+84;welf;3;1;Les allocations familiales devraient être réservées aux familles modestes.
+85;welf;3;-1;Les allocations familiales doivent rester universelles, quel que soit le revenu.
+86;welf;3;1;Les mutuelles et les assurances privées devraient jouer un rôle plus grand dans la santé.
+87;welf;3;-1;Les hôpitaux ne doivent pas être gérés selon une logique de rentabilité.
+88;welf;3;1;Il faut contrôler plus sévèrement les arrêts maladie et les fraudes aux prestations sociales.
+89;welf;3;-1;La fraude fiscale est un problème plus grave que la fraude aux prestations sociales.
+90;welf;3;1;Les jeunes de moins de 25 ans ne devraient pas toucher de minimum social sans contrepartie.
+91;welf;3;-1;L'État devrait garantir un emploi à toute personne qui en cherche un.
+92;welf;3;1;Les universités publiques devraient faire payer des frais d'inscription plus élevés.
+93;welf;3;-1;L'enseignement supérieur doit rester quasi gratuit pour tous.
+94;welf;3;-1;Les aides au logement (APL) doivent être renforcées.
+95;soci;3;-1;Le mariage entre personnes de même sexe a été une bonne évolution pour la société.
+96;soci;3;1;Les racines chrétiennes de la France devraient être davantage mises en avant.
+97;soci;3;-1;L'État doit garantir un accès réel et rapide à l'IVG partout sur le territoire.
+98;soci;3;1;La gestation pour autrui (GPA) doit rester strictement interdite.
+99;soci;3;-1;Les personnes transgenres doivent pouvoir changer d'état civil librement.
+100;soci;3;1;Les traditions françaises (chasse, corrida, gastronomie) doivent être protégées même quand elles sont contestées.
+101;soci;3;-1;Il existe des discriminations structurelles en France qui nécessitent des politiques spécifiques.
+102;soci;3;1;On parle trop des discriminations et pas assez du mérite.
+103;soci;3;-1;L'histoire coloniale de la France devrait être davantage reconnue et enseignée.
+104;soci;3;1;Les signes religieux visibles devraient être interdits à l'université pour les étudiants.
+105;soci;3;-1;L'éducation à la sexualité doit être renforcée à l'école.
+106;soci;3;1;L'école devrait revenir à une discipline plus stricte (uniforme, autorité du professeur).
+107;soci;3;-1;La prostitution devrait être légalisée et encadrée.
+108;soci;3;1;La natalité devrait être encouragée par une politique familiale prioritaire.
+109;soci;3;-1;Les quotas de femmes dans les conseils d'administration et sur les listes électorales sont une bonne chose.
+110;soci;3;1;La société moderne a perdu des repères moraux importants.
+111;soci;3;-1;L'adoption par des couples de même sexe doit être facilitée.
+112;soci;3;1;Les documents administratifs devraient conserver les mentions « père » et « mère ».
+113;soci;3;-1;La société doit accepter plus de diversité dans les modes de vie, même si cela heurte certaines traditions.
+114;euro;3;-1;Les pays européens sont plus forts ensemble face aux États-Unis et à la Chine.
+115;euro;3;1;Bruxelles prend trop de décisions qui devraient revenir aux Français.
+116;euro;3;-1;Certaines décisions de défense devraient être prises au niveau européen.
+117;euro;3;1;La France devrait quitter l'espace Schengen et rétablir des contrôles à toutes ses frontières.
+118;euro;3;-1;Des listes transnationales devraient être créées pour les élections européennes.
+119;euro;3;1;La Commission européenne n'a pas la légitimité démocratique pour imposer des règles aux États.
+120;euro;3;-1;Un salaire minimum européen devrait être instauré.
+121;euro;3;1;La France devrait fixer seule ses règles budgétaires, sans contrainte européenne sur le déficit.
+122;euro;3;-1;L'euro a globalement bénéficié à la France.
+123;euro;3;1;La France devrait de nouveau quitter le commandement intégré de l'OTAN.
+124;euro;3;-1;L'Union européenne devrait avoir une voix unique dans les grandes instances internationales.
+125;euro;3;1;Les agriculteurs français devraient être protégés de la concurrence des autres pays européens.
+126;euro;3;-1;Il faut davantage de décisions à la majorité qualifiée plutôt qu'à l'unanimité dans l'UE.
+127;euro;3;1;La politique d'immigration devrait être décidée uniquement au niveau national.
+128;euro;3;-1;L'Europe doit se doter d'une industrie de défense commune.
+129;euro;3;1;Le Parlement français devrait pouvoir bloquer l'application d'une directive européenne.
+130;euro;3;-1;Les programmes d'échange entre jeunes Européens (Erasmus) devraient être étendus et mieux financés.
+131;euro;3;1;L'Union européenne devrait se limiter à un grand marché commun, sans politiques communes au-delà.
+132;euro;3;-1;Une citoyenneté européenne avec des droits renforcés devrait compléter la citoyenneté nationale.
+133;ecol;3;-1;Le réchauffement climatique est la principale menace pour l'avenir de l'humanité.
+134;ecol;3;1;Le nucléaire doit rester la base de la production d'électricité en France.
+135;ecol;3;-1;Les éoliennes et les panneaux solaires doivent être massivement développés, même près des habitations.
+136;ecol;3;1;L'écologie punitive pénalise surtout les classes populaires et les zones rurales.
+137;ecol;3;-1;Les zones à faibles émissions dans les grandes villes sont une bonne mesure.
+138;ecol;3;1;Les aides à la transition écologique doivent passer après la compétitivité des entreprises.
+139;ecol;3;-1;Les vols intérieurs devraient être interdits quand une alternative en train existe.
+140;ecol;3;1;La chasse et la pêche de loisir doivent être préservées contre de nouvelles restrictions.
+141;ecol;3;-1;Le nombre d'animaux d'élevage devrait être réduit pour limiter les émissions.
+142;ecol;3;1;La France ne doit pas s'imposer des règles climatiques que les autres grands pays ne respectent pas.
+143;ecol;3;-1;La rénovation thermique des logements devrait être obligatoire, avec des aides publiques massives.
+144;ecol;3;1;Les OGM et les nouvelles techniques génomiques devraient être autorisés en agriculture.
+145;ecol;3;-1;Les mégabassines d'irrigation devraient être interdites.
+146;ecol;3;1;Il faut relancer l'exploitation de ressources minières et énergétiques sur le territoire national.
+147;ecol;3;-1;La sobriété (consommer moins) est une condition indispensable de la transition écologique.
+148;ecol;3;1;L'innovation technologique résoudra le problème climatique sans changer nos modes de vie.
+149;ecol;3;-1;Les entreprises doivent être juridiquement responsables de leurs atteintes à l'environnement, y compris à l'étranger.
+150;ecol;3;1;Le zéro artificialisation nette (ZAN) freine trop le développement des communes.
+151;ecol;3;-1;Les transports en commun devraient être gratuits.
+152;immi;3;1;La France accueille plus d'étrangers qu'elle ne peut en intégrer.
+153;immi;3;-1;L'immigration est globalement une chance pour l'économie française.
+154;immi;3;1;Le nombre d'étrangers admis chaque année devrait être fixé par le Parlement ou par référendum.
+155;immi;3;-1;Les demandeurs d'asile devraient pouvoir travailler dès leur arrivée.
+156;immi;3;1;Le regroupement familial devrait être fortement limité.
+157;immi;3;-1;Les mineurs étrangers isolés doivent être pris en charge sans condition.
+158;immi;3;1;Les étrangers en situation irrégulière devraient être renvoyés sans délai.
+159;immi;3;-1;Il faut faciliter l'obtention de la nationalité pour les étrangers qui travaillent et paient des impôts en France.
+160;immi;3;1;Un niveau de français et l'adhésion aux valeurs de la République devraient être exigés pour obtenir un titre de séjour.
+161;immi;3;-1;Le sauvetage en mer des migrants doit rester une priorité.
+162;immi;3;1;Les prestations sociales devraient être réservées en priorité aux Français.
+163;immi;3;-1;Les centres de rétention administrative devraient être fermés.
+164;immi;3;1;La double nationalité devrait être limitée.
+165;immi;3;-1;La diversité culturelle enrichit la société française.
+166;immi;3;1;Les étudiants étrangers devraient payer des frais d'inscription plus élevés.
+167;immi;3;-1;L'immigration de travail doit être développée dans les secteurs qui manquent de main-d'œuvre.
+168;immi;3;1;Les moyens de Frontex et des contrôles aux frontières doivent être fortement renforcés.
+169;immi;3;-1;Aider les pays d'origine à se développer est plus efficace que de fermer les frontières.
+170;immi;3;1;L'assimilation à la culture française doit primer sur le respect des différences.
+171;auth;3;1;La police doit avoir davantage de moyens pour contrôler et sanctionner, même si cela impose plus de contraintes aux citoyens.
+172;auth;3;-1;La prison devrait être le dernier recours : les peines alternatives doivent être privilégiées.
+173;auth;3;1;Des peines planchers doivent être rétablies pour les récidivistes.
+174;auth;3;-1;Les contrôles d'identité doivent être strictement encadrés pour éviter les discriminations.
+175;auth;3;1;L'armée devrait pouvoir intervenir sur le territoire pour des missions de sécurité intérieure.
+176;auth;3;-1;L'usage du LBD et des grenades lors des manifestations devrait être interdit.
+177;auth;3;1;La durée de garde à vue et les pouvoirs d'enquête devraient être étendus pour lutter contre le terrorisme.
+178;auth;3;-1;L'État de droit doit être respecté même face à une menace terroriste.
+179;auth;3;1;Les peines pour atteinte aux forces de l'ordre devraient être alourdies.
+180;auth;3;-1;Les données personnelles des citoyens ne devraient jamais être collectées sans l'autorisation d'un juge.
+181;auth;3;1;Les parents de mineurs délinquants devraient être sanctionnés financièrement.
+182;auth;3;-1;La légalisation de certaines drogues réduirait plus la criminalité que la répression.
+183;auth;3;1;La vidéosurveillance devrait être généralisée dans l'espace public.
+184;auth;3;-1;La liberté d'expression doit être protégée, même pour des propos choquants ou offensants.
+185;auth;3;1;Les réseaux sociaux devraient obliger leurs utilisateurs à prouver leur identité.
+186;auth;3;-1;Les citoyens ont le droit de désobéir pour défendre une cause qu'ils jugent juste.
+187;auth;3;1;L'état d'urgence devrait pouvoir être déclaré plus facilement en cas de troubles graves.
+188;auth;3;-1;Les magistrats doivent rester totalement indépendants du pouvoir politique.
+189;auth;3;1;Les multirécidivistes devraient être incarcérés plus longtemps, même pour des délits mineurs.
+190;inst;3;-1;Les parlementaires devraient être limités à un seul mandat à la fois et à un nombre limité de mandats successifs.
+191;inst;3;1;L'élection du Président de la République au suffrage universel direct doit être conservée.
+192;inst;3;-1;Le Sénat devrait être supprimé ou profondément réformé.
+193;inst;3;1;Le Conseil constitutionnel doit conserver son rôle actuel.
+194;inst;3;-1;Les citoyens devraient pouvoir révoquer un élu en cours de mandat par référendum.
+195;inst;3;1;Un Président fort est nécessaire à la stabilité de la France.
+196;inst;3;-1;Le vote devrait être obligatoire.
+197;inst;3;1;Le mandat présidentiel doit rester aligné sur celui des députés.
+198;inst;3;-1;Le droit de vote devrait être accordé dès 16 ans.
+199;inst;3;1;Les partis politiques traditionnels restent les meilleurs véhicules de la démocratie.
+200;inst;3;-1;Une condamnation pour corruption ou détournement de fonds publics devrait entraîner une inéligibilité automatique.
+201;inst;3;1;Le Président doit pouvoir dissoudre l'Assemblée nationale quand il le juge nécessaire.
+202;inst;3;-1;Les médias publics devraient être totalement indépendants du pouvoir politique.
+203;inst;3;1;L'État central doit garder la main sur la plupart des politiques publiques, plutôt que de les confier aux régions.
+204;inst;3;-1;Les régions devraient disposer de beaucoup plus d'autonomie.
+205;inst;3;1;Le référendum est un outil dangereux, à utiliser avec prudence.
+206;inst;3;-1;Les lobbyistes devraient être soumis à un registre public contraignant.
+207;inst;3;1;Le scrutin majoritaire à deux tours garantit des majorités stables.
+208;inst;3;-1;Le Président de la République devrait pouvoir être mis en cause plus facilement devant la justice.

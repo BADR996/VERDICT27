@@ -1,0 +1,5 @@
+﻿type;date;institut;echantillon;scenario;candidat;score
+#EXEMPLE 1er tour;2026-10-30;Ifop;1500;1;marine-le-pen;35
+#EXEMPLE 1er tour;2026-10-30;Ifop;1500;1;edouard-philippe;16
+#EXEMPLE 2nd tour;2026-10-30;Ifop;1500;1;marine-le-pen;56
+#EXEMPLE 2nd tour;2026-10-30;Ifop;1500;1;edouard-philippe;44

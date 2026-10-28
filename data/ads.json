@@ -1,0 +1,24 @@
+{
+  "_aide": "Publicité : désactivée par défaut. Mettre enabled à true, puis coller dans « html » de chaque emplacement le code fourni par votre régie (balise <ins>, <script>…). Voir GUIDE-LANCEMENT.md. Jamais d'emplacement pendant les questions du test.",
+  "enabled": false,
+  "consent": "builtin",
+  "_consent": "builtin = bandeau intégré (accepter/refuser). external = vous installez un CMP certifié (obligatoire pour AdSense dans l'EEE) via headScript : le bandeau intégré n'apparaît pas.",
+  "headScript": "",
+  "slots": {
+    "news": {
+      "label": "Publicité",
+      "html": "",
+      "minHeight": 250
+    },
+    "between": {
+      "label": "Publicité",
+      "html": "",
+      "minHeight": 120
+    },
+    "result": {
+      "label": "Publicité",
+      "html": "",
+      "minHeight": 250
+    }
+  }
+}

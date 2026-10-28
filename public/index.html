@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>verdict27 — sondages de la présidentielle et test politique</title>
+  <meta name="description" content="Les sondages de la présidentielle 2027 à jour dès leur parution, tous les duels de second tour, et un test pour savoir où vous vous situez.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 20'%3E%3Crect width='10' height='20' fill='%230055a4'/%3E%3Crect x='10' width='10' height='20' fill='%23fff'/%3E%3Crect x='20' width='10' height='20' fill='%23d7000f'/%3E%3C/svg%3E">
+  <link rel="preload" href="fonts/bricolage-grotesque-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/figtree-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top"><span class="flag" aria-hidden="true"><i></i><i></i><i></i></span>verdict27</a>
+    <nav aria-label="Sections">
+      <a href="#sondages">Sondages</a>
+      <a href="#evolution">Évolution</a>
+      <a href="#duels">Second tour</a>
+      <a href="#test">Test</a>
+    </nav>
+    <a class="btn primary" href="#test">Faire le test</a>
+  </header>
+  <div class="tricolor" aria-hidden="true"><i></i><i></i><i></i></div>
+
+  <main id="top">
+    <div class="page-body">
+      <div class="page-main">
+    <!-- ============ ACCUEIL ============ -->
+    <section class="hero" id="hero">
+      <div class="wrap hero-grid">
+        <div class="hero-copy">
+          <h1>2027 : qui est devant, et où vous situez-vous&nbsp;?</h1>
+          <p class="hero-lead">Tous les sondages de la présidentielle, l'évolution de chaque candidat, tous les duels de second tour. Et un test pour découvrir vos positions.</p>
+          <a class="hero-test" href="#test" id="hero-test">
+            <span class="ht-ic" aria-hidden="true">🗳️</span>
+            <span class="ht-tx"><strong>Fais le test : quel candidat te ressemble ?</strong><small>Express en 2 minutes (8 questions) ou test complet · résultat par thème et par candidat</small></span>
+            <span class="ht-go" aria-hidden="true">→</span>
+          </a>
+          <div class="hero-cta">
+            <a class="btn ghost-light" href="#sondages">Voir les sondages</a>
+            <a class="btn ghost-light" href="#duels">Voter pour un duel</a>
+          </div>
+          <a class="hero-last" id="hero-last" href="#sondages" hidden></a>
+          <div class="hero-stats" id="hero-stats" aria-live="polite"></div>
+        </div>
+        <aside class="hero-card" aria-label="En tête des sondages">
+          <h2>En tête des sondages</h2>
+          <p class="muted small" id="hero-sub">Chargement…</p>
+          <div class="podium" id="podium"></div>
+          <p class="cap muted small" id="podium-cap"></p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ APERÇU DU TEST ============ -->
+    <section class="teaser" id="teaser" aria-labelledby="teaser-h">
+      <div class="wrap">
+        <div class="teaser-card">
+          <div class="teaser-copy">
+            <span class="kicker">Le test</span>
+            <h2 id="teaser-h">Découvre quel candidat est le plus proche de toi</h2>
+            <p>Réponds à des phrases du genre « d'accord » ou « pas d'accord », thème par thème. À la fin : ton candidat le plus proche, ton accord sur chaque thème et ton profil comparé aux autres.</p>
+            <div class="teaser-tiers">
+              <a href="#test" data-go="express"><b>Express</b><span>8 questions · 2 min</span></a>
+              <a href="#test" data-go="quick"><b>Rapide</b><span>20 questions · 3 min</span></a>
+              <a href="#test" data-go="medium"><b>Moyen</b><span>50 questions · 8 min</span></a>
+              <a href="#test" data-go="full"><b>Précis</b><span>200+ questions · 25 min</span></a>
+            </div>
+            <a class="btn primary big" href="#test">Commencer le test</a>
+            <p class="small muted" style="margin:10px 0 0">Anonyme : rien n'est enregistré sans ton accord.</p>
+          </div>
+          <div class="teaser-demo" id="teaser-demo" aria-label="Exemple de résultat (fictif)"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ SONDAGES ============ -->
+    <section id="sondages" class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Les sondages du premier tour</h2>
+            <p class="muted" id="polls-meta">Chargement…</p>
+          </div>
+        </div>
+
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-head">
+              <h3>La moyenne des sondages</h3>
+              <div class="seg" id="avg-range" role="group" aria-label="Période de la moyenne">
+                <button type="button" data-d="30" aria-pressed="false">30 j</button>
+                <button type="button" data-d="60" aria-pressed="true">60 j</button>
+                <button type="button" data-d="90" aria-pressed="false">90 j</button>
+              </div>
+            </div>
+            <label class="switch"><input type="checkbox" id="zero-mode" checked><span>Compter 0&nbsp;% quand un candidat n'est pas testé</span></label>
+            <p class="muted small" id="avg-note"></p>
+            <ol class="rank" id="rank"></ol>
+            <div id="orient-box" hidden>
+              <h4 class="orient-h">Par orientation</h4>
+              <div class="orient-bar" id="orient-bar" role="img" aria-label="Répartition des intentions de vote par orientation"></div>
+              <ul class="orient-legend" id="orient-legend"></ul>
+            </div>
+          </div>
+
+          <div class="card lastpoll">
+            <div class="card-head"><h3 id="last-title">Dernier sondage</h3></div>
+            <p class="muted small meta" id="last-meta"></p>
+            <div class="bars" id="last-bars"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-head">
+            <div>
+              <h3>Tous les sondages</h3>
+              <p class="muted small" style="margin:4px 0 0">Pour chaque sondage, le scénario qui teste le plus de candidats. Cliquez sur « scénarios » pour voir les autres.</p>
+            </div>
+            <label class="switch"><input type="checkbox" id="all-cols"><span>Afficher tous les candidats (par défaut : les 14 premiers)</span></label>
+          </div>
+          <div class="table-wrap"><table id="polls-table" class="polls"></table></div>
+          <div class="table-actions"><button class="btn small" id="more-polls" type="button" hidden>Afficher plus de sondages</button></div>
+        </div>
+      </div>
+    </section>
+    <div class="wrap"><div class="ad-slot" data-ad="between" hidden></div></div>
+
+    <!-- ============ ÉVOLUTION ============ -->
+    <section id="evolution" class="section alt">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>L'évolution dans le temps</h2>
+            <p class="muted">Choisissez qui afficher et sur quelle période. Les points sont les sondages, la ligne est la tendance (moyenne lissée).</p>
+          </div>
+          <div class="seg" id="evo-mode" role="group" aria-label="Type de graphique">
+            <button type="button" data-m="first" aria-pressed="true">Premier tour</button>
+            <button type="button" data-m="orient" aria-pressed="false">Par orientation</button>
+            <button type="button" data-m="duel" aria-pressed="false">Un duel de second tour</button>
+          </div>
+        </div>
+        <div class="card">
+          <div class="field" id="evo-duel-wrap" hidden><label class="sr-only" for="evo-duel">Duel</label><select id="evo-duel"></select></div>
+          <div class="chips" id="evo-chips" role="group" aria-label="Candidats affichés"></div>
+          <div class="chart-controls">
+            <div class="seg" id="evo-range" role="group" aria-label="Période">
+              <button type="button" data-r="30" aria-pressed="false">1 mois</button>
+              <button type="button" data-r="90" aria-pressed="false">3 mois</button>
+              <button type="button" data-r="180" aria-pressed="false">6 mois</button>
+              <button type="button" data-r="365" aria-pressed="false">1 an</button>
+              <button type="button" data-r="0" aria-pressed="false">Tout</button>
+              <button type="button" data-r="-1" aria-pressed="true" title="Adapte la période aux candidats affichés">Ajusté</button>
+            </div>
+            <div class="dates">
+              <label>Du <input type="date" id="evo-from"></label>
+              <label>au <input type="date" id="evo-to"></label>
+            </div>
+          </div>
+          <div class="chart-box" id="evo-box"><svg id="evo-svg" role="img" aria-label="Graphique d'évolution des sondages"></svg><div class="chart-tip" id="evo-tip" hidden></div></div>
+          <p class="muted small" id="evo-note"></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ DUELS ============ -->
+    <section id="duels" class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Second tour : tous les duels</h2>
+            <p class="muted">Chaque case est un duel possible, colorée selon le candidat qui devance dans les sondages. Cliquez sur une case pour voir le duel et voter.</p>
+          </div>
+        </div>
+        <div class="duel-layout">
+          <div class="card">
+            <div class="mx-bar">
+            <div class="seg" id="mx-size" role="group" aria-label="Nombre de candidats dans la grille">
+              <button type="button" data-n="10" aria-pressed="true">Top 10</button>
+              <button type="button" data-n="15" aria-pressed="false">Top 15</button>
+            </div>
+            <button class="btn small mx-pick-btn" id="mx-pick-btn" type="button" aria-expanded="false" aria-controls="mx-picker"><span aria-hidden="true">＋</span> Ajouter ou retirer des candidats</button>
+            <div class="seg" id="mx-mode" role="group" aria-label="Contenu de la grille">
+              <button type="button" data-m="polls" aria-pressed="true">Sondages</button>
+              <button type="button" data-m="votes" aria-pressed="false">Votes des visiteurs</button>
+            </div>
+            </div>
+            <div class="mx-picker" id="mx-picker" hidden></div>
+            <div class="matrix-wrap"><div class="matrix" id="matrix"></div></div>
+            <div class="legend" id="mx-legend"></div>
+          </div>
+          <div class="card duel-panel" id="duel-panel"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ TEST ============ -->
+    <section id="test" class="section alt">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>Le test politique</h2>
+            <p class="muted">Dites si vous êtes d'accord avec chaque phrase. Les questions sont rangées par thème : vous choisissez par où commencer, et vous pouvez changer de thème à tout moment.</p>
+          </div>
+        </div>
+
+        <!-- 1 : préparation -->
+        <div id="quiz-setup">
+          <div class="card contrib-pre" id="contrib-pre">
+            <div class="cp-head">
+              <div>
+                <span class="badge">Facultatif</span>
+                <h3>Aidez à construire un consensus</h3>
+                <p class="muted">Avant de commencer : quelques infos anonymes (âge, territoire…) permettent d'étudier comment les opinions varient. Vous pouvez aussi le faire à la fin, ou pas du tout.</p>
+              </div>
+              <button class="btn blue small" id="contrib-open" type="button" aria-expanded="false" aria-controls="contrib-slot">Je participe</button>
+            </div>
+            <div id="contrib-slot" hidden>
+          <form class="contrib pre" id="contrib" novalidate>
+            <h3 class="res-h">Aidez à construire un consensus</h3>
+            <p>En partageant vos réponses et quelques informations sur vous, vous nous aidez à étudier comment les opinions varient selon l'âge, le revenu, le territoire ou le parcours, et à produire des estimations plus représentatives que de simples moyennes. <strong>Tout est facultatif.</strong> Pas de nom, pas d'e-mail, pas d'adresse IP enregistrés.</p>
+            <div class="progress-line"><span id="contrib-count">0 réponse</span><div class="progress"><div id="contrib-bar"></div></div></div>
+            <div id="contrib-sections"></div>
+            <label class="check"><input type="checkbox" id="consent"><span><strong>J'accepte</strong> que mes réponses au test (qui révèlent des opinions politiques, une donnée sensible) et les informations du bloc « Vous » soient enregistrées, sans nom ni e-mail, pour des statistiques. Je peux les supprimer à tout moment avec mon code.</span></label>
+            <label class="check" id="consent-sens-wrap"><input type="checkbox" id="consent-sens"><span><strong>J'accepte en plus</strong> l'enregistrement des informations sensibles que j'ai remplies dans les blocs « Votre rapport à la politique » et « Votre parcours ». Sans cette case, ces champs ne sont pas envoyés.</span></label>
+            <p class="muted small"><a href="confidentialite.html" target="_blank" rel="noopener">Lire comment vos données sont traitées</a></p>
+            <p class="error" id="contrib-error" role="alert" hidden></p>
+            <p class="muted small pre-note">Vos réponses ne partent qu'à la fin du test, et seulement si la case de consentement est cochée.</p>
+            <button class="btn blue" id="contrib-send" type="submit">Envoyer ma contribution</button>
+          </form>
+            </div>
+          </div>
+          <ol class="steps" aria-label="Étapes">
+            <li class="on" id="step-1"><span>1</span>Combien de temps avez-vous&nbsp;?</li>
+            <li id="step-2"><span>2</span>Par quel thème commencer&nbsp;?</li>
+          </ol>
+          <p class="muted small" id="actu-link" hidden><a href="#actualite">Nouveau : « Actualité du mois », 8 questions facultatives sur les événements récents (guerre, énergie, lycées, maintien de l'ordre, racisme).</a></p>
+          <div class="tiers" id="tier-buttons"></div>
+          <div id="theme-pick" hidden>
+            <div class="theme-grid" id="theme-grid"></div>
+            <div class="start-row"><button class="btn small" id="theme-all" type="button">Je commence dans l'ordre</button><span class="muted small">Vos réponses ne sont pas enregistrées, sauf si vous choisissez de contribuer à la fin.</span></div>
+          </div>
+        </div>
+
+        <!-- 2 : questions -->
+        <div id="quiz-run" class="quiz-layout" hidden>
+          <div class="theme-nav" id="theme-nav" role="group" aria-label="Thèmes"></div>
+          <div class="quiz-card" id="quiz-card">
+            <div class="quiz-top">
+              <span class="th" id="q-theme"></span>
+              <span class="small muted" id="progress-text" aria-live="polite"></span>
+            </div>
+            <div class="progress" role="progressbar" aria-label="Avancement dans ce thème" aria-valuemin="0" aria-valuemax="100" id="progress"><div id="progress-bar"></div></div>
+            <h3 id="question-text" class="question" tabindex="-1"></h3>
+            <div id="answer-buttons" class="answers" role="group" aria-label="Votre réponse"></div>
+            <div class="nav-row">
+              <button id="btn-prev" class="btn small" type="button">Précédente</button>
+              <button id="btn-skip" class="link" type="button">Passer cette question</button>
+            </div>
+            <p class="muted small keys">Astuce : touches 1 à 5 du clavier, flèche gauche pour revenir.</p>
+          </div>
+          <div class="quiz-card" id="theme-done" hidden></div>
+          <div class="table-actions"><button class="link" id="btn-quit" type="button">Quitter le test (votre progression est gardée)</button><button class="btn small" id="btn-finish-now" type="button">Voir mon profil maintenant</button></div>
+        </div>
+
+        <!-- 3 : résultats -->
+        <div id="quiz-result" hidden>
+          <div class="card">
+            <h3 id="result-title">Votre résultat</h3>
+            <p id="result-summary" class="muted" style="margin:6px 0 0"></p>
+            <div id="match-box" hidden>
+              <div class="best" id="best"></div>
+              <p class="muted small" id="match-note"></p>
+              <ol class="matches" id="matches"></ol>
+              <div class="seg" id="match-size" role="group" aria-label="Nombre de candidats affichés" hidden>
+                <button type="button" data-all="0" aria-pressed="true">Top 12</button>
+                <button type="button" data-all="1" aria-pressed="false" id="match-all">Tous les candidats</button>
+              </div>
+            </div>
+            <div id="history" class="history card" hidden></div>
+            <h3 class="sub" id="profile-title">Votre profil par thème</h3>
+            <p class="muted small" id="profile-note" style="margin:4px 0 0"></p>
+            <div class="result-grid">
+              <div class="radar-wrap" id="radar"></div>
+              <div id="result-bars"></div>
+            </div>
+            <p class="muted small" style="margin-top:20px">Résultat indicatif : il dépend de la formulation des questions et du nombre de réponses. Ce n'est pas un jugement sur vos opinions.</p>
+            <div class="result-actions">
+              <button class="btn blue" id="btn-card" type="button">Image à partager</button>
+              <button class="btn blue" id="btn-share" type="button">Copier le lien</button>
+              <a class="btn" href="#duels">Voter dans les duels</a>
+              <button class="btn primary" id="btn-refine" type="button" hidden>Affiner mon résultat</button>
+              <button class="btn" id="btn-restart" type="button">Refaire un test</button>
+            </div>
+          </div>
+
+          <div class="ad-slot" data-ad="result" hidden></div>
+          <div id="contrib-result-slot"></div>
+
+          <div class="card" id="contrib-done" hidden>
+            <h3>Merci, votre contribution compte</h3>
+            <p>Vos réponses sont enregistrées sans nom ni e-mail. Conservez ce code : il permet de les supprimer.</p>
+            <p><code id="contrib-code"></code></p>
+            <button class="btn" id="contrib-delete" type="button">Supprimer mes réponses</button>
+            <p class="muted small" id="contrib-deleted" hidden>Vos réponses ont été supprimées.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ============ ACTUALITÉ DU MOIS ============ -->
+    <section id="actualite" class="section" aria-labelledby="actu-h" hidden>
+      <div class="wrap">
+        <div class="card actu">
+          <div class="actu-head">
+            <div>
+              <span class="badge">Facultatif · hors du résultat principal</span>
+              <h2 id="actu-h">Actualité du mois</h2>
+              <p class="muted" id="actu-intro"></p>
+            </div>
+            <button class="btn blue" id="actu-open" type="button" aria-expanded="false" aria-controls="actu-body">Répondre (1 min)</button>
+          </div>
+          <div id="actu-body" hidden>
+            <ul class="actu-ctx" id="actu-ctx"></ul>
+            <ol class="actu-qs" id="actu-qs"></ol>
+            <div class="actu-actions"><button class="btn primary" id="actu-go" type="button" disabled>Voir ce que disent les candidats</button><span class="muted small" id="actu-count">0 réponse sur 8</span></div>
+            <div id="actu-res" aria-live="polite"></div>
+            <p class="muted small">Les positions des candidats viennent de déclarations publiques sourcées (lien sur chaque candidat). Quand aucune déclaration n'a été trouvée, la case reste vide : ce n'est pas un désaccord. Rien de ce que vous répondez ici n'est enregistré.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ ALERTE MENSUELLE ============ -->
+    <section id="alertes" class="section" hidden>
+      <div class="wrap">
+        <div class="alert-card">
+          <div class="alert-copy">
+            <span class="kicker">Une fois par mois</span>
+            <h2>Reçois ce qui a bougé dans les sondages</h2>
+            <p>Un e-mail par mois : qui monte, qui baisse, le duel probable. Pas de publicité, et tu te désinscris en un clic.</p>
+          </div>
+          <form id="sub-form" novalidate>
+            <label class="sr-only" for="sub-email">Adresse e-mail</label>
+            <div class="sub-row"><input id="sub-email" name="email" type="email" inputmode="email" autocomplete="email" placeholder="ton@adresse.fr" required><button class="btn primary" id="sub-send" type="submit">Je m'abonne</button></div>
+            <input class="hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+            <label class="check"><input type="checkbox" id="sub-consent"><span>J'accepte de recevoir cette alerte mensuelle par e-mail. Je confirmerai mon adresse via un message de vérification. <a href="confidentialite.html#alerte" target="_blank" rel="noopener">Comment ma donnée est traitée</a></span></label>
+            <p class="small" id="sub-msg" role="status" aria-live="polite"></p>
+          </form>
+        </div>
+      </div>
+    </section>
+      </div>
+      <aside class="news" id="news" aria-labelledby="news-h">
+        <div class="news-in">
+          <div class="news-head">
+            <h2 id="news-h">À la une</h2>
+            <span class="news-live" id="news-live">présidentielle 2027</span>
+          </div>
+          <div class="news-chips" id="news-chips" role="group" aria-label="Filtrer par candidat cité"></div>
+          <ol class="news-list" id="news-list" aria-live="polite"><li class="news-skel"><i></i><i></i><i></i></li><li class="news-skel"><i></i><i></i><i></i></li><li class="news-skel"><i></i><i></i><i></i></li></ol>
+          <div class="ad-slot" data-ad="news" hidden></div>
+          <p class="news-foot" id="news-foot">Titres et liens des médias cités, classés par date. Les articles appartiennent à leurs éditeurs.</p>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <p>Sondages repris de <a id="source-link" href="https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027" target="_blank" rel="noopener">Wikipédia</a> et actualisés automatiquement. Un sondage n'est pas une prévision : consultez les notices des instituts et celle de la Commission des sondages.</p>
+      <p><a href="/candidats">Tous les candidats</a> · <a href="/methode.html">Méthode et sources</a> · <a href="/mentions-legales.html">Mentions légales</a> · <a href="/donnees-ouvertes.html">Données ouvertes</a> · <a href="/sitemap.xml">Plan du site</a><span id="ads-manage-wrap" hidden> · <button class="link" id="ads-manage" type="button">Gérer mes choix publicitaires</button></span></p>
+      <p>Photos : Wikimédia Commons, sous leurs licences respectives. Polices : Bricolage Grotesque et Figtree (licence OFL). <a href="confidentialite.html">Confidentialité et données</a></p>
+    </div>
+  </footer>
+  <div class="consent-bar" id="consent-bar" role="dialog" aria-modal="false" aria-labelledby="consent-t" hidden>
+    <div><strong id="consent-t">Publicité et vie privée</strong><p>Ce site finance son hébergement avec de la publicité. Avec votre accord, nos partenaires peuvent utiliser des cookies pour afficher des annonces. Vous pouvez refuser aussi simplement qu'accepter, et changer d'avis à tout moment. <a href="confidentialite.html#publicite">En savoir plus</a></p></div>
+    <div class="consent-btns"><button class="btn" id="consent-no" type="button">Refuser</button><button class="btn" id="consent-yes" type="button">Accepter</button></div>
+  </div>
+  <a class="btn primary cta-float" href="#test" id="cta-float">Faire le test</a>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
