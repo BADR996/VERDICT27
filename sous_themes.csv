@@ -1,0 +1,38 @@
+﻿code;theme;nom;pole_negatif;pole_positif
+econ-fisc;econ;Fiscalité et patrimoine;Taxer davantage les hauts revenus et le capital;Alléger les impôts et le capital
+econ-etat;econ;Rôle de l'État et services publics;Plus d'État, de public et de planification;Moins d'État, privatisation
+econ-trav;econ;Travail, salaires et syndicats;Protéger les salariés;Flexibiliser le travail
+econ-marc;econ;Marché, prix et protection;Réguler et protéger;Laisser faire le marché
+welf-ret;welf;Retraites;Retraite tôt, répartition;Travailler plus longtemps, capitalisation
+welf-sante;welf;Santé;Santé publique et gratuite;Plus de privé et de participation
+welf-aide;welf;Aides sociales et contreparties;Aides inconditionnelles et renforcées;Contreparties et contrôle
+welf-fam;welf;Famille et logement;Aides universelles, logement social;Aides ciblées
+welf-ineg;welf;Inégalités et responsabilité;Les inégalités sont structurelles;Chacun responsable de sa réussite
+welf-sup;welf;Enseignement supérieur;Quasi gratuit pour tous;Frais plus élevés
+soci-bio;soci;Bioéthique et fin de vie;Droits élargis (PMA, IVG, euthanasie, GPA);Encadrement strict
+soci-genre;soci;Familles, genre et mœurs;Pluralité des modèles et des modes de vie;Famille traditionnelle et repères
+soci-ecole;soci;École et transmission;École d'émancipation et d'éducation à la sexualité;École d'autorité et de récit national
+soci-laic;soci;Laïcité, religion et traditions;Laïcité stricte, traditions non protégées;Racines chrétiennes et traditions à protéger
+soci-div;soci;Identité, diversité et mémoire;Reconnaître discriminations et histoire coloniale;Priorité au mérite et au récit national
+euro-integ;euro;Intégration et institutions de l'UE;Plus d'Europe fédérale;Moins de pouvoirs à l'UE
+euro-sov;euro;Souveraineté et primauté du droit;Droit européen respecté;Primauté nationale, sortie possible
+euro-eco;euro;Euro, économie et agriculture;Politiques économiques communes;Autonomie budgétaire et protection nationale
+euro-def;euro;Défense, puissance et frontières;Défense et diplomatie européennes;Défense nationale, frontières nationales
+ecol-clim;ecol;Climat et ambition;Urgence climatique, sobriété, planification;Croissance d'abord, pas de règles seul
+ecol-ener;ecol;Énergie;Renouvelables massives;Nucléaire et ressources nationales
+ecol-agri;ecol;Agriculture et vivant;Agroécologie, moins d'élevage, pas d'OGM;Productivisme, chasse, OGM, irrigation
+ecol-norm;ecol;Normes et économie;Responsabilité environnementale des entreprises;Moins de normes, compétitivité d'abord
+ecol-mob;ecol;Mobilité et logement;Transports collectifs, rénovation obligatoire;Liberté de se déplacer, pas d'interdiction
+immi-flux;immi;Volume et régulation des flux;Ouvrir, quotas souples;Réduire fortement
+immi-asile;immi;Asile et accueil;Accueil inconditionnel, régularisation;Accueil restreint
+immi-exp;immi;Expulsions et frontières;Droits des personnes retenues;Expulsions systématiques, frontières fermes
+immi-nat;immi;Nationalité et intégration;Naturalisation facilitée, diversité enrichissante;Assimilation, conditions strictes
+immi-eco;immi;Impact économique et social;L'immigration est une chance, aider les pays d'origine;Préférence nationale
+auth-peine;auth;Peines et justice pénale;Alternatives à la prison;Peines plus lourdes
+auth-pol;auth;Police, armée et maintien de l'ordre;Police contrôlée, usage de la force encadré;Police et armée renforcées
+auth-surv;auth;Surveillance et sécurité intérieure;Vie privée protégée;Surveillance et pouvoirs d'enquête étendus
+auth-lib;auth;Libertés et État de droit;Libertés individuelles et désobéissance;Ordre et autorité
+inst-dir;inst;Démocratie directe et citoyenne;Référendums, tirage au sort, révocation;Démocratie représentative
+inst-pres;inst;Président et Ve République;VIe République, moins de pouvoirs présidentiels;Président fort, Ve République
+inst-parl;inst;Parlement, élections et partis;Proportionnelle, Sénat réformé, renouvellement;Scrutin majoritaire, institutions actuelles
+inst-terr;inst;Territoires et contre-pouvoirs;Autonomie régionale, médias indépendants;État central

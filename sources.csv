@@ -1,0 +1,20 @@
+﻿nom;url;actif;resume;images
+# images : oui / non (par défaut non). « oui » affiche la miniature fournie par le flux : à activer seulement si les conditions du média l'autorisent.
+# Médias dont le fil RSS est lu pour la colonne « À la une ». Une ligne = un média. actif : oui / non. resume : oui / non (afficher l'extrait fourni par le flux).
+# Ces adresses sont les flux habituels des rubriques politique ; les médias les déplacent parfois : lancez « npm run update-news » pour voir ceux qui répondent.
+# Variez les sensibilités : la colonne classe uniquement par date, sans mise en avant.
+franceinfo;https://www.francetvinfo.fr/politique.rss;oui;oui;non
+Le Monde;https://www.lemonde.fr/politique/rss_full.xml;oui;oui;non
+Le Figaro;https://www.lefigaro.fr/rss/figaro_politique.xml;oui;oui;non
+Libération;https://www.liberation.fr/arc/outboundfeeds/rss-all/category/politique/?outputType=xml;oui;oui;non
+Le Parisien;https://feeds.leparisien.fr/leparisien/rss/politique;oui;oui;non
+Les Échos;https://www.lesechos.fr/rss/rss_politique.xml;oui;oui;non
+Le Point;https://www.lepoint.fr/politique/rss.xml;oui;oui;non
+L'Express;https://www.lexpress.fr/arc/outboundfeeds/rss/alaune.xml;oui;oui;non
+L'Humanité;https://www.humanite.fr/politique.rss;oui;oui;non
+La Croix;https://www.la-croix.com/RSS/WMGP_POL;oui;oui;non
+BFMTV;https://www.bfmtv.com/rss/politique/;oui;oui;non
+France 24;https://www.france24.com/fr/france/rss;oui;oui;non
+RFI;https://www.rfi.fr/fr/france/rss;oui;oui;non
+20 Minutes;https://www.20minutes.fr/feeds/rss-politique.xml;oui;oui;non
+Ouest-France;https://www.ouest-france.fr/rss/politique;non;oui;non

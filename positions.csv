@@ -1,0 +1,209 @@
+﻿id;theme;texte;marine-le-pen;jean-luc-melenchon;edouard-philippe;raphael-glucksmann;gabriel-attal;bruno-retailleau;david-lisnard;eric-zemmour;marine-tondelier;fabien-roussel;nicolas-dupont-aignan;nathalie-arthaud;dominique-de-villepin;francois-hollande;jordan-bardella;francois-ruffin;jean-lassalle;francois-asselineau;delphine-batho;olivier-becht;augustin-billetdoux;karim-bouamrane;juan-branco;christian-collovati;sylvain-pierre-durif;clara-egger;anasse-kazib;selma-labib;francis-lalanne;jean-francois-legendre;mira-markovic;benoit-mathieu;antoine-mikolajczak;manolo-mlekuz;florian-philippot;gilles-platret;natacha-polony;erwan-rohou
+1;econ;Il faut baisser les impôts sur les entreprises pour stimuler l'emploi.;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+2;econ;"L'État doit posséder les grands secteurs stratégiques (énergie, transports, banques).";2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+3;econ;Le marché fixe mieux les prix et les salaires que la réglementation.;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+4;econ;"Le SMIC doit être nettement augmenté, même si cela pèse sur les petites entreprises.";2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+5;econ;Il faut réduire le nombre de fonctionnaires.;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+6;econ;Les grandes fortunes doivent être davantage taxées (impôt sur la fortune renforcé).;2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+7;econ;"Pour réduire la dette, il faut baisser les dépenses de l'État, quitte à avoir moins de services publics.";4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+8;welf;La retraite à 60 ans doit redevenir possible pour tous.;2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+9;welf;Les allocations chômage devraient être plus strictement limitées dans le temps.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+10;welf;La santé et l'éducation doivent rester entièrement publiques et gratuites.;2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+11;welf;Les bénéficiaires d'aides sociales devraient devoir exercer une activité en contrepartie.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+12;welf;Un revenu universel doit être instauré.;2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+13;welf;La retraite par capitalisation devrait compléter ou remplacer la retraite par répartition.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+14;welf;"Le logement social doit être massivement développé, y compris via des quotas contraignants pour les communes.";2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+15;soci;L'accès à la procréation médicalement assistée doit être ouvert à toutes les femmes.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+16;soci;La famille traditionnelle doit être davantage soutenue que les autres modèles familiaux.;4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+17;soci;L'aide active à mourir (euthanasie) doit être légalisée.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+18;soci;L'école doit davantage transmettre un récit national valorisant.;4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+19;soci;Les institutions publiques devraient encourager un langage plus inclusif.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+20;soci;L'école ne devrait pas aborder les questions d'identité de genre.;4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+21;soci;Le cannabis devrait être dépénalisé.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+22;euro;"La France doit approfondir l'intégration européenne, jusqu'à un budget et une armée communs.";2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+23;euro;Les lois françaises doivent primer sur le droit européen.;4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+24;euro;La France devrait retrouver une monnaie nationale.;4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+25;euro;L'Union européenne devrait pouvoir lever des impôts propres.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+26;euro;"La France devrait renégocier les traités européens, quitte à ne pas appliquer certaines règles.";4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+27;euro;L'élargissement de l'UE à de nouveaux pays est une bonne chose.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+28;euro;La France devrait sortir de l'Union européenne.;4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+29;ecol;"L'urgence climatique justifie des restrictions fortes (voitures thermiques, vols courts, consommation de viande).";2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+30;ecol;Les normes environnementales pénalisent trop l'agriculture et l'industrie françaises.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+31;ecol;"Il faut interdire les pesticides de synthèse, même si les rendements agricoles baissent.";2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+32;ecol;La croissance économique est plus importante que la lutte contre le réchauffement climatique.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+33;ecol;"Une taxe carbone aux frontières et sur les gros pollueurs doit être instaurée, même au détriment de la compétitivité.";2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+34;ecol;Les grands projets d'infrastructure ne doivent pas être bloqués par des recours environnementaux.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+35;ecol;L'État doit planifier la sortie des énergies fossiles d'ici 2040.;2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+36;immi;Il faut réduire fortement l'immigration légale.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+37;immi;La France devrait régulariser les travailleurs sans-papiers installés depuis plusieurs années.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+38;immi;Les étrangers condamnés doivent être expulsés systématiquement.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+39;immi;Le droit du sol automatique doit être supprimé.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+40;immi;La France doit accueillir davantage de réfugiés fuyant les guerres.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+41;immi;L'aide médicale d'État devrait être supprimée ou fortement restreinte.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+42;immi;Les étrangers résidant régulièrement en France devraient pouvoir voter aux élections locales.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+43;auth;Les peines de prison doivent être alourdies pour la délinquance du quotidien.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+44;auth;"La police devrait être davantage contrôlée, y compris par des instances indépendantes.";2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+45;auth;Le service national obligatoire devrait être rétabli.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+46;auth;"La surveillance de masse (caméras, reconnaissance faciale) est une menace pour les libertés.";2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+47;auth;Les mineurs délinquants devraient être jugés comme des adultes dès 16 ans.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+48;auth;Le droit de manifester ne doit pas être encadré davantage qu'aujourd'hui.;2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+49;auth;La peine de mort devrait être rétablie pour certains crimes.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+50;inst;Il faut instaurer un référendum d'initiative citoyenne (RIC) sur tous les sujets.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+51;inst;Le Président de la République doit conserver les pouvoirs que lui donne la Ve République.;4;1;4;2;4;4;4;4;2;2;4;1;2;3;4;2;4;4;2;3;3;3;2;3;2;1;1;1;2;3;3;3;2;3;4;4;3;2
+52;inst;Le vote blanc devrait être reconnu comme un suffrage exprimé.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+53;inst;Une part de proportionnelle devrait être introduite aux élections législatives.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+54;inst;L'article 49.3 doit rester à la disposition du gouvernement.;4;1;4;2;4;4;4;4;2;2;4;1;2;3;4;2;4;4;2;3;3;3;2;3;2;1;1;1;2;3;3;3;2;3;4;4;3;2
+55;inst;Des citoyens tirés au sort devraient participer à l'élaboration des lois.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+56;inst;Il faut convoquer une assemblée constituante pour passer à une VIe République.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+57;econ;Les entreprises créent plus de richesse pour le pays que l'État.;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+58;econ;"Les autoroutes, les aéroports et les barrages devraient appartenir à l'État plutôt qu'à des sociétés privées.";2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+59;econ;La durée légale du travail à 35 heures devrait être supprimée.;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+60;econ;L'écart entre le plus haut et le plus bas salaire d'une entreprise devrait être plafonné par la loi.;2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+61;econ;Les syndicats ont aujourd'hui trop de pouvoir en France.;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+62;econ;Les licenciements devraient être strictement encadrés par la loi.;2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+63;econ;Il faut faciliter les licenciements pour encourager les embauches.;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+64;econ;L'État devrait pouvoir plafonner le prix des produits de première nécessité.;2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+65;econ;Les droits de succession devraient être supprimés ou fortement réduits.;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+66;econ;Les profits exceptionnels des grandes entreprises devraient être taxés.;2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+67;econ;La concurrence entre opérateurs privés améliore la qualité des services publics.;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+68;econ;"L'État doit planifier les grands choix de l'économie (industrie, énergie, logement).";2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+69;econ;Les revenus du capital devraient être soumis à un impôt unique à taux réduit (flat tax).;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+70;econ;Les grandes plateformes numériques doivent être fortement taxées et régulées.;2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+71;econ;Le travail du dimanche devrait être libéralisé.;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+72;econ;Le droit de grève ne doit pas être restreint dans les services publics.;2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+73;econ;L'État devrait vendre une partie de ses participations dans les entreprises publiques.;4;1;4;2;4;4;5;4;2;1;4;1;3;3;4;1;3;3;2;4;4;2;2;3;2;2;1;1;3;4;3;3;2;3;3;4;3;2
+74;econ;Une semaine de travail de 32 heures sans perte de salaire est un objectif réaliste.;2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+75;econ;La France devrait protéger davantage son industrie par des droits de douane.;2;5;2;4;2;2;1;2;4;5;2;5;3;3;2;5;3;3;4;2;2;4;4;3;4;4;5;5;3;2;3;3;4;3;3;2;3;4
+76;welf;Chacun est avant tout responsable de sa propre réussite ou de son échec.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+77;welf;Les inégalités de revenus sont trop importantes en France.;2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+78;welf;Le système de protection sociale français coûte trop cher.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+79;welf;Les soins devraient être remboursés à 100 % par la Sécurité sociale.;2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+80;welf;Les patients devraient payer une petite participation à chaque consultation pour limiter les abus.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+81;welf;Le RSA devrait être augmenté de façon significative.;2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+82;welf;L'âge légal de départ à la retraite devrait être reculé pour équilibrer les comptes.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+83;welf;"La durée de cotisation pour la retraite ne doit pas augmenter, même si cela coûte plus cher à l'État.";2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+84;welf;Les allocations familiales devraient être réservées aux familles modestes.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+85;welf;"Les allocations familiales doivent rester universelles, quel que soit le revenu.";2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+86;welf;Les mutuelles et les assurances privées devraient jouer un rôle plus grand dans la santé.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+87;welf;Les hôpitaux ne doivent pas être gérés selon une logique de rentabilité.;2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+88;welf;Il faut contrôler plus sévèrement les arrêts maladie et les fraudes aux prestations sociales.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+89;welf;La fraude fiscale est un problème plus grave que la fraude aux prestations sociales.;2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+90;welf;Les jeunes de moins de 25 ans ne devraient pas toucher de minimum social sans contrepartie.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+91;welf;L'État devrait garantir un emploi à toute personne qui en cherche un.;2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+92;welf;Les universités publiques devraient faire payer des frais d'inscription plus élevés.;4;1;4;2;4;4;4;4;2;1;3;1;3;3;3;1;3;3;2;4;3;3;2;3;2;2;1;1;3;3;3;3;2;3;3;4;3;2
+93;welf;L'enseignement supérieur doit rester quasi gratuit pour tous.;2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+94;welf;Les aides au logement (APL) doivent être renforcées.;2;5;2;4;2;2;2;2;4;5;3;5;3;3;3;5;3;3;4;2;3;3;4;3;4;4;5;5;3;3;3;3;4;3;3;2;3;4
+95;soci;Le mariage entre personnes de même sexe a été une bonne évolution pour la société.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+96;soci;Les racines chrétiennes de la France devraient être davantage mises en avant.;4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+97;soci;L'État doit garantir un accès réel et rapide à l'IVG partout sur le territoire.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+98;soci;La gestation pour autrui (GPA) doit rester strictement interdite.;4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+99;soci;Les personnes transgenres doivent pouvoir changer d'état civil librement.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+100;soci;"Les traditions françaises (chasse, corrida, gastronomie) doivent être protégées même quand elles sont contestées.";4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+101;soci;Il existe des discriminations structurelles en France qui nécessitent des politiques spécifiques.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+102;soci;On parle trop des discriminations et pas assez du mérite.;4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+103;soci;L'histoire coloniale de la France devrait être davantage reconnue et enseignée.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+104;soci;Les signes religieux visibles devraient être interdits à l'université pour les étudiants.;4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+105;soci;L'éducation à la sexualité doit être renforcée à l'école.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+106;soci;"L'école devrait revenir à une discipline plus stricte (uniforme, autorité du professeur).";4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+107;soci;La prostitution devrait être légalisée et encadrée.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+108;soci;La natalité devrait être encouragée par une politique familiale prioritaire.;4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+109;soci;Les quotas de femmes dans les conseils d'administration et sur les listes électorales sont une bonne chose.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+110;soci;La société moderne a perdu des repères moraux importants.;4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+111;soci;L'adoption par des couples de même sexe doit être facilitée.;2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+112;soci;Les documents administratifs devraient conserver les mentions « père » et « mère ».;4;2;3;2;3;4;4;5;1;2;4;2;2;2;4;2;3;3;2;3;4;2;2;3;2;2;2;1;3;3;3;3;2;3;4;4;4;3
+113;soci;"La société doit accepter plus de diversité dans les modes de vie, même si cela heurte certaines traditions.";2;4;3;4;3;2;2;1;5;4;2;4;4;4;2;4;3;3;4;3;2;4;4;3;4;4;4;5;3;3;3;3;4;3;2;2;2;3
+114;euro;Les pays européens sont plus forts ensemble face aux États-Unis et à la Chine.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+115;euro;Bruxelles prend trop de décisions qui devraient revenir aux Français.;4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+116;euro;Certaines décisions de défense devraient être prises au niveau européen.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+117;euro;La France devrait quitter l'espace Schengen et rétablir des contrôles à toutes ses frontières.;4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+118;euro;Des listes transnationales devraient être créées pour les élections européennes.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+119;euro;La Commission européenne n'a pas la légitimité démocratique pour imposer des règles aux États.;4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+120;euro;Un salaire minimum européen devrait être instauré.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+121;euro;"La France devrait fixer seule ses règles budgétaires, sans contrainte européenne sur le déficit.";4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+122;euro;L'euro a globalement bénéficié à la France.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+123;euro;La France devrait de nouveau quitter le commandement intégré de l'OTAN.;4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+124;euro;L'Union européenne devrait avoir une voix unique dans les grandes instances internationales.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+125;euro;Les agriculteurs français devraient être protégés de la concurrence des autres pays européens.;4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+126;euro;Il faut davantage de décisions à la majorité qualifiée plutôt qu'à l'unanimité dans l'UE.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+127;euro;La politique d'immigration devrait être décidée uniquement au niveau national.;4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+128;euro;L'Europe doit se doter d'une industrie de défense commune.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+129;euro;Le Parlement français devrait pouvoir bloquer l'application d'une directive européenne.;4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+130;euro;Les programmes d'échange entre jeunes Européens (Erasmus) devraient être étendus et mieux financés.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+131;euro;"L'Union européenne devrait se limiter à un grand marché commun, sans politiques communes au-delà.";4;2;2;2;2;3;3;5;2;3;5;4;2;2;5;2;4;5;2;2;3;2;3;3;4;2;3;2;4;3;4;3;2;3;5;4;4;3
+132;euro;Une citoyenneté européenne avec des droits renforcés devrait compléter la citoyenneté nationale.;2;4;4;4;4;3;3;1;4;3;1;2;4;4;1;4;2;1;4;4;3;4;3;3;2;4;3;4;2;3;2;3;4;3;1;2;2;3
+133;ecol;Le réchauffement climatique est la principale menace pour l'avenir de l'humanité.;2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+134;ecol;Le nucléaire doit rester la base de la production d'électricité en France.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+135;ecol;"Les éoliennes et les panneaux solaires doivent être massivement développés, même près des habitations.";2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+136;ecol;L'écologie punitive pénalise surtout les classes populaires et les zones rurales.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+137;ecol;Les zones à faibles émissions dans les grandes villes sont une bonne mesure.;2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+138;ecol;Les aides à la transition écologique doivent passer après la compétitivité des entreprises.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+139;ecol;Les vols intérieurs devraient être interdits quand une alternative en train existe.;2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+140;ecol;La chasse et la pêche de loisir doivent être préservées contre de nouvelles restrictions.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+141;ecol;Le nombre d'animaux d'élevage devrait être réduit pour limiter les émissions.;2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+142;ecol;La France ne doit pas s'imposer des règles climatiques que les autres grands pays ne respectent pas.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+143;ecol;"La rénovation thermique des logements devrait être obligatoire, avec des aides publiques massives.";2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+144;ecol;Les OGM et les nouvelles techniques génomiques devraient être autorisés en agriculture.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+145;ecol;Les mégabassines d'irrigation devraient être interdites.;2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+146;ecol;Il faut relancer l'exploitation de ressources minières et énergétiques sur le territoire national.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+147;ecol;La sobriété (consommer moins) est une condition indispensable de la transition écologique.;2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+148;ecol;L'innovation technologique résoudra le problème climatique sans changer nos modes de vie.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+149;ecol;"Les entreprises doivent être juridiquement responsables de leurs atteintes à l'environnement, y compris à l'étranger.";2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+150;ecol;Le zéro artificialisation nette (ZAN) freine trop le développement des communes.;4;2;3;2;3;4;4;4;1;2;4;2;3;2;4;2;3;4;1;3;4;2;2;3;2;1;2;2;2;3;3;3;2;3;3;4;4;2
+151;ecol;Les transports en commun devraient être gratuits.;2;4;3;4;3;2;2;2;5;4;2;4;3;4;2;4;3;2;5;3;2;4;4;3;4;5;4;4;4;3;3;3;4;3;3;2;2;4
+152;immi;La France accueille plus d'étrangers qu'elle ne peut en intégrer.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+153;immi;L'immigration est globalement une chance pour l'économie française.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+154;immi;Le nombre d'étrangers admis chaque année devrait être fixé par le Parlement ou par référendum.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+155;immi;Les demandeurs d'asile devraient pouvoir travailler dès leur arrivée.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+156;immi;Le regroupement familial devrait être fortement limité.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+157;immi;Les mineurs étrangers isolés doivent être pris en charge sans condition.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+158;immi;Les étrangers en situation irrégulière devraient être renvoyés sans délai.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+159;immi;Il faut faciliter l'obtention de la nationalité pour les étrangers qui travaillent et paient des impôts en France.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+160;immi;Un niveau de français et l'adhésion aux valeurs de la République devraient être exigés pour obtenir un titre de séjour.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+161;immi;Le sauvetage en mer des migrants doit rester une priorité.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+162;immi;Les prestations sociales devraient être réservées en priorité aux Français.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+163;immi;Les centres de rétention administrative devraient être fermés.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+164;immi;La double nationalité devrait être limitée.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+165;immi;La diversité culturelle enrichit la société française.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+166;immi;Les étudiants étrangers devraient payer des frais d'inscription plus élevés.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+167;immi;L'immigration de travail doit être développée dans les secteurs qui manquent de main-d'œuvre.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+168;immi;Les moyens de Frontex et des contrôles aux frontières doivent être fortement renforcés.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+169;immi;Aider les pays d'origine à se développer est plus efficace que de fermer les frontières.;1;4;2;4;2;1;2;1;4;3;1;4;4;3;1;3;2;2;4;2;2;3;4;2;3;4;4;4;3;2;2;2;4;3;1;1;2;3
+170;immi;L'assimilation à la culture française doit primer sur le respect des différences.;5;2;4;2;4;5;4;5;2;3;5;2;2;3;5;3;4;4;2;4;4;3;2;4;3;2;2;2;3;4;4;4;2;3;5;5;4;3
+171;auth;"La police doit avoir davantage de moyens pour contrôler et sanctionner, même si cela impose plus de contraintes aux citoyens.";4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+172;auth;La prison devrait être le dernier recours : les peines alternatives doivent être privilégiées.;2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+173;auth;Des peines planchers doivent être rétablies pour les récidivistes.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+174;auth;Les contrôles d'identité doivent être strictement encadrés pour éviter les discriminations.;2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+175;auth;L'armée devrait pouvoir intervenir sur le territoire pour des missions de sécurité intérieure.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+176;auth;L'usage du LBD et des grenades lors des manifestations devrait être interdit.;2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+177;auth;La durée de garde à vue et les pouvoirs d'enquête devraient être étendus pour lutter contre le terrorisme.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+178;auth;L'État de droit doit être respecté même face à une menace terroriste.;2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+179;auth;Les peines pour atteinte aux forces de l'ordre devraient être alourdies.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+180;auth;Les données personnelles des citoyens ne devraient jamais être collectées sans l'autorisation d'un juge.;2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+181;auth;Les parents de mineurs délinquants devraient être sanctionnés financièrement.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+182;auth;La légalisation de certaines drogues réduirait plus la criminalité que la répression.;2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+183;auth;La vidéosurveillance devrait être généralisée dans l'espace public.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+184;auth;"La liberté d'expression doit être protégée, même pour des propos choquants ou offensants.";2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+185;auth;Les réseaux sociaux devraient obliger leurs utilisateurs à prouver leur identité.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+186;auth;Les citoyens ont le droit de désobéir pour défendre une cause qu'ils jugent juste.;2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+187;auth;L'état d'urgence devrait pouvoir être déclaré plus facilement en cas de troubles graves.;4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+188;auth;Les magistrats doivent rester totalement indépendants du pouvoir politique.;2;4;2;4;2;1;2;1;4;4;2;5;4;4;2;4;3;3;4;2;2;4;4;3;4;4;5;5;4;3;3;3;4;3;2;2;2;4
+189;auth;"Les multirécidivistes devraient être incarcérés plus longtemps, même pour des délits mineurs.";4;2;4;2;4;5;4;5;2;2;4;1;2;2;4;2;3;3;2;4;4;2;2;3;2;2;1;1;2;3;3;3;2;3;4;4;4;2
+190;inst;Les parlementaires devraient être limités à un seul mandat à la fois et à un nombre limité de mandats successifs.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+191;inst;L'élection du Président de la République au suffrage universel direct doit être conservée.;4;1;4;2;4;4;4;4;2;2;4;1;2;3;4;2;4;4;2;3;3;3;2;3;2;1;1;1;2;3;3;3;2;3;4;4;3;2
+192;inst;Le Sénat devrait être supprimé ou profondément réformé.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+193;inst;Le Conseil constitutionnel doit conserver son rôle actuel.;4;1;4;2;4;4;4;4;2;2;4;1;2;3;4;2;4;4;2;3;3;3;2;3;2;1;1;1;2;3;3;3;2;3;4;4;3;2
+194;inst;Les citoyens devraient pouvoir révoquer un élu en cours de mandat par référendum.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+195;inst;Un Président fort est nécessaire à la stabilité de la France.;4;1;4;2;4;4;4;4;2;2;4;1;2;3;4;2;4;4;2;3;3;3;2;3;2;1;1;1;2;3;3;3;2;3;4;4;3;2
+196;inst;Le vote devrait être obligatoire.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+197;inst;Le mandat présidentiel doit rester aligné sur celui des députés.;4;1;4;2;4;4;4;4;2;2;4;1;2;3;4;2;4;4;2;3;3;3;2;3;2;1;1;1;2;3;3;3;2;3;4;4;3;2
+198;inst;Le droit de vote devrait être accordé dès 16 ans.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+199;inst;Les partis politiques traditionnels restent les meilleurs véhicules de la démocratie.;4;1;4;2;4;4;4;4;2;2;4;1;2;3;4;2;4;4;2;3;3;3;2;3;2;1;1;1;2;3;3;3;2;3;4;4;3;2
+200;inst;Une condamnation pour corruption ou détournement de fonds publics devrait entraîner une inéligibilité automatique.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+201;inst;Le Président doit pouvoir dissoudre l'Assemblée nationale quand il le juge nécessaire.;4;1;4;2;4;4;4;4;2;2;4;1;2;3;4;2;4;4;2;3;3;3;2;3;2;1;1;1;2;3;3;3;2;3;4;4;3;2
+202;inst;Les médias publics devraient être totalement indépendants du pouvoir politique.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+203;inst;"L'État central doit garder la main sur la plupart des politiques publiques, plutôt que de les confier aux régions.";4;1;4;2;4;4;4;4;2;2;4;1;2;3;4;2;4;4;2;3;3;3;2;3;2;1;1;1;2;3;3;3;2;3;4;4;3;2
+204;inst;Les régions devraient disposer de beaucoup plus d'autonomie.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+205;inst;"Le référendum est un outil dangereux, à utiliser avec prudence.";4;1;4;2;4;4;4;4;2;2;4;1;2;3;4;2;4;4;2;3;3;3;2;3;2;1;1;1;2;3;3;3;2;3;4;4;3;2
+206;inst;Les lobbyistes devraient être soumis à un registre public contraignant.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4
+207;inst;Le scrutin majoritaire à deux tours garantit des majorités stables.;4;1;4;2;4;4;4;4;2;2;4;1;2;3;4;2;4;4;2;3;3;3;2;3;2;1;1;1;2;3;3;3;2;3;4;4;3;2
+208;inst;Le Président de la République devrait pouvoir être mis en cause plus facilement devant la justice.;2;5;2;4;2;2;2;2;4;4;2;5;4;3;2;4;2;2;4;3;3;3;4;3;4;5;5;5;4;3;3;3;4;3;2;2;3;4

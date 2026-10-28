@@ -1,0 +1,51 @@
+﻿slug;nom;nom_court;parti;couleur;actif;photo;ordre;orientation
+marine-le-pen;Marine Le Pen;Le Pen;RN;#1B2F7A;oui;;1;extreme-droite
+jean-luc-melenchon;Jean-Luc Mélenchon;Mélenchon;LFI;#D7263D;oui;;2;extreme-gauche
+edouard-philippe;Édouard Philippe;Philippe;HOR;#14B8C4;oui;;3;centre
+raphael-glucksmann;Raphaël Glucksmann;Glucksmann;PP;#A455D6;oui;;4;gauche
+gabriel-attal;Gabriel Attal;Attal;RE;#F5A524;oui;;5;centre
+bruno-retailleau;Bruno Retailleau;Retailleau;LR;#2F8FDD;oui;;6;droite
+david-lisnard;David Lisnard;Lisnard;NE;#7C93A8;oui;;7;droite
+eric-zemmour;Éric Zemmour;Zemmour;REC;#4A4F5C;oui;;8;extreme-droite
+marine-tondelier;Marine Tondelier;Tondelier;LE;#2EAD5A;oui;;9;gauche
+francois-ruffin;François Ruffin;Ruffin;D!;#E4572E;oui;;20;gauche
+dominique-de-villepin;Dominique de Villepin;Villepin;LFH;#B08968;oui;;13;centre
+fabien-roussel;Fabien Roussel;Roussel;PCF;#8F1D2C;oui;;10;gauche
+nicolas-dupont-aignan;Nicolas Dupont-Aignan;Dupont-Aignan;DLF;#6B7A3A;oui;;11;droite
+nathalie-arthaud;Nathalie Arthaud;Arthaud;LO;#C2410C;oui;;12;extreme-gauche
+jean-lassalle;Jean Lassalle;Lassalle;RES;#8D6E63;oui;;19;divers
+francois-hollande;François Hollande;Hollande;PS;#E5487F;oui;;14;gauche
+jordan-bardella;Jordan Bardella;Bardella;RN;#3D52B0;oui;;15;extreme-droite
+francois-asselineau;François Asselineau;Asselineau;Union populaire républicaine;;oui;;21;divers
+delphine-batho;Delphine Batho;Batho;Génération écologie;;oui;;22;gauche
+olivier-becht;Olivier Becht;Becht;Centre;;oui;;23;centre
+augustin-billetdoux;Augustin Billetdoux;Billetdoux;Divers;;oui;;24;divers
+karim-bouamrane;Karim Bouamrane;Bouamrane;Parti socialiste;;oui;;25;gauche
+juan-branco;Juan Branco;Branco;Les Ruches;;oui;;26;divers
+christian-collovati;Christian Collovati;Collovati;Divers;;oui;;27;divers
+sylvain-pierre-durif;Sylvain Pierre Durif;Durif;Divers;;oui;;28;divers
+clara-egger;Clara Egger;Egger;Solution démocratique;;oui;;29;divers
+anasse-kazib;Anasse Kazib;Kazib;Révolution permanente;;oui;;30;extreme-gauche
+selma-labib;Selma Labib;Labib;Nouveau Parti anticapitaliste-Révolutionnaires;;oui;;31;extreme-gauche
+francis-lalanne;Francis Lalanne;Lalanne;Divers;;oui;;32;divers
+jean-francois-legendre;Jean-François Legendre;Legendre;A nous maintenant;;oui;;33;divers
+mira-markovic;Mira Markovic;Markovic;Parti animaliste;;oui;;34;divers
+benoit-mathieu;Benoît Mathieu;Mathieu;Divers;;oui;;35;divers
+antoine-mikolajczak;Antoine Mikolajczak;Mikolajczak;Equinoxe;;oui;;36;gauche
+manolo-mlekuz;Manolo Mlekuz;Mlekuz;Trajectoire;;oui;;37;divers
+florian-philippot;Florian Philippot;Philippot;Les Patriotes;;oui;;38;extreme-droite
+gilles-platret;Gilles Platret;Platret;Droite;;oui;;39;droite
+natacha-polony;Natacha Polony;Polony;Divers;;oui;;40;divers
+erwan-rohou;Erwan Rohou;Rohou;Mouvement écologiste indépendant;;oui;;41;divers
+philippe-poutou;Philippe Poutou;Poutou;NPA-A;#C0392B;non;;16;extreme-gauche
+olivier-faure;Olivier Faure;Faure;PS;#E5487F;non;;17;gauche
+laurent-wauquiez;Laurent Wauquiez;Wauquiez;LR;#2F8FDD;non;;18;droite
+anne-hidalgo;Anne Hidalgo;Hidalgo;PS;#84CC16;non;;21;gauche
+yannick-jadot;Yannick Jadot;Jadot;EELV;#06B6D4;non;;22;gauche
+emmanuel-macron;Emmanuel Macron;Macron;REN;#0E9F6E;non;;23;centre
+valerie-pecresse;Valérie Pécresse;Pécresse;LR;#F59E0B;non;;24;droite
+clementine-autain;Clémentine Autain;Autain;L’Après;;non;;42;gauche
+jerome-guedj;Jérôme Guedj;Guedj;Parti socialiste;;non;;43;gauche
+lydie-massard;Lydie Massard;Massard;Union démocratique bretonne;;non;;44;gauche
+emmanuel-maurel;Emmanuel Maurel;Maurel;Gauche républicaine et socialiste;;non;;45;gauche
+segolene-royal;Ségolène Royal;Royal;Parti socialiste;;non;;46;gauche

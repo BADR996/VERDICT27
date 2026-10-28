@@ -1,0 +1,7036 @@
+{
+ "updatedAt": "2026-10-28T19:42:41.080Z",
+ "source": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+ "firstRound": [
+  {
+   "pollster": "Ipsos",
+   "dateLabel": "21-22 octobre",
+   "date": "2026-10-22",
+   "sample": 1500,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 13,
+      "gabriel-attal": 4,
+      "edouard-philippe": 13,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 33.5,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 14,
+      "edouard-philippe": 15,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33.5,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 15.5,
+      "gabriel-attal": 9.5,
+      "bruno-retailleau": 11.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33.5,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 13,
+      "edouard-philippe": 14,
+      "david-lisnard": 6.5,
+      "bruno-retailleau": 5.5,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 32,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "OpinionWay",
+   "dateLabel": "21-22 octobre",
+   "date": "2026-10-22",
+   "sample": 973,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 1,
+      "marine-tondelier": 1,
+      "raphael-glucksmann": 13,
+      "gabriel-attal": 4,
+      "edouard-philippe": 12,
+      "david-lisnard": 6,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Cluster17",
+   "dateLabel": "19-22 octobre",
+   "date": "2026-10-22",
+   "sample": 2817,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 18.5,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 13,
+      "edouard-philippe": 16,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 33,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 19.5,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 12,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 3.5,
+      "marine-le-pen": 32.5,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 19.5,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 6.5,
+      "edouard-philippe": 17,
+      "david-lisnard": 8,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 30.5,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "19-21 octobre",
+   "date": "2026-10-21",
+   "sample": 2094,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 12,
+      "edouard-philippe": 15,
+      "david-lisnard": 7,
+      "bruno-retailleau": 4,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 33,
+      "eric-zemmour": 5,
+      "dominique-de-villepin": 1
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 10,
+      "david-lisnard": 8,
+      "bruno-retailleau": 5,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 33,
+      "eric-zemmour": 5,
+      "dominique-de-villepin": 2
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 1,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 5,
+      "edouard-philippe": 13,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 13,
+      "edouard-philippe": 16,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 19,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 13,
+      "gabriel-attal": 11,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 6
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "17-19 octobre",
+   "date": "2026-10-19",
+   "sample": 1928,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16.5,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 13.5,
+      "gabriel-attal": 5,
+      "edouard-philippe": 12,
+      "bruno-retailleau": 5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16.5,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 14,
+      "edouard-philippe": 15,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 36,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 16,
+      "gabriel-attal": 13,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 38,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 18,
+      "raphael-glucksmann": 16,
+      "edouard-philippe": 16,
+      "bruno-retailleau": 6.5,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 37,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 20,
+      "raphael-glucksmann": 10,
+      "gabriel-attal": 6.5,
+      "edouard-philippe": 14,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 38,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 4,
+      "edouard-philippe": 12,
+      "david-lisnard": 5.5,
+      "bruno-retailleau": 5.5,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 34,
+      "eric-zemmour": 3
+     },
+     "others": 1.5
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15.5,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 13,
+      "gabriel-attal": 5,
+      "edouard-philippe": 13,
+      "david-lisnard": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 6,
+      "edouard-philippe": 12,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3.5
+     },
+     "others": 1
+    }
+   ]
+  },
+  {
+   "pollster": "Elabe",
+   "dateLabel": "14-16 octobre",
+   "date": "2026-10-16",
+   "sample": 1701,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 1.5,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 15.5,
+      "edouard-philippe": 16.5,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 32.5,
+      "eric-zemmour": 3.5,
+      "dominique-de-villepin": 2
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 16.5,
+      "gabriel-attal": 10.5,
+      "bruno-retailleau": 9.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33.5,
+      "eric-zemmour": 3.5,
+      "dominique-de-villepin": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15.5,
+      "fabien-roussel": 1.5,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 15,
+      "edouard-philippe": 15.5,
+      "david-lisnard": 5.5,
+      "bruno-retailleau": 6.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 31.5,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 1.5,
+      "raphael-glucksmann": 16.5,
+      "gabriel-attal": 9.5,
+      "david-lisnard": 6.5,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 31,
+      "eric-zemmour": 3.5,
+      "francois-ruffin": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15.5,
+      "fabien-roussel": 1.5,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 15.5,
+      "gabriel-attal": 4.5,
+      "edouard-philippe": 13.5,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 32.5,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 1,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 16,
+      "edouard-philippe": 16.5,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 33.5,
+      "eric-zemmour": 3
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Cluster17",
+   "dateLabel": "14-15 octobre",
+   "date": "2026-10-15",
+   "sample": 1263,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 1.5,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 17,
+      "david-lisnard": 7,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 31,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 20,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 12,
+      "edouard-philippe": 20,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 35.5,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 20,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 16,
+      "bruno-retailleau": 17.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 34.5,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 20.5,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 16,
+      "david-lisnard": 17,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35.5,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 20,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 13.5,
+      "gabriel-attal": 17,
+      "nicolas-dupont-aignan": 3.5,
+      "marine-le-pen": 35.5,
+      "eric-zemmour": 5.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "YouGov",
+   "dateLabel": "12-15 octobre",
+   "date": "2026-10-15",
+   "sample": 1094,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 3,
+      "marine-tondelier": 6,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 6,
+      "edouard-philippe": 10,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 36,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 3,
+      "marine-tondelier": 6,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 10,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 37,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 3,
+      "marine-tondelier": 6,
+      "raphael-glucksmann": 13,
+      "edouard-philippe": 13,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 36,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 3,
+      "marine-tondelier": 6,
+      "raphael-glucksmann": 9,
+      "edouard-philippe": 15,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 37,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 2,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 6,
+      "edouard-philippe": 8,
+      "david-lisnard": 4,
+      "bruno-retailleau": 5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": 2
+    }
+   ]
+  },
+  {
+   "pollster": "OpinionWay",
+   "dateLabel": "13-14 octobre",
+   "date": "2026-10-14",
+   "sample": 1043,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 1,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 13,
+      "gabriel-attal": 5,
+      "edouard-philippe": 12,
+      "david-lisnard": 4,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "OpinionWay",
+   "dateLabel": "13-14 octobre",
+   "date": "2026-10-14",
+   "sample": 1001,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 13,
+      "gabriel-attal": 7,
+      "edouard-philippe": 12,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 16,
+      "gabriel-attal": 11,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 37,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 15,
+      "edouard-philippe": 15,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "12-14 octobre",
+   "date": "2026-10-14",
+   "sample": 1390,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 11.5,
+      "gabriel-attal": 5,
+      "edouard-philippe": 13,
+      "david-lisnard": 6,
+      "bruno-retailleau": 5,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 32,
+      "eric-zemmour": 3
+     },
+     "others": 2
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 16,
+      "gabriel-attal": 13,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 3,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 13.5,
+      "edouard-philippe": 18,
+      "bruno-retailleau": 6.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 6,
+      "edouard-philippe": 14,
+      "bruno-retailleau": 6.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 3
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "5-8 octobre",
+   "date": "2026-10-08",
+   "sample": 2004,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 19,
+      "fabien-roussel": 2,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 7,
+      "gabriel-attal": 12,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 37,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 7,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 12,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 10,
+      "gabriel-attal": 5,
+      "edouard-philippe": 13,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Odoxa",
+   "dateLabel": "24 septembre - 7 octobre",
+   "date": "2026-10-07",
+   "sample": 12005,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 9.5,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 6.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 37,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18.5,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 10.5,
+      "gabriel-attal": 11,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 38,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "25-29 septembre",
+   "date": "2026-09-29",
+   "sample": 1527,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 8,
+      "edouard-philippe": 16,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 32,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 33,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 13,
+      "gabriel-attal": 15,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5.5,
+      "raphael-glucksmann": 4,
+      "gabriel-attal": 17,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 36,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 3,
+      "edouard-philippe": 23,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 3,
+      "marine-tondelier": 6,
+      "raphael-glucksmann": 3,
+      "edouard-philippe": 24,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 5.5,
+      "raphael-glucksmann": 3,
+      "edouard-philippe": 23,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 6,
+      "raphael-glucksmann": 1,
+      "edouard-philippe": 23,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 8,
+      "edouard-philippe": 22,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 9,
+      "gabriel-attal": 7,
+      "edouard-philippe": 15,
+      "bruno-retailleau": 5,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 31,
+      "eric-zemmour": 4
+     },
+     "others": 3.5
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "22-24 septembre",
+   "date": "2026-09-24",
+   "sample": 1974,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 8,
+      "gabriel-attal": 13,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 7,
+      "edouard-philippe": 16,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 12,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 16,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "gabriel-attal": 5,
+      "edouard-philippe": 13,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "YouGov",
+   "dateLabel": "17-21 septembre",
+   "date": "2026-09-21",
+   "sample": 1103,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 8,
+      "gabriel-attal": 9,
+      "edouard-philippe": 12,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 9,
+      "edouard-philippe": 13,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 9,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 3,
+      "marine-tondelier": 7,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 37,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 5,
+      "gabriel-attal": 9,
+      "edouard-philippe": 12,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 1,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 4,
+      "gabriel-attal": 8,
+      "edouard-philippe": 10,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33,
+      "eric-zemmour": 5
+     },
+     "others": 1
+    }
+   ]
+  },
+  {
+   "pollster": "Cluster17",
+   "dateLabel": "15-16 septembre",
+   "date": "2026-09-16",
+   "sample": 1943,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 19,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 12,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 31,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 20,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 13.5,
+      "bruno-retailleau": 9.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 31,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 19.5,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 7.5,
+      "edouard-philippe": 19.5,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 4,
+      "marine-le-pen": 30,
+      "david-lisnard": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "9-11 septembre",
+   "date": "2026-09-11",
+   "sample": 1548,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 9,
+      "gabriel-attal": 7,
+      "edouard-philippe": 14,
+      "bruno-retailleau": 6.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "9-11 septembre 2026",
+   "date": "2026-09-11",
+   "sample": 1548,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 8,
+      "gabriel-attal": 6,
+      "edouard-philippe": 13,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4
+     },
+     "others": 6
+    }
+   ]
+  },
+  {
+   "pollster": "OpinionWay",
+   "dateLabel": "9-10 septembre",
+   "date": "2026-09-10",
+   "sample": 1001,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 7,
+      "gabriel-attal": 8,
+      "edouard-philippe": 16,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 2
+     },
+     "others": 1
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 4,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 3,
+      "gabriel-attal": 8,
+      "edouard-philippe": 16,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 33,
+      "eric-zemmour": 2
+     },
+     "others": 1
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 9,
+      "gabriel-attal": 7,
+      "edouard-philippe": 15,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 2
+     },
+     "others": 0.5
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "8-10 septembre",
+   "date": "2026-09-10",
+   "sample": 2052,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 7,
+      "gabriel-attal": 15,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 7,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 34,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 9,
+      "gabriel-attal": 8,
+      "edouard-philippe": 14,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "OpinionWay",
+   "dateLabel": "8-9 septembre",
+   "date": "2026-09-09",
+   "sample": 1001,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 9,
+      "gabriel-attal": 8,
+      "edouard-philippe": 15,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 12,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 1,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ipsos",
+   "dateLabel": "3-9 septembre",
+   "date": "2026-09-09",
+   "sample": 13060,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15.5,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 11.5,
+      "gabriel-attal": 6,
+      "edouard-philippe": 14,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15.5,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 12.5,
+      "edouard-philippe": 17.5,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33.5,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15.5,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 4.5,
+      "raphael-glucksmann": 13.5,
+      "gabriel-attal": 13,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16.5,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 4.5,
+      "gabriel-attal": 7.5,
+      "edouard-philippe": 16,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16.5,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 5.5,
+      "raphael-glucksmann": 5,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34.5,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 5.5,
+      "raphael-glucksmann": 5.5,
+      "gabriel-attal": 15.5,
+      "bruno-retailleau": 10.5,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "OpinionWay",
+   "dateLabel": "2-4 septembre",
+   "date": "2026-09-04",
+   "sample": 1034,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 7,
+      "edouard-philippe": 15,
+      "bruno-retailleau": 7,
+      "marine-le-pen": 34,
+      "eric-zemmour": 3
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "OpinionWay",
+   "dateLabel": "2-3 septembre",
+   "date": "2026-09-03",
+   "sample": 1003,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 13,
+      "gabriel-attal": 13,
+      "bruno-retailleau": 11,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 12,
+      "edouard-philippe": 20,
+      "bruno-retailleau": 8,
+      "marine-le-pen": 33,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 7,
+      "edouard-philippe": 15,
+      "bruno-retailleau": 7,
+      "marine-le-pen": 34,
+      "eric-zemmour": 3
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ipsos",
+   "dateLabel": "31 août - 2 septembre",
+   "date": "2026-09-02",
+   "sample": 1500,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 11.5,
+      "gabriel-attal": 7.5,
+      "edouard-philippe": 14.5,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 12,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34.5,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 9.5,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 4.5,
+      "gabriel-attal": 8.5,
+      "edouard-philippe": 16.5,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34.5,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16.5,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 4.5,
+      "edouard-philippe": 22.5,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34.5,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 5.5,
+      "raphael-glucksmann": 5.5,
+      "gabriel-attal": 15.5,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 36,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Cluster17",
+   "dateLabel": "31 août - 1er septembre",
+   "date": "2026-09-01",
+   "sample": 1711,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 11.5,
+      "edouard-philippe": 18,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 30,
+      "eric-zemmour": 3.5,
+      "dominique-de-villepin": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 11.5,
+      "gabriel-attal": 13.5,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 31.5,
+      "eric-zemmour": 4,
+      "dominique-de-villepin": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 6.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 29,
+      "eric-zemmour": 3
+     },
+     "others": 4
+    }
+   ]
+  },
+  {
+   "pollster": "Elabe",
+   "dateLabel": "26-28 août",
+   "date": "2026-08-28",
+   "sample": 1501,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 11.5,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 6.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4,
+      "dominique-de-villepin": 2
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 12,
+      "bruno-retailleau": 9.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34.5,
+      "eric-zemmour": 4,
+      "dominique-de-villepin": 2.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 7.5,
+      "edouard-philippe": 19.5,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4,
+      "david-lisnard": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 4,
+      "raphael-glucksmann": 8,
+      "gabriel-attal": 12.5,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 34.5,
+      "eric-zemmour": 4.5
+     },
+     "others": 3.5
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 14.5,
+      "fabien-roussel": 4.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 3.5,
+      "edouard-philippe": 20.5,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 35.5,
+      "eric-zemmour": 4,
+      "dominique-de-villepin": 2.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 14.5,
+      "fabien-roussel": 3,
+      "raphael-glucksmann": 12.5,
+      "gabriel-attal": 6.5,
+      "edouard-philippe": 14.5,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "24-25 août",
+   "date": "2026-08-25",
+   "sample": 1598,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 8,
+      "edouard-philippe": 14.5,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 33,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 12,
+      "edouard-philippe": 18,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 33,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 15,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 34,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "raphael-glucksmann": 15,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 33,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 18.5,
+      "raphael-glucksmann": 17,
+      "gabriel-attal": 15,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 19,
+      "raphael-glucksmann": 12,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 2.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 18,
+      "bruno-retailleau": 12,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "18-19 août",
+   "date": "2026-08-19",
+   "sample": 1764,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 8,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 38,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 8,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 15,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 37,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 17,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "gabriel-attal": 8,
+      "edouard-philippe": 14,
+      "bruno-retailleau": 6,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Cluster17",
+   "dateLabel": "22-24 juillet",
+   "date": "2026-07-24",
+   "sample": 1506,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 18,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 30,
+      "eric-zemmour": 4,
+      "dominique-de-villepin": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 18,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 4,
+      "marine-le-pen": 30,
+      "eric-zemmour": 4,
+      "dominique-de-villepin": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Elabe",
+   "dateLabel": "9-10 juillet",
+   "date": "2026-07-10",
+   "sample": 1503,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 10.5,
+      "edouard-philippe": 16.5,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3,
+      "dominique-de-villepin": 2.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 14.5,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 13.5,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 34,
+      "eric-zemmour": 3.5,
+      "dominique-de-villepin": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 14.5,
+      "fabien-roussel": 2,
+      "raphael-glucksmann": 9,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 35,
+      "eric-zemmour": 2.5,
+      "francois-ruffin": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2.5,
+      "raphael-glucksmann": 8,
+      "gabriel-attal": 15.5,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 35.5,
+      "eric-zemmour": 3.5,
+      "francois-ruffin": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 14.5,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 8.5,
+      "gabriel-attal": 7.5,
+      "edouard-philippe": 14,
+      "bruno-retailleau": 8.5,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 8,
+      "edouard-philippe": 18,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 34.5,
+      "eric-zemmour": 3,
+      "dominique-de-villepin": 3
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Verian",
+   "dateLabel": "8-10 juillet",
+   "date": "2026-07-10",
+   "sample": 1047,
+   "scenarios": [
+    {
+     "values": {
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 8,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 7,
+      "marine-le-pen": 37,
+      "eric-zemmour": 3
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "OpinionWay",
+   "dateLabel": "8-9 juillet",
+   "date": "2026-07-09",
+   "sample": 963,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 2,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 9,
+      "gabriel-attal": 7,
+      "edouard-philippe": 18,
+      "bruno-retailleau": 8,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 10,
+      "gabriel-attal": 16,
+      "bruno-retailleau": 12,
+      "marine-le-pen": 36,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 9,
+      "edouard-philippe": 22,
+      "bruno-retailleau": 9,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "7-8 juillet",
+   "date": "2026-07-08",
+   "sample": 984,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 2,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 15,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 9,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "7-8 juillet",
+   "date": "2026-07-08",
+   "sample": 1592,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 8,
+      "gabriel-attal": 16,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 8,
+      "edouard-philippe": 20,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 16,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 20,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 10,
+      "gabriel-attal": 8,
+      "edouard-philippe": 14,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "22-24 juin",
+   "date": "2026-06-24",
+   "sample": 1415,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 9,
+      "gabriel-attal": 8,
+      "edouard-philippe": 14,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 15,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 37,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 9,
+      "edouard-philippe": 20,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 15,
+      "bruno-retailleau": 14,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 32,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 15,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 3,
+      "jordan-bardella": 37,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 14,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 20,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 8,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 35,
+      "eric-zemmour": 4.5,
+      "david-lisnard": 2
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "OpinionWay",
+   "dateLabel": "10-11 juin",
+   "date": "2026-06-11",
+   "sample": 1001,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 16,
+      "raphael-glucksmann": 16,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "rassemblement-national": 34,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 13,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "rassemblement-national": 33,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 4,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "rassemblement-national": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ipsos",
+   "dateLabel": "27-28 mai",
+   "date": "2026-05-28",
+   "sample": 1500,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 8.5,
+      "edouard-philippe": 13,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 1.5,
+      "jordan-bardella": 33.5,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 8.5,
+      "edouard-philippe": 14,
+      "bruno-retailleau": 8.5,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 31,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13.5,
+      "fabien-roussel": 4,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 7,
+      "gabriel-attal": 9.5,
+      "edouard-philippe": 13.5,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 1.5,
+      "jordan-bardella": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13.5,
+      "fabien-roussel": 4,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 7,
+      "gabriel-attal": 9.5,
+      "edouard-philippe": 14.5,
+      "bruno-retailleau": 8.5,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 32,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 14.5,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 1.5,
+      "jordan-bardella": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 13,
+      "edouard-philippe": 17.5,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 1.5,
+      "jordan-bardella": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13.5,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 8,
+      "gabriel-attal": 17.5,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 1.5,
+      "jordan-bardella": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13.5,
+      "fabien-roussel": 4,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 7.5,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 1.5,
+      "jordan-bardella": 35.5,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "26-28 mai",
+   "date": "2026-05-28",
+   "sample": 1501,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 9,
+      "gabriel-attal": 9,
+      "edouard-philippe": 14,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 18,
+      "dominique-de-villepin": 2.5,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 34,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 16,
+      "dominique-de-villepin": 3,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 34,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 19,
+      "dominique-de-villepin": 2,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 1.5,
+      "marine-le-pen": 33,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 11.5,
+      "gabriel-attal": 16,
+      "dominique-de-villepin": 3,
+      "bruno-retailleau": 11.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 4,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 8,
+      "edouard-philippe": 20,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 1.5,
+      "jordan-bardella": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13.5,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 8,
+      "gabriel-attal": 18.5,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 35,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 12.5,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 9,
+      "edouard-philippe": 20,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 34,
+      "eric-zemmour": 3,
+      "francois-ruffin": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 13.5,
+      "fabien-roussel": 6,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 4,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 35,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 15,
+      "edouard-philippe": 22,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "raphael-glucksmann": 12,
+      "edouard-philippe": 22,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 3,
+      "jordan-bardella": 33,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "25-27 mai",
+   "date": "2026-05-27",
+   "sample": 1744,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 34,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 4,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 34,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 31,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 4,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 15,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "gabriel-attal": 9,
+      "edouard-philippe": 13,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 32,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Odoxa",
+   "dateLabel": "20-21 mai",
+   "date": "2026-05-21",
+   "sample": 1005,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 16,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 32,
+      "eric-zemmour": 6
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "28-30 avril",
+   "date": "2026-04-30",
+   "sample": 1725,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 4,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 1,
+      "jordan-bardella": 34,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 12,
+      "nicolas-dupont-aignan": 1,
+      "jordan-bardella": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 4,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 32,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 4,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 13,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Elabe",
+   "dateLabel": "25-27 mars",
+   "date": "2026-03-27",
+   "sample": 1504,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 10.5,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4.5,
+      "raphael-glucksmann": 10.5,
+      "edouard-philippe": 20.5,
+      "dominique-de-villepin": 3,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 11.5,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 8.5,
+      "edouard-philippe": 22,
+      "dominique-de-villepin": 2.5,
+      "bruno-retailleau": 8.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 31.5,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 4,
+      "marine-tondelier": 4.5,
+      "raphael-glucksmann": 4.5,
+      "edouard-philippe": 25.5,
+      "dominique-de-villepin": 3,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 38
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 12.5,
+      "gabriel-attal": 11.5,
+      "dominique-de-villepin": 6,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 34
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 12.5,
+      "dominique-de-villepin": 5,
+      "bruno-retailleau": 8.5,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 38.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 11,
+      "fabien-roussel": 3,
+      "francois-ruffin": 8,
+      "raphael-glucksmann": 12,
+      "dominique-de-villepin": 5.5,
+      "bruno-retailleau": 9.5,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 37.5,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Odoxa",
+   "dateLabel": "25-26 mars",
+   "date": "2026-03-26",
+   "sample": 1299,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 2,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 34
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 2,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 25,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 38
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "22 mars",
+   "date": "2026-03-22",
+   "sample": 1062,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 11,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 14,
+      "edouard-philippe": 18,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 11,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 13,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 36,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "26-27 février",
+   "date": "2026-02-27",
+   "sample": 1393,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 11,
+      "fabien-roussel": 2,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 16,
+      "dominique-de-villepin": 3.5,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 2,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 16,
+      "dominique-de-villepin": 5,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 11,
+      "dominique-de-villepin": 4,
+      "bruno-retailleau": 12,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 11,
+      "fabien-roussel": 2,
+      "marine-tondelier": 4.5,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 10,
+      "dominique-de-villepin": 4.5,
+      "bruno-retailleau": 12,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 13,
+      "dominique-de-villepin": 5,
+      "bruno-retailleau": 13,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 37,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4.5,
+      "raphael-glucksmann": 13,
+      "dominique-de-villepin": 5,
+      "bruno-retailleau": 13,
+      "nicolas-dupont-aignan": 3,
+      "jordan-bardella": 37,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 4.5,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 23,
+      "nicolas-dupont-aignan": 3,
+      "jordan-bardella": 37,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 16,
+      "bruno-retailleau": 17,
+      "nicolas-dupont-aignan": 3,
+      "jordan-bardella": 38,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 11,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 8,
+      "edouard-philippe": 18,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 11,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 5,
+      "edouard-philippe": 19,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 3.5,
+      "jordan-bardella": 36,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Odoxa",
+   "dateLabel": "19-20 novembre",
+   "date": "2025-11-20",
+   "sample": 1300,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 3,
+      "marine-tondelier": 6.5,
+      "raphael-glucksmann": 14.5,
+      "gabriel-attal": 11,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 3,
+      "jordan-bardella": 36,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 11,
+      "fabien-roussel": 3,
+      "marine-tondelier": 6,
+      "raphael-glucksmann": 13.5,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 35,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Verian",
+   "dateLabel": "18-20 novembre",
+   "date": "2025-11-20",
+   "sample": 938,
+   "scenarios": [
+    {
+     "values": {
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 13,
+      "edouard-philippe": 17,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 36.5,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Elabe",
+   "dateLabel": "30-31 octobre",
+   "date": "2025-10-31",
+   "sample": 1396,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5.5,
+      "francois-hollande": 6.5,
+      "edouard-philippe": 19,
+      "dominique-de-villepin": 4,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 35,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12.5,
+      "fabien-roussel": 4.5,
+      "marine-tondelier": 5.5,
+      "olivier-faure": 5.5,
+      "edouard-philippe": 19.5,
+      "dominique-de-villepin": 4,
+      "laurent-wauquiez": 3,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 36.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "raphael-glucksmann": 13,
+      "dominique-de-villepin": 5,
+      "bruno-retailleau": 8.5,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 37.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 11.5,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4.5,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 12.5,
+      "dominique-de-villepin": 4,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 34
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12.5,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4.5,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 15.5,
+      "dominique-de-villepin": 3,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 35,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "7 octobre",
+   "date": "2025-10-07",
+   "sample": 1289,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 12,
+      "edouard-philippe": 15,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 1,
+      "jordan-bardella": 35,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 12,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 1,
+      "jordan-bardella": 35,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 12,
+      "edouard-philippe": 16,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 1,
+      "marine-le-pen": 34,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 12,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 6
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Cluster17",
+   "dateLabel": "30 septembre - 1er octobre",
+   "date": "2025-10-01",
+   "sample": 1531,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 4,
+      "olivier-faure": 8,
+      "edouard-philippe": 19.5,
+      "bruno-retailleau": 13,
+      "nicolas-dupont-aignan": 4.5,
+      "jordan-bardella": 30,
+      "eric-zemmour": 5.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 4,
+      "marine-tondelier": 7.5,
+      "edouard-philippe": 19.5,
+      "bruno-retailleau": 12.5,
+      "nicolas-dupont-aignan": 4,
+      "jordan-bardella": 31,
+      "eric-zemmour": 5.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 3,
+      "raphael-glucksmann": 15,
+      "gabriel-attal": 12,
+      "bruno-retailleau": 14,
+      "nicolas-dupont-aignan": 3.5,
+      "marine-le-pen": 30.5,
+      "eric-zemmour": 5.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 3,
+      "raphael-glucksmann": 15,
+      "edouard-philippe": 15,
+      "bruno-retailleau": 12,
+      "nicolas-dupont-aignan": 3.5,
+      "jordan-bardella": 30,
+      "eric-zemmour": 5.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "24-25 septembre",
+   "date": "2025-09-25",
+   "sample": 1127,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 4,
+      "raphael-glucksmann": 16,
+      "dominique-de-villepin": 6,
+      "bruno-retailleau": 13,
+      "nicolas-dupont-aignan": 3,
+      "jordan-bardella": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 4,
+      "raphael-glucksmann": 16,
+      "dominique-de-villepin": 5,
+      "bruno-retailleau": 13,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 4,
+      "raphael-glucksmann": 14,
+      "gabriel-attal": 10,
+      "dominique-de-villepin": 4,
+      "bruno-retailleau": 12,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 34,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 5,
+      "olivier-faure": 7,
+      "edouard-philippe": 19,
+      "dominique-de-villepin": 4.5,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 34,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 3.5,
+      "raphael-glucksmann": 15,
+      "edouard-philippe": 16,
+      "dominique-de-villepin": 4,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 33,
+      "eric-zemmour": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 3,
+      "raphael-glucksmann": 15,
+      "edouard-philippe": 16,
+      "dominique-de-villepin": 5,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "19-20 mai",
+   "date": "2025-05-20",
+   "sample": 1114,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3.5,
+      "marine-tondelier": 4.5,
+      "olivier-faure": 4.5,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 16,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 31,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 13.5,
+      "fabien-roussel": 3,
+      "marine-tondelier": 5,
+      "olivier-faure": 4.5,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 16,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 31,
+      "eric-zemmour": 3
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "19 mai",
+   "date": "2025-05-19",
+   "sample": 1217,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 15,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 15,
+      "bruno-retailleau": 16,
+      "marine-le-pen": 31,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "gabriel-attal": 15,
+      "bruno-retailleau": 17,
+      "jordan-bardella": 31,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 12,
+      "marine-le-pen": 31,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 14,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 13,
+      "jordan-bardella": 30,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "29-30 avril",
+   "date": "2025-04-30",
+   "sample": 1838,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 2,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 4,
+      "francois-ruffin": 5.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 2,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 23,
+      "laurent-wauquiez": 4,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 5,
+      "francois-ruffin": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 2,
+      "raphael-glucksmann": 9,
+      "gabriel-attal": 8,
+      "dominique-de-villepin": 2,
+      "bruno-retailleau": 7.5,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 32,
+      "eric-zemmour": 4,
+      "edouard-philippe": 15,
+      "francois-ruffin": 4.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 2.5,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 22,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 33,
+      "eric-zemmour": 4,
+      "francois-ruffin": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 10,
+      "edouard-philippe": 24,
+      "laurent-wauquiez": 3,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 35,
+      "eric-zemmour": 4,
+      "francois-ruffin": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 2.5,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11.5,
+      "gabriel-attal": 14,
+      "bruno-retailleau": 14,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 33,
+      "eric-zemmour": 4,
+      "francois-ruffin": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "jean-luc-melenchon": 13,
+      "raphael-glucksmann": 15,
+      "edouard-philippe": 22,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 33,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 12,
+      "edouard-philippe": 26,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 3,
+      "jordan-bardella": 33,
+      "eric-zemmour": 4,
+      "francois-ruffin": 10
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "24-25 avril",
+   "date": "2025-04-25",
+   "sample": 1189,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 3,
+      "ensemble-pour-la-republique": 19,
+      "les-republicains": 10,
+      "nicolas-dupont-aignan": 2,
+      "rassemblement-national": 34,
+      "eric-zemmour": 3
+     },
+     "others": 3
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "jean-luc-melenchon": 8,
+      "ensemble-pour-la-republique": 18,
+      "les-republicains": 10,
+      "nicolas-dupont-aignan": 2,
+      "rassemblement-national": 34,
+      "eric-zemmour": 3
+     },
+     "others": 3
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 3,
+      "parti-socialiste": 13,
+      "ensemble-pour-la-republique": 17,
+      "les-republicains": 10,
+      "nicolas-dupont-aignan": 2,
+      "rassemblement-national": 34,
+      "eric-zemmour": 3
+     },
+     "others": 2
+    }
+   ]
+  },
+  {
+   "pollster": "Odoxa",
+   "dateLabel": "23-24 avril",
+   "date": "2025-04-24",
+   "sample": 1005,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 3,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 12,
+      "edouard-philippe": 20,
+      "bruno-retailleau": 9.5,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 31.5,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11.5,
+      "edouard-philippe": 20.5,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 3
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Elabe",
+   "dateLabel": "2-4 avril",
+   "date": "2025-04-04",
+   "sample": 1413,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "philippe-poutou": 2,
+      "jean-luc-melenchon": 10.5,
+      "fabien-roussel": 5.5,
+      "marine-tondelier": 4.5,
+      "olivier-faure": 4,
+      "gabriel-attal": 18,
+      "dominique-de-villepin": 5,
+      "laurent-wauquiez": 4.5,
+      "nicolas-dupont-aignan": 4,
+      "jordan-bardella": 35.5,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1.5,
+      "jean-luc-melenchon": 9.5,
+      "fabien-roussel": 4.5,
+      "marine-tondelier": 3.5,
+      "raphael-glucksmann": 10.5,
+      "edouard-philippe": 20.5,
+      "dominique-de-villepin": 2.5,
+      "bruno-retailleau": 8.5,
+      "nicolas-dupont-aignan": 3,
+      "jordan-bardella": 31,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1.5,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 5.5,
+      "marine-tondelier": 6,
+      "francois-hollande": 6,
+      "edouard-philippe": 23,
+      "bruno-retailleau": 9,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 31.5,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "jean-luc-melenchon": 11,
+      "fabien-roussel": 5.5,
+      "marine-tondelier": 6,
+      "olivier-faure": 4,
+      "gabriel-attal": 18,
+      "bruno-retailleau": 10,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 36,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 2,
+      "jean-luc-melenchon": 9.5,
+      "fabien-roussel": 5,
+      "marine-tondelier": 4,
+      "raphael-glucksmann": 10.5,
+      "edouard-philippe": 24,
+      "laurent-wauquiez": 4.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 33.5,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "jean-luc-melenchon": 10,
+      "fabien-roussel": 6,
+      "marine-tondelier": 5.5,
+      "francois-hollande": 5.5,
+      "edouard-philippe": 23.5,
+      "bruno-retailleau": 8,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 32,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "31 mars",
+   "date": "2025-03-31",
+   "sample": 1162,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 4,
+      "marine-tondelier": 4,
+      "olivier-faure": 5,
+      "edouard-philippe": 25,
+      "laurent-wauquiez": 4,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 36,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 4,
+      "marine-tondelier": 4,
+      "olivier-faure": 5,
+      "edouard-philippe": 23,
+      "bruno-retailleau": 7,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "21-26 mars",
+   "date": "2025-03-26",
+   "sample": 1119,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 3,
+      "marine-tondelier": 3,
+      "olivier-faure": 5,
+      "edouard-philippe": 21,
+      "bruno-retailleau": 11,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 34,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 2,
+      "marine-tondelier": 3,
+      "raphael-glucksmann": 11,
+      "edouard-philippe": 20,
+      "laurent-wauquiez": 5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 35,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1,
+      "jean-luc-melenchon": 12,
+      "fabien-roussel": 4,
+      "marine-tondelier": 3,
+      "olivier-faure": 4,
+      "edouard-philippe": 25,
+      "laurent-wauquiez": 5,
+      "nicolas-dupont-aignan": 4,
+      "marine-le-pen": 36,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1,
+      "jean-luc-melenchon": 13,
+      "fabien-roussel": 4,
+      "marine-tondelier": 3,
+      "olivier-faure": 5,
+      "gabriel-attal": 20,
+      "laurent-wauquiez": 8,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 37,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "6-9 décembre",
+   "date": "2024-12-09",
+   "sample": 1101,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 0.5,
+      "fabien-roussel": 3,
+      "jean-luc-melenchon": 12,
+      "olivier-faure": 5,
+      "marine-tondelier": 4.5,
+      "gabriel-attal": 20,
+      "laurent-wauquiez": 8,
+      "jean-lassalle": 1,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 38,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 0.5,
+      "fabien-roussel": 3,
+      "jean-luc-melenchon": 12,
+      "olivier-faure": 4,
+      "marine-tondelier": 4.5,
+      "edouard-philippe": 25,
+      "laurent-wauquiez": 6,
+      "jean-lassalle": 1,
+      "nicolas-dupont-aignan": 3.5,
+      "marine-le-pen": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 0.5,
+      "fabien-roussel": 3,
+      "jean-luc-melenchon": 11,
+      "francois-hollande": 7,
+      "marine-tondelier": 4,
+      "edouard-philippe": 24,
+      "laurent-wauquiez": 6,
+      "jean-lassalle": 1.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 0.5,
+      "fabien-roussel": 3,
+      "jean-luc-melenchon": 12,
+      "olivier-faure": 4,
+      "marine-tondelier": 5,
+      "edouard-philippe": 26,
+      "laurent-wauquiez": 6.5,
+      "jean-lassalle": 1.5,
+      "nicolas-dupont-aignan": 3.5,
+      "jordan-bardella": 34,
+      "eric-zemmour": 3
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "OpinionWay",
+   "dateLabel": "11-12 septembre",
+   "date": "2024-09-12",
+   "sample": 1009,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 0.5,
+      "fabien-roussel": 4,
+      "jean-luc-melenchon": 10,
+      "raphael-glucksmann": 14,
+      "edouard-philippe": 26,
+      "laurent-wauquiez": 5,
+      "marine-le-pen": 35,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "jean-luc-melenchon": 15,
+      "edouard-philippe": 31,
+      "marine-le-pen": 40,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 0.5,
+      "fabien-roussel": 3,
+      "jean-luc-melenchon": 10,
+      "raphael-glucksmann": 12,
+      "gabriel-attal": 8,
+      "laurent-wauquiez": 5,
+      "marine-le-pen": 34,
+      "eric-zemmour": 4,
+      "edouard-philippe": 23
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "jean-luc-melenchon": 14,
+      "gabriel-attal": 10,
+      "laurent-wauquiez": 6,
+      "marine-le-pen": 38,
+      "eric-zemmour": 4,
+      "edouard-philippe": 25
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 0.5,
+      "fabien-roussel": 4,
+      "jean-luc-melenchon": 10,
+      "raphael-glucksmann": 14,
+      "edouard-philippe": 28,
+      "laurent-wauquiez": 4,
+      "jordan-bardella": 35,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 0.5,
+      "fabien-roussel": 4,
+      "jean-luc-melenchon": 10,
+      "raphael-glucksmann": 14,
+      "edouard-philippe": 27,
+      "marine-le-pen": 36,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "6-9 septembre",
+   "date": "2024-09-09",
+   "sample": 1204,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 10,
+      "francois-hollande": 7,
+      "marine-tondelier": 5,
+      "gabriel-attal": 22,
+      "laurent-wauquiez": 5,
+      "jean-lassalle": 3,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 10,
+      "olivier-faure": 4,
+      "marine-tondelier": 6,
+      "gabriel-attal": 24,
+      "laurent-wauquiez": 5,
+      "jean-lassalle": 3,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 1,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 9.5,
+      "francois-hollande": 8,
+      "marine-tondelier": 5,
+      "edouard-philippe": 26,
+      "laurent-wauquiez": 4,
+      "jean-lassalle": 2,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1.5,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 9,
+      "olivier-faure": 4,
+      "marine-tondelier": 5,
+      "edouard-philippe": 27,
+      "laurent-wauquiez": 4,
+      "jean-lassalle": 3,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 34,
+      "eric-zemmour": 3.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "7-8 juillet",
+   "date": "2024-07-08",
+   "sample": 2496,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 3,
+      "jean-luc-melenchon": 15,
+      "raphael-glucksmann": 14,
+      "marine-tondelier": 3,
+      "gabriel-attal": 20,
+      "laurent-wauquiez": 5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 31,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1,
+      "fabien-roussel": 3,
+      "jean-luc-melenchon": 15,
+      "raphael-glucksmann": 14,
+      "marine-tondelier": 3,
+      "edouard-philippe": 22,
+      "laurent-wauquiez": 5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 31,
+      "eric-zemmour": 3
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 16,
+      "olivier-faure": 6,
+      "marine-tondelier": 4,
+      "gabriel-attal": 23,
+      "laurent-wauquiez": 5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 4
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 4,
+      "jean-luc-melenchon": 17,
+      "olivier-faure": 5,
+      "marine-tondelier": 4,
+      "edouard-philippe": 24,
+      "laurent-wauquiez": 5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 4
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "16-18 avril",
+   "date": "2024-04-18",
+   "sample": 1090,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 4,
+      "jean-luc-melenchon": 14,
+      "olivier-faure": 4,
+      "marine-tondelier": 3,
+      "gabriel-attal": 20,
+      "laurent-wauquiez": 7,
+      "jean-lassalle": 2,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 35,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "philippe-poutou": 1.5,
+      "fabien-roussel": 4.5,
+      "jean-luc-melenchon": 13,
+      "olivier-faure": 4.5,
+      "marine-tondelier": 2,
+      "edouard-philippe": 24,
+      "laurent-wauquiez": 5,
+      "jean-lassalle": 2,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 34,
+      "eric-zemmour": 5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "philippe-poutou": 1.5,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 16,
+      "olivier-faure": 4.5,
+      "marine-tondelier": 2.5,
+      "laurent-wauquiez": 8,
+      "jean-lassalle": 2,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 35,
+      "eric-zemmour": 7
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 2,
+      "philippe-poutou": 1.5,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 15,
+      "olivier-faure": 5.5,
+      "marine-tondelier": 3,
+      "laurent-wauquiez": 8.5,
+      "jean-lassalle": 2,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 36,
+      "eric-zemmour": 6.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "philippe-poutou": 2,
+      "fabien-roussel": 5,
+      "francois-ruffin": 7,
+      "olivier-faure": 3.5,
+      "marine-tondelier": 3,
+      "edouard-philippe": 25,
+      "laurent-wauquiez": 5,
+      "jean-lassalle": 3,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 35,
+      "eric-zemmour": 6.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 5.5,
+      "jean-luc-melenchon": 12,
+      "francois-hollande": 8,
+      "edouard-philippe": 24,
+      "laurent-wauquiez": 5,
+      "jean-lassalle": 2,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 6.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "philippe-poutou": 1,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 13,
+      "olivier-faure": 4,
+      "marine-tondelier": 2.5,
+      "edouard-philippe": 24,
+      "jean-lassalle": 2,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 13,
+      "olivier-faure": 3,
+      "marine-tondelier": 2,
+      "gabriel-attal": 22,
+      "laurent-wauquiez": 8,
+      "jean-lassalle": 2.5,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 30,
+      "eric-zemmour": 9
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "philippe-poutou": 0.5,
+      "fabien-roussel": 4.5,
+      "jean-luc-melenchon": 14,
+      "olivier-faure": 3,
+      "marine-tondelier": 2,
+      "edouard-philippe": 26,
+      "laurent-wauquiez": 5,
+      "jean-lassalle": 1.5,
+      "nicolas-dupont-aignan": 2,
+      "jordan-bardella": 33,
+      "eric-zemmour": 7
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Cluster17",
+   "dateLabel": "2-5 avril",
+   "date": "2024-04-05",
+   "sample": 1713,
+   "scenarios": [
+    {
+     "values": {
+      "philippe-poutou": 2,
+      "francois-ruffin": 29,
+      "edouard-philippe": 25,
+      "laurent-wauquiez": 4.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 30,
+      "eric-zemmour": 6.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "philippe-poutou": 3,
+      "jean-luc-melenchon": 18,
+      "edouard-philippe": 31,
+      "laurent-wauquiez": 5,
+      "nicolas-dupont-aignan": 4,
+      "marine-le-pen": 32,
+      "eric-zemmour": 7
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "31 janvier - 1er février",
+   "date": "2024-02-01",
+   "sample": 1081,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "philippe-poutou": 1.5,
+      "fabien-roussel": 4,
+      "jean-luc-melenchon": 14,
+      "olivier-faure": 2,
+      "marine-tondelier": 2,
+      "gabriel-attal": 22,
+      "laurent-wauquiez": 5.5,
+      "jean-lassalle": 3,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 36,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "philippe-poutou": 1.5,
+      "fabien-roussel": 4.5,
+      "jean-luc-melenchon": 14,
+      "olivier-faure": 2,
+      "marine-tondelier": 2.5,
+      "edouard-philippe": 22,
+      "laurent-wauquiez": 4.5,
+      "jean-lassalle": 3,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 36,
+      "eric-zemmour": 6
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "9-10 janvier",
+   "date": "2024-01-10",
+   "sample": 1144,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 14.5,
+      "olivier-faure": 4,
+      "marine-tondelier": 1,
+      "gabriel-attal": 24,
+      "laurent-wauquiez": 6,
+      "jean-lassalle": 2.5,
+      "nicolas-dupont-aignan": 3,
+      "jordan-bardella": 28,
+      "eric-zemmour": 9
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 1.5,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 15,
+      "olivier-faure": 3.5,
+      "marine-tondelier": 1.5,
+      "edouard-philippe": 26,
+      "laurent-wauquiez": 6,
+      "jean-lassalle": 2.5,
+      "nicolas-dupont-aignan": 2.5,
+      "jordan-bardella": 27,
+      "eric-zemmour": 8
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 2,
+      "fabien-roussel": 6.5,
+      "jean-luc-melenchon": 14,
+      "olivier-faure": 3.5,
+      "marine-tondelier": 1.5,
+      "gabriel-attal": 23,
+      "laurent-wauquiez": 6,
+      "jean-lassalle": 2.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 6.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 1.5,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 13,
+      "olivier-faure": 3,
+      "marine-tondelier": 2,
+      "edouard-philippe": 25,
+      "laurent-wauquiez": 5,
+      "jean-lassalle": 2.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33,
+      "eric-zemmour": 6.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "24-25 octobre",
+   "date": "2023-10-25",
+   "sample": 1084,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 14,
+      "olivier-faure": 4,
+      "marine-tondelier": 1,
+      "edouard-philippe": 25,
+      "laurent-wauquiez": 5,
+      "jean-lassalle": 2.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 31,
+      "eric-zemmour": 6.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 14,
+      "olivier-faure": 5,
+      "marine-tondelier": 2,
+      "gabriel-attal": 19,
+      "laurent-wauquiez": 6,
+      "jean-lassalle": 4,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 33,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "philippe-poutou": 1,
+      "fabien-roussel": 7,
+      "jean-luc-melenchon": 15,
+      "olivier-faure": 5.5,
+      "marine-tondelier": 2,
+      "laurent-wauquiez": 6,
+      "jean-lassalle": 3,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 32,
+      "eric-zemmour": 6.5
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "philippe-poutou": 1.5,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 15,
+      "olivier-faure": 6,
+      "marine-tondelier": 2,
+      "laurent-wauquiez": 6,
+      "jean-lassalle": 3.5,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 33,
+      "eric-zemmour": 7
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1.5,
+      "philippe-poutou": 2,
+      "fabien-roussel": 7.5,
+      "francois-ruffin": 7,
+      "olivier-faure": 4,
+      "marine-tondelier": 2,
+      "edouard-philippe": 26,
+      "laurent-wauquiez": 6,
+      "jean-lassalle": 2.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 32,
+      "eric-zemmour": 6.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Cluster17",
+   "dateLabel": "18-20 octobre 2023",
+   "date": "2023-10-20",
+   "sample": 1580,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 0.5,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 17.5,
+      "anne-hidalgo": 2,
+      "yannick-jadot": 5,
+      "emmanuel-macron": 24.5,
+      "valerie-pecresse": 3.5,
+      "jean-lassalle": 3,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 29.5,
+      "eric-zemmour": 6.5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "1-4 septembre",
+   "date": "2023-09-04",
+   "sample": 2525,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 16,
+      "yannick-jadot": 5,
+      "edouard-philippe": 22,
+      "laurent-wauquiez": 5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 30,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 16,
+      "yannick-jadot": 5,
+      "laurent-wauquiez": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 16,
+      "yannick-jadot": 6,
+      "laurent-wauquiez": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 16,
+      "yannick-jadot": 7,
+      "gabriel-attal": 12,
+      "laurent-wauquiez": 8,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 7
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 16,
+      "yannick-jadot": 5,
+      "laurent-wauquiez": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 17,
+      "yannick-jadot": 6,
+      "laurent-wauquiez": 9,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 16,
+      "yannick-jadot": 6,
+      "laurent-wauquiez": 9,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 33,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 17,
+      "yannick-jadot": 7,
+      "laurent-wauquiez": 10,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 33,
+      "eric-zemmour": 6
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "OpinionWay",
+   "dateLabel": "12-13 avril",
+   "date": "2023-04-13",
+   "sample": 965,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 3,
+      "jean-luc-melenchon": 17,
+      "olivier-faure": 6,
+      "edouard-philippe": 32,
+      "laurent-wauquiez": 7,
+      "jordan-bardella": 23,
+      "eric-zemmour": 9
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Harris",
+   "dateLabel": "6-7 avril",
+   "date": "2023-04-07",
+   "sample": 1320,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 4,
+      "jean-luc-melenchon": 16,
+      "yannick-jadot": 4,
+      "edouard-philippe": 24,
+      "laurent-wauquiez": 5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 30,
+      "eric-zemmour": 7
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 18,
+      "yannick-jadot": 5,
+      "laurent-wauquiez": 5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 7
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 19,
+      "yannick-jadot": 5,
+      "laurent-wauquiez": 7,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 33,
+      "eric-zemmour": 8
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2,
+      "fabien-roussel": 4,
+      "jean-luc-melenchon": 17,
+      "yannick-jadot": 4,
+      "edouard-philippe": 24,
+      "laurent-wauquiez": 5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 31,
+      "eric-zemmour": 7
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Odoxa",
+   "dateLabel": "5-6 avril 2023",
+   "date": "2023-04-06",
+   "sample": 1005,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 19,
+      "anne-hidalgo": 2,
+      "yannick-jadot": 4,
+      "emmanuel-macron": 23,
+      "valerie-pecresse": 3,
+      "jean-lassalle": 3,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 32,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Elabe",
+   "dateLabel": "3-5 avril 2023",
+   "date": "2023-04-05",
+   "sample": 1808,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 1,
+      "fabien-roussel": 4,
+      "jean-luc-melenchon": 18.5,
+      "anne-hidalgo": 1.5,
+      "yannick-jadot": 5,
+      "emmanuel-macron": 23,
+      "valerie-pecresse": 3.5,
+      "jean-lassalle": 2.5,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 31,
+      "eric-zemmour": 7
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "30-31 mars",
+   "date": "2023-03-31",
+   "sample": 1105,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2.5,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 17,
+      "olivier-faure": 3,
+      "marine-tondelier": 1,
+      "edouard-philippe": 26,
+      "laurent-wauquiez": 5,
+      "jean-lassalle": 2,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 29,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2.5,
+      "jean-luc-melenchon": 22,
+      "edouard-philippe": 28,
+      "laurent-wauquiez": 4,
+      "jean-lassalle": 2.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 31,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 2.5,
+      "fabien-roussel": 6,
+      "jean-luc-melenchon": 20,
+      "olivier-faure": 2,
+      "marine-tondelier": 1,
+      "laurent-wauquiez": 6,
+      "jean-lassalle": 2.5,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 32,
+      "eric-zemmour": 6
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 2.5,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 20,
+      "olivier-faure": 3,
+      "marine-tondelier": 2,
+      "laurent-wauquiez": 8,
+      "jean-lassalle": 2,
+      "nicolas-dupont-aignan": 4,
+      "marine-le-pen": 35,
+      "eric-zemmour": 7
+     },
+     "others": null
+    },
+    {
+     "values": {
+      "nathalie-arthaud": 1,
+      "philippe-poutou": 1.5,
+      "fabien-roussel": 6.5,
+      "jean-luc-melenchon": 20,
+      "olivier-faure": 2,
+      "marine-tondelier": 1,
+      "laurent-wauquiez": 10,
+      "jean-lassalle": 3,
+      "nicolas-dupont-aignan": 3,
+      "marine-le-pen": 36,
+      "eric-zemmour": 7
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "30-31 mars 2023",
+   "date": "2023-03-31",
+   "sample": 1105,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 1,
+      "fabien-roussel": 5,
+      "jean-luc-melenchon": 17,
+      "anne-hidalgo": 2,
+      "yannick-jadot": 5,
+      "emmanuel-macron": 25,
+      "valerie-pecresse": 4,
+      "jean-lassalle": 1.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 31,
+      "eric-zemmour": 6
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Cluster17",
+   "dateLabel": "4-6 novembre 2022",
+   "date": "2022-11-06",
+   "sample": 2096,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 1,
+      "fabien-roussel": 3,
+      "jean-luc-melenchon": 20,
+      "anne-hidalgo": 1,
+      "yannick-jadot": 5,
+      "emmanuel-macron": 30,
+      "valerie-pecresse": 3,
+      "jean-lassalle": 2.5,
+      "nicolas-dupont-aignan": 2.5,
+      "marine-le-pen": 25.5,
+      "eric-zemmour": 6
+     },
+     "others": null
+    }
+   ]
+  },
+  {
+   "pollster": "Ifop",
+   "dateLabel": "25-26 octobre 2022",
+   "date": "2022-10-26",
+   "sample": 1126,
+   "scenarios": [
+    {
+     "values": {
+      "nathalie-arthaud": 0.5,
+      "philippe-poutou": 1,
+      "fabien-roussel": 3,
+      "jean-luc-melenchon": 17,
+      "anne-hidalgo": 2,
+      "yannick-jadot": 6,
+      "emmanuel-macron": 29,
+      "valerie-pecresse": 3,
+      "jean-lassalle": 1.5,
+      "nicolas-dupont-aignan": 2,
+      "marine-le-pen": 30,
+      "eric-zemmour": 5
+     },
+     "others": null
+    }
+   ]
+  }
+ ],
+ "matchups": [
+  {
+   "key": "raphael-glucksmann-marine-le-pen",
+   "title": "Glucksmann – Le Pen",
+   "candidates": [
+    "raphael-glucksmann",
+    "marine-le-pen"
+   ],
+   "absentFromFirstRound": false,
+   "polls": [
+    {
+     "pollster": "OpinionWay",
+     "dateLabel": "21-22 octobre 2026",
+     "date": "2026-10-22",
+     "sample": 973,
+     "values": {
+      "raphael-glucksmann": 44,
+      "marine-le-pen": 56
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "19-21 octobre 2026",
+     "date": "2026-10-21",
+     "sample": 2094,
+     "values": {
+      "raphael-glucksmann": 41,
+      "marine-le-pen": 59
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "17-19 octobre 2026",
+     "date": "2026-10-19",
+     "sample": 2081,
+     "values": {
+      "raphael-glucksmann": 43,
+      "marine-le-pen": 57
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "14-16 octobre 2026",
+     "date": "2026-10-16",
+     "sample": 1701,
+     "values": {
+      "raphael-glucksmann": 46.5,
+      "marine-le-pen": 53.5
+     }
+    },
+    {
+     "pollster": "YouGov",
+     "dateLabel": "12-15 octobre 2026",
+     "date": "2026-10-15",
+     "sample": 1094,
+     "values": {
+      "raphael-glucksmann": 45,
+      "marine-le-pen": 55
+     }
+    },
+    {
+     "pollster": "OpinionWay",
+     "dateLabel": "13-14 octobre 2026",
+     "date": "2026-10-14",
+     "sample": 1043,
+     "values": {
+      "raphael-glucksmann": 44,
+      "marine-le-pen": 56
+     }
+    },
+    {
+     "pollster": "YouGov",
+     "dateLabel": "17-21 septembre 2026",
+     "date": "2026-09-21",
+     "sample": 1103,
+     "values": {
+      "raphael-glucksmann": 41,
+      "marine-le-pen": 59
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "26-28 août 2026",
+     "date": "2026-08-28",
+     "sample": 1503,
+     "values": {
+      "raphael-glucksmann": 43,
+      "marine-le-pen": 57
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "24-25 août 2026",
+     "date": "2026-08-25",
+     "sample": 1598,
+     "values": {
+      "raphael-glucksmann": 45,
+      "marine-le-pen": 55
+     }
+    },
+    {
+     "pollster": "Cluster17",
+     "dateLabel": "22-24 juillet 2026",
+     "date": "2026-07-24",
+     "sample": 1506,
+     "values": {
+      "raphael-glucksmann": 44,
+      "marine-le-pen": 56
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "9-10 juillet 2026",
+     "date": "2026-07-10",
+     "sample": 1503,
+     "values": {
+      "raphael-glucksmann": 41.5,
+      "marine-le-pen": 58.5
+     }
+    }
+   ]
+  },
+  {
+   "key": "jean-luc-melenchon-marine-le-pen",
+   "title": "Mélenchon – Le Pen",
+   "candidates": [
+    "jean-luc-melenchon",
+    "marine-le-pen"
+   ],
+   "absentFromFirstRound": false,
+   "polls": [
+    {
+     "pollster": "OpinionWay",
+     "dateLabel": "21-22 octobre 2026",
+     "date": "2026-10-22",
+     "sample": 973,
+     "values": {
+      "jean-luc-melenchon": 31,
+      "marine-le-pen": 69
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "19-21 octobre 2026",
+     "date": "2026-10-21",
+     "sample": 2094,
+     "values": {
+      "jean-luc-melenchon": 30,
+      "marine-le-pen": 70
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "17-19 octobre 2026",
+     "date": "2026-10-19",
+     "sample": 2081,
+     "values": {
+      "jean-luc-melenchon": 32,
+      "marine-le-pen": 68
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "14-16 octobre 2026",
+     "date": "2026-10-16",
+     "sample": 1701,
+     "values": {
+      "jean-luc-melenchon": 31,
+      "marine-le-pen": 69
+     }
+    },
+    {
+     "pollster": "YouGov",
+     "dateLabel": "12-15 octobre 2026",
+     "date": "2026-10-15",
+     "sample": 1094,
+     "values": {
+      "jean-luc-melenchon": 32,
+      "marine-le-pen": 68
+     }
+    },
+    {
+     "pollster": "OpinionWay",
+     "dateLabel": "13-14 octobre 2026",
+     "date": "2026-10-14",
+     "sample": 1043,
+     "values": {
+      "jean-luc-melenchon": 32,
+      "marine-le-pen": 68
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "5-8 octobre 2026",
+     "date": "2026-10-08",
+     "sample": 2004,
+     "values": {
+      "jean-luc-melenchon": 33,
+      "marine-le-pen": 67
+     }
+    },
+    {
+     "pollster": "Odoxa",
+     "dateLabel": "24 septembre - 7 octobre 2026",
+     "date": "2026-10-07",
+     "sample": 12005,
+     "values": {
+      "jean-luc-melenchon": 32,
+      "marine-le-pen": 68
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "22-24 septembre 2026",
+     "date": "2026-09-24",
+     "sample": 1974,
+     "values": {
+      "jean-luc-melenchon": 31,
+      "marine-le-pen": 69
+     }
+    },
+    {
+     "pollster": "YouGov",
+     "dateLabel": "17-21 septembre 2026",
+     "date": "2026-09-21",
+     "sample": 1103,
+     "values": {
+      "jean-luc-melenchon": 36,
+      "marine-le-pen": 64
+     }
+    },
+    {
+     "pollster": "OpinionWay",
+     "dateLabel": "9-10 septembre 2026",
+     "date": "2026-09-10",
+     "sample": 1001,
+     "values": {
+      "jean-luc-melenchon": 33,
+      "marine-le-pen": 67
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "8-10 septembre 2026",
+     "date": "2026-09-10",
+     "sample": 2052,
+     "values": {
+      "jean-luc-melenchon": 33,
+      "marine-le-pen": 67
+     }
+    },
+    {
+     "pollster": "OpinionWay",
+     "dateLabel": "2-3 septembre 2026",
+     "date": "2026-09-03",
+     "sample": 1003,
+     "values": {
+      "jean-luc-melenchon": 34,
+      "marine-le-pen": 66
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "26-28 août 2026",
+     "date": "2026-08-28",
+     "sample": 1503,
+     "values": {
+      "jean-luc-melenchon": 30.5,
+      "marine-le-pen": 69.5
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "24-25 août 2026",
+     "date": "2026-08-25",
+     "sample": 1598,
+     "values": {
+      "jean-luc-melenchon": 33,
+      "marine-le-pen": 67
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "18-19 août 2026",
+     "date": "2026-08-19",
+     "sample": 1764,
+     "values": {
+      "jean-luc-melenchon": 32,
+      "marine-le-pen": 68
+     }
+    },
+    {
+     "pollster": "Cluster17",
+     "dateLabel": "22-24 juillet 2026",
+     "date": "2026-07-24",
+     "sample": 1506,
+     "values": {
+      "jean-luc-melenchon": 39,
+      "marine-le-pen": 61
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "9-10 juillet 2026",
+     "date": "2026-07-10",
+     "sample": 1503,
+     "values": {
+      "jean-luc-melenchon": 32.5,
+      "marine-le-pen": 67.5
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "7-8 juillet 2026",
+     "date": "2026-07-08",
+     "sample": 984,
+     "values": {
+      "jean-luc-melenchon": 30,
+      "marine-le-pen": 70
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "7-8 juillet 2026",
+     "date": "2026-07-08",
+     "sample": 1592,
+     "values": {
+      "jean-luc-melenchon": 33,
+      "marine-le-pen": 67
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "25-27 mai 2026",
+     "date": "2026-05-27",
+     "sample": 1744,
+     "values": {
+      "jean-luc-melenchon": 33,
+      "marine-le-pen": 67
+     }
+    },
+    {
+     "pollster": "Cluster 17",
+     "dateLabel": "2-5 avril 2024",
+     "date": "2024-04-05",
+     "sample": 1713,
+     "values": {
+      "jean-luc-melenchon": 35,
+      "marine-le-pen": 65
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "31 janvier - 1er février 2024",
+     "date": "2024-02-01",
+     "sample": 1081,
+     "values": {
+      "jean-luc-melenchon": 36,
+      "marine-le-pen": 64
+     }
+    }
+   ]
+  },
+  {
+   "key": "edouard-philippe-marine-le-pen",
+   "title": "Philippe – Le Pen",
+   "candidates": [
+    "edouard-philippe",
+    "marine-le-pen"
+   ],
+   "absentFromFirstRound": false,
+   "polls": [
+    {
+     "pollster": "OpinionWay",
+     "dateLabel": "21-22 octobre 2026",
+     "date": "2026-10-22",
+     "sample": 973,
+     "values": {
+      "edouard-philippe": 44,
+      "marine-le-pen": 56
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "19-21 octobre 2026",
+     "date": "2026-10-21",
+     "sample": 2094,
+     "values": {
+      "edouard-philippe": 43,
+      "marine-le-pen": 57
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "17-19 octobre 2026",
+     "date": "2026-10-19",
+     "sample": 2081,
+     "values": {
+      "edouard-philippe": 44,
+      "marine-le-pen": 56
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "14-16 octobre 2026",
+     "date": "2026-10-16",
+     "sample": 1701,
+     "values": {
+      "edouard-philippe": 47.5,
+      "marine-le-pen": 52.5
+     }
+    },
+    {
+     "pollster": "YouGov",
+     "dateLabel": "12-15 octobre 2026",
+     "date": "2026-10-15",
+     "sample": 1094,
+     "values": {
+      "edouard-philippe": 48,
+      "marine-le-pen": 52
+     }
+    },
+    {
+     "pollster": "OpinionWay",
+     "dateLabel": "13-14 octobre 2026",
+     "date": "2026-10-14",
+     "sample": 1043,
+     "values": {
+      "edouard-philippe": 44,
+      "marine-le-pen": 56
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "5-8 octobre 2026",
+     "date": "2026-10-08",
+     "sample": 2004,
+     "values": {
+      "edouard-philippe": 44,
+      "marine-le-pen": 56
+     }
+    },
+    {
+     "pollster": "Odoxa",
+     "dateLabel": "24 septembre - 7 octobre 2026",
+     "date": "2026-10-07",
+     "sample": 12005,
+     "values": {
+      "edouard-philippe": 47,
+      "marine-le-pen": 53
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "22-24 septembre 2026",
+     "date": "2026-09-24",
+     "sample": 1974,
+     "values": {
+      "edouard-philippe": 43,
+      "marine-le-pen": 57
+     }
+    },
+    {
+     "pollster": "YouGov",
+     "dateLabel": "17-21 septembre 2026",
+     "date": "2026-09-21",
+     "sample": 1103,
+     "values": {
+      "edouard-philippe": 45,
+      "marine-le-pen": 55
+     }
+    },
+    {
+     "pollster": "OpinionWay",
+     "dateLabel": "9-10 septembre 2026",
+     "date": "2026-09-10",
+     "sample": 1001,
+     "values": {
+      "edouard-philippe": 45,
+      "marine-le-pen": 55
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "8-10 septembre 2026",
+     "date": "2026-09-10",
+     "sample": 2052,
+     "values": {
+      "edouard-philippe": 45,
+      "marine-le-pen": 55
+     }
+    },
+    {
+     "pollster": "OpinionWay",
+     "dateLabel": "2-3 septembre 2026",
+     "date": "2026-09-03",
+     "sample": 1003,
+     "values": {
+      "edouard-philippe": 48,
+      "marine-le-pen": 52
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "26-28 août 2026",
+     "date": "2026-08-28",
+     "sample": 1503,
+     "values": {
+      "edouard-philippe": 47.5,
+      "marine-le-pen": 52.5
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "24-25 août 2026",
+     "date": "2026-08-25",
+     "sample": 1598,
+     "values": {
+      "edouard-philippe": 48,
+      "marine-le-pen": 52
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "18-19 août 2026",
+     "date": "2026-08-19",
+     "sample": 1764,
+     "values": {
+      "edouard-philippe": 45,
+      "marine-le-pen": 55
+     }
+    },
+    {
+     "pollster": "Cluster17",
+     "dateLabel": "22-24 juillet 2026",
+     "date": "2026-07-24",
+     "sample": 1506,
+     "values": {
+      "edouard-philippe": 48,
+      "marine-le-pen": 52
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "9-10 juillet 2026",
+     "date": "2026-07-10",
+     "sample": 1503,
+     "values": {
+      "edouard-philippe": 48,
+      "marine-le-pen": 52
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "7-8 juillet 2026",
+     "date": "2026-07-08",
+     "sample": 984,
+     "values": {
+      "edouard-philippe": 46,
+      "marine-le-pen": 54
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "7-8 juillet 2026",
+     "date": "2026-07-08",
+     "sample": 1592,
+     "values": {
+      "edouard-philippe": 49,
+      "marine-le-pen": 51
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "25-27 mai 2026",
+     "date": "2026-05-27",
+     "sample": 1744,
+     "values": {
+      "edouard-philippe": 48,
+      "marine-le-pen": 52
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "25-27 mars 2026",
+     "date": "2026-03-27",
+     "sample": 1504,
+     "values": {
+      "edouard-philippe": 53,
+      "marine-le-pen": 47
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "29-30 avril 2025",
+     "date": "2025-04-30",
+     "sample": 1838,
+     "values": {
+      "edouard-philippe": 52,
+      "marine-le-pen": 48
+     }
+    },
+    {
+     "pollster": "Odoxa",
+     "dateLabel": "23-24 avril 2025",
+     "date": "2025-04-24",
+     "sample": 1005,
+     "values": {
+      "edouard-philippe": 54,
+      "marine-le-pen": 46
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "16-18 avril 2024",
+     "date": "2024-04-18",
+     "sample": 1090,
+     "values": {
+      "edouard-philippe": 49,
+      "marine-le-pen": 51
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "31 janvier - 1er février 2024",
+     "date": "2024-02-01",
+     "sample": 1081,
+     "values": {
+      "edouard-philippe": 50,
+      "marine-le-pen": 50
+     }
+    }
+   ]
+  },
+  {
+   "key": "gabriel-attal-marine-le-pen",
+   "title": "Attal – Le Pen",
+   "candidates": [
+    "gabriel-attal",
+    "marine-le-pen"
+   ],
+   "absentFromFirstRound": false,
+   "polls": [
+    {
+     "pollster": "Ifop",
+     "dateLabel": "17-19 octobre 2026",
+     "date": "2026-10-19",
+     "sample": 2081,
+     "values": {
+      "gabriel-attal": 42,
+      "marine-le-pen": 58
+     }
+    },
+    {
+     "pollster": "YouGov",
+     "dateLabel": "12-15 octobre 2026",
+     "date": "2026-10-15",
+     "sample": 1094,
+     "values": {
+      "gabriel-attal": 45,
+      "marine-le-pen": 55
+     }
+    },
+    {
+     "pollster": "YouGov",
+     "dateLabel": "17-21 septembre 2026",
+     "date": "2026-09-21",
+     "sample": 1103,
+     "values": {
+      "gabriel-attal": 43,
+      "marine-le-pen": 57
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "8-10 septembre 2026",
+     "date": "2026-09-10",
+     "sample": 2052,
+     "values": {
+      "gabriel-attal": 44,
+      "marine-le-pen": 56
+     }
+    },
+    {
+     "pollster": "OpinionWay",
+     "dateLabel": "2-3 septembre 2026",
+     "date": "2026-09-03",
+     "sample": 1003,
+     "values": {
+      "gabriel-attal": 45,
+      "marine-le-pen": 55
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "26-28 août 2026",
+     "date": "2026-08-28",
+     "sample": 1503,
+     "values": {
+      "gabriel-attal": 43,
+      "marine-le-pen": 57
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "24-25 août 2026",
+     "date": "2026-08-25",
+     "sample": 1598,
+     "values": {
+      "gabriel-attal": 46,
+      "marine-le-pen": 54
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "18-19 août 2026",
+     "date": "2026-08-19",
+     "sample": 1764,
+     "values": {
+      "gabriel-attal": 43,
+      "marine-le-pen": 57
+     }
+    },
+    {
+     "pollster": "Cluster17",
+     "dateLabel": "22-24 juillet 2026",
+     "date": "2026-07-24",
+     "sample": 1506,
+     "values": {
+      "gabriel-attal": 44,
+      "marine-le-pen": 56
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "9-10 juillet 2026",
+     "date": "2026-07-10",
+     "sample": 1503,
+     "values": {
+      "gabriel-attal": 46,
+      "marine-le-pen": 54
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "7-8 juillet 2026",
+     "date": "2026-07-08",
+     "sample": 984,
+     "values": {
+      "gabriel-attal": 45,
+      "marine-le-pen": 55
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "7-8 juillet 2026",
+     "date": "2026-07-08",
+     "sample": 1592,
+     "values": {
+      "gabriel-attal": 45,
+      "marine-le-pen": 55
+     }
+    },
+    {
+     "pollster": "Harris",
+     "dateLabel": "25-27 mai 2026",
+     "date": "2026-05-27",
+     "sample": 1744,
+     "values": {
+      "gabriel-attal": 46,
+      "marine-le-pen": 54
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "25-27 mars 2026",
+     "date": "2026-03-27",
+     "sample": 1504,
+     "values": {
+      "gabriel-attal": 49,
+      "marine-le-pen": 51
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "16-18 avril 2024",
+     "date": "2024-04-18",
+     "sample": 1093,
+     "values": {
+      "gabriel-attal": 47,
+      "marine-le-pen": 53
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "31 janvier - 1er février 2024",
+     "date": "2024-02-01",
+     "sample": 1081,
+     "values": {
+      "gabriel-attal": 49,
+      "marine-le-pen": 51
+     }
+    }
+   ]
+  },
+  {
+   "key": "francois-hollande-marine-le-pen",
+   "title": "Hollande – Le Pen",
+   "candidates": [
+    "francois-hollande",
+    "marine-le-pen"
+   ],
+   "absentFromFirstRound": false,
+   "polls": [
+    {
+     "pollster": "Ifop",
+     "dateLabel": "17-19 octobre 2026",
+     "date": "2026-10-19",
+     "sample": 2081,
+     "values": {
+      "francois-hollande": 41,
+      "marine-le-pen": 59
+     }
+    },
+    {
+     "pollster": "YouGov",
+     "dateLabel": "12-15 octobre 2026",
+     "date": "2026-10-15",
+     "sample": 1094,
+     "values": {
+      "francois-hollande": 45,
+      "marine-le-pen": 55
+     }
+    },
+    {
+     "pollster": "YouGov",
+     "dateLabel": "17-21 septembre 2026",
+     "date": "2026-09-21",
+     "sample": 1103,
+     "values": {
+      "francois-hollande": 44,
+      "marine-le-pen": 56
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "24-25 août 2026",
+     "date": "2026-08-25",
+     "sample": 1598,
+     "values": {
+      "francois-hollande": 46,
+      "marine-le-pen": 54
+     }
+    }
+   ]
+  },
+  {
+   "key": "jean-luc-melenchon-edouard-philippe",
+   "title": "Mélenchon – Philippe",
+   "candidates": [
+    "jean-luc-melenchon",
+    "edouard-philippe"
+   ],
+   "absentFromFirstRound": false,
+   "polls": [
+    {
+     "pollster": "YouGov",
+     "dateLabel": "12-15 octobre 2026",
+     "date": "2026-10-15",
+     "sample": 1094,
+     "values": {
+      "jean-luc-melenchon": 34,
+      "edouard-philippe": 66
+     }
+    },
+    {
+     "pollster": "YouGov",
+     "dateLabel": "17-21 septembre 2026",
+     "date": "2026-09-21",
+     "sample": 1103,
+     "values": {
+      "jean-luc-melenchon": 39,
+      "edouard-philippe": 61
+     }
+    }
+   ]
+  },
+  {
+   "key": "bruno-retailleau-marine-le-pen",
+   "title": "Retailleau – Le Pen",
+   "candidates": [
+    "bruno-retailleau",
+    "marine-le-pen"
+   ],
+   "absentFromFirstRound": false,
+   "polls": [
+    {
+     "pollster": "Ifop",
+     "dateLabel": "24-25 août 2026",
+     "date": "2026-08-25",
+     "sample": 1598,
+     "values": {
+      "bruno-retailleau": 42,
+      "marine-le-pen": 58
+     }
+    },
+    {
+     "pollster": "Cluster17",
+     "dateLabel": "22-24 juillet 2026",
+     "date": "2026-07-24",
+     "sample": 1506,
+     "values": {
+      "bruno-retailleau": 43,
+      "marine-le-pen": 57
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "9-10 juillet 2026",
+     "date": "2026-07-10",
+     "sample": 1503,
+     "values": {
+      "bruno-retailleau": 44,
+      "marine-le-pen": 56
+     }
+    }
+   ]
+  },
+  {
+   "key": "gabriel-attal-jordan-bardella",
+   "title": "Attal – Bardella",
+   "candidates": [
+    "gabriel-attal",
+    "jordan-bardella"
+   ],
+   "absentFromFirstRound": true,
+   "polls": [
+    {
+     "pollster": "Harris",
+     "dateLabel": "25-27 mai 2026",
+     "date": "2026-05-27",
+     "sample": 1744,
+     "values": {
+      "gabriel-attal": 43,
+      "jordan-bardella": 57
+     }
+    },
+    {
+     "pollster": "Odoxa",
+     "dateLabel": "19-20 novembre 2025",
+     "date": "2025-11-20",
+     "sample": 776,
+     "values": {
+      "gabriel-attal": 44,
+      "jordan-bardella": 56
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "11-18 avril 2025",
+     "date": "2025-04-18",
+     "sample": 9128,
+     "values": {
+      "gabriel-attal": 48,
+      "jordan-bardella": 52
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "16-18 avril 2024",
+     "date": "2024-04-18",
+     "sample": 1093,
+     "values": {
+      "gabriel-attal": 49,
+      "jordan-bardella": 51
+     }
+    }
+   ]
+  },
+  {
+   "key": "jean-luc-melenchon-jordan-bardella",
+   "title": "Mélenchon – Bardella",
+   "candidates": [
+    "jean-luc-melenchon",
+    "jordan-bardella"
+   ],
+   "absentFromFirstRound": true,
+   "polls": [
+    {
+     "pollster": "Harris",
+     "dateLabel": "25-27 mai 2026",
+     "date": "2026-05-27",
+     "sample": 1744,
+     "values": {
+      "jean-luc-melenchon": 32,
+      "jordan-bardella": 68
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "25-27 mars 2026",
+     "date": "2026-03-27",
+     "sample": 1504,
+     "values": {
+      "jean-luc-melenchon": 28.5,
+      "jordan-bardella": 71.5
+     }
+    },
+    {
+     "pollster": "Odoxa",
+     "dateLabel": "19-20 novembre 2025",
+     "date": "2025-11-20",
+     "sample": 689,
+     "values": {
+      "jean-luc-melenchon": 26,
+      "jordan-bardella": 74
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "11-18 avril 2025",
+     "date": "2025-04-18",
+     "sample": 9128,
+     "values": {
+      "jean-luc-melenchon": 33,
+      "jordan-bardella": 67
+     }
+    }
+   ]
+  },
+  {
+   "key": "edouard-philippe-jordan-bardella",
+   "title": "Philippe – Bardella",
+   "candidates": [
+    "edouard-philippe",
+    "jordan-bardella"
+   ],
+   "absentFromFirstRound": true,
+   "polls": [
+    {
+     "pollster": "Harris",
+     "dateLabel": "25-27 mai 2026",
+     "date": "2026-05-27",
+     "sample": 1744,
+     "values": {
+      "edouard-philippe": 46,
+      "jordan-bardella": 54
+     }
+    },
+    {
+     "pollster": "Odoxa",
+     "dateLabel": "20-21 mai 2026",
+     "date": "2026-05-21",
+     "sample": 1005,
+     "values": {
+      "edouard-philippe": 48,
+      "jordan-bardella": 52
+     }
+    },
+    {
+     "pollster": "Elabe",
+     "dateLabel": "25-27 mars 2026",
+     "date": "2026-03-27",
+     "sample": 1504,
+     "values": {
+      "edouard-philippe": 51.5,
+      "jordan-bardella": 48.5
+     }
+    },
+    {
+     "pollster": "Odoxa",
+     "dateLabel": "25-26 mars 2026",
+     "date": "2026-03-26",
+     "sample": 812,
+     "values": {
+      "edouard-philippe": 52,
+      "jordan-bardella": 48
+     }
+    },
+    {
+     "pollster": "Odoxa",
+     "dateLabel": "19-20 novembre 2025",
+     "date": "2025-11-20",
+     "sample": 803,
+     "values": {
+      "edouard-philippe": 47,
+      "jordan-bardella": 53
+     }
+    },
+    {
+     "pollster": "Odoxa",
+     "dateLabel": "23-24 avril 2025",
+     "date": "2025-04-24",
+     "sample": 1005,
+     "values": {
+      "edouard-philippe": 54,
+      "jordan-bardella": 46
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "11-18 avril 2025",
+     "date": "2025-04-18",
+     "sample": 9128,
+     "values": {
+      "edouard-philippe": 50,
+      "jordan-bardella": 50
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "16-18 avril 2024",
+     "date": "2024-04-18",
+     "sample": 1090,
+     "values": {
+      "edouard-philippe": 50,
+      "jordan-bardella": 50
+     }
+    }
+   ]
+  },
+  {
+   "key": "raphael-glucksmann-jordan-bardella",
+   "title": "Glucksmann – Bardella",
+   "candidates": [
+    "raphael-glucksmann",
+    "jordan-bardella"
+   ],
+   "absentFromFirstRound": true,
+   "polls": [
+    {
+     "pollster": "Elabe",
+     "dateLabel": "25-27 mars 2026",
+     "date": "2026-03-27",
+     "sample": 1504,
+     "values": {
+      "raphael-glucksmann": 41.5,
+      "jordan-bardella": 58.5
+     }
+    },
+    {
+     "pollster": "Odoxa",
+     "dateLabel": "19-20 novembre 2025",
+     "date": "2025-11-20",
+     "sample": 795,
+     "values": {
+      "raphael-glucksmann": 42,
+      "jordan-bardella": 58
+     }
+    }
+   ]
+  },
+  {
+   "key": "bruno-retailleau-jordan-bardella",
+   "title": "Retailleau – Bardella",
+   "candidates": [
+    "bruno-retailleau",
+    "jordan-bardella"
+   ],
+   "absentFromFirstRound": true,
+   "polls": [
+    {
+     "pollster": "Elabe",
+     "dateLabel": "25-27 mars 2026",
+     "date": "2026-03-27",
+     "sample": 1504,
+     "values": {
+      "bruno-retailleau": 42,
+      "jordan-bardella": 58
+     }
+    },
+    {
+     "pollster": "Ifop",
+     "dateLabel": "11-18 avril 2025",
+     "date": "2025-04-18",
+     "sample": 9128,
+     "values": {
+      "bruno-retailleau": 47,
+      "jordan-bardella": 53
+     }
+    }
+   ]
+  },
+  {
+   "key": "francois-ruffin-marine-le-pen",
+   "title": "Ruffin – Le Pen",
+   "candidates": [
+    "francois-ruffin",
+    "marine-le-pen"
+   ],
+   "absentFromFirstRound": false,
+   "polls": [
+    {
+     "pollster": "Cluster 17",
+     "dateLabel": "2-5 avril 2024",
+     "date": "2024-04-05",
+     "sample": 1713,
+     "values": {
+      "francois-ruffin": 50,
+      "marine-le-pen": 50
+     }
+    }
+   ]
+  }
+ ],
+ "candidates": {
+  "nathalie-arthaud": {
+   "slug": "nathalie-arthaud",
+   "name": "Nathalie Arthaud",
+   "shortName": "Arthaud",
+   "party": "LO",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nathalie_Arthaud_(LO)_19-05-2024.jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024.jpg"
+  },
+  "jean-luc-melenchon": {
+   "slug": "jean-luc-melenchon",
+   "name": "Jean-Luc Mélenchon",
+   "shortName": "Mélenchon",
+   "party": "LFI",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_(cropped).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_(cropped).jpg"
+  },
+  "fabien-roussel": {
+   "slug": "fabien-roussel",
+   "name": "Fabien Roussel",
+   "shortName": "Roussel",
+   "party": "PCF",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Roussel_Fabien_1.jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg"
+  },
+  "marine-tondelier": {
+   "slug": "marine-tondelier",
+   "name": "Marine Tondelier",
+   "shortName": "Tondelier",
+   "party": "LE",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/20210819_tondelier.m-cr3.jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:20210819_tondelier.m-cr3.jpg"
+  },
+  "raphael-glucksmann": {
+   "slug": "raphael-glucksmann",
+   "name": "Raphaël Glucksmann",
+   "shortName": "Glucksmann",
+   "party": "PP",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg"
+  },
+  "gabriel-attal": {
+   "slug": "gabriel-attal",
+   "name": "Gabriel Attal",
+   "shortName": "Attal",
+   "party": "RE",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gabriel_Attal_2025_(close_crop).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg"
+  },
+  "edouard-philippe": {
+   "slug": "edouard-philippe",
+   "name": "Édouard Philippe",
+   "shortName": "Philippe",
+   "party": "HOR",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard_Philippe_3x4_crop.jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg"
+  },
+  "david-lisnard": {
+   "slug": "david-lisnard",
+   "name": "David Lisnard",
+   "shortName": "Lisnard",
+   "party": "NE",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Lisnard_en_2026.jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:David_Lisnard_en_2026.jpg"
+  },
+  "bruno-retailleau": {
+   "slug": "bruno-retailleau",
+   "name": "Bruno Retailleau",
+   "shortName": "Retailleau",
+   "party": "LR",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruno_Retailleau_-_Ministre_de_l'Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Bruno_Retailleau_-_Ministre_de_l'Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg"
+  },
+  "nicolas-dupont-aignan": {
+   "slug": "nicolas-dupont-aignan",
+   "name": "Nicolas Dupont-Aignan",
+   "shortName": "Dupont-Aignan",
+   "party": "DLF",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Dupont-Aignan%2C_homme_politique_fran%C3%A7ais_(cropped).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan%2C_homme_politique_fran%C3%A7ais_(cropped).jpg"
+  },
+  "marine-le-pen": {
+   "slug": "marine-le-pen",
+   "name": "Marine Le Pen",
+   "shortName": "Le Pen",
+   "party": "RN",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marine_Le_Pen_2025_(cropped).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg"
+  },
+  "eric-zemmour": {
+   "slug": "eric-zemmour",
+   "name": "Éric Zemmour",
+   "shortName": "Zemmour",
+   "party": "REC",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_%C3%89ric_Zemmour%2C_avril_2022_cropped.jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Portrait_%C3%89ric_Zemmour%2C_avril_2022_cropped.jpg"
+  },
+  "dominique-de-villepin": {
+   "slug": "dominique-de-villepin",
+   "name": "Dominique de Villepin",
+   "shortName": "Villepin",
+   "party": "LFH",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Dominique_de_Villepin_20100330_Salon_du_livre_de_Paris_2_cropped.jpg"
+  },
+  "rassemblement-national": {
+   "slug": "rassemblement-national",
+   "name": "Rassemblement national",
+   "shortName": "CandidatRN",
+   "party": "",
+   "generic": true,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Rassemblement_National_-_Cropped.svg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Logo_Rassemblement_National_-_Cropped.svg"
+  },
+  "philippe-poutou": {
+   "slug": "philippe-poutou",
+   "name": "Philippe Poutou",
+   "shortName": "Poutou",
+   "party": "NPA-A",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippe_Poutou_-_Gilets_jaunes_(2019).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Philippe_Poutou_-_Gilets_jaunes_(2019).jpg"
+  },
+  "parti-socialiste": {
+   "slug": "parti-socialiste",
+   "name": "Parti socialiste",
+   "shortName": "CandidatPS / PP",
+   "party": "",
+   "generic": true,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Parti_Socialiste_-_2024.svg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Logo_Parti_Socialiste_-_2024.svg"
+  },
+  "ensemble-pour-la-republique": {
+   "slug": "ensemble-pour-la-republique",
+   "name": "Ensemble pour la République",
+   "shortName": "CandidatEPR",
+   "party": "",
+   "generic": true,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ensemble_2024_B.png?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Ensemble_2024_B.png"
+  },
+  "les-republicains": {
+   "slug": "les-republicains",
+   "name": "Les Républicains",
+   "shortName": "CandidatLR",
+   "party": "",
+   "generic": true,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Les_R%C3%A9publicains_-_logo_(France%2C_2023)_(cropped).svg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Les_R%C3%A9publicains_-_logo_(France%2C_2023)_(cropped).svg"
+  },
+  "olivier-faure": {
+   "slug": "olivier-faure",
+   "name": "Olivier Faure",
+   "shortName": "Faure",
+   "party": "PS",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/OF_MATIGNON_-_MAXIME_CLAM_(cropped).png?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:OF_MATIGNON_-_MAXIME_CLAM_(cropped).png"
+  },
+  "laurent-wauquiez": {
+   "slug": "laurent-wauquiez",
+   "name": "Laurent Wauquiez",
+   "shortName": "Wauquiez",
+   "party": "LR",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Laurent_Wauquiez_2021.jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Laurent_Wauquiez_2021.jpg"
+  },
+  "jean-lassalle": {
+   "slug": "jean-lassalle",
+   "name": "Jean Lassalle",
+   "shortName": "Lassalle",
+   "party": "RES",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Lassalle_04_(cropped).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Jean_Lassalle_04_(cropped).jpg"
+  },
+  "europe-ecologie-les-verts": {
+   "slug": "europe-ecologie-les-verts",
+   "name": "Europe Écologie Les Verts",
+   "shortName": "CandidatEELV",
+   "party": "",
+   "generic": true,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Les_%C3%89cologistes.svg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Logo_Les_%C3%89cologistes.svg"
+  },
+  "ensemble": {
+   "slug": "ensemble",
+   "name": "Ensemble",
+   "shortName": "CandidatENS",
+   "party": "",
+   "generic": true,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ensemble_2024_B.png?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Ensemble_2024_B.png"
+  },
+  "anne-hidalgo": {
+   "slug": "anne-hidalgo",
+   "name": "Anne Hidalgo",
+   "shortName": "Hidalgo",
+   "party": "PS",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anne_Hidalgo%2C_f%C3%A9vrier_2014_(cropped).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Anne_Hidalgo%2C_f%C3%A9vrier_2014_(cropped).jpg"
+  },
+  "yannick-jadot": {
+   "slug": "yannick-jadot",
+   "name": "Yannick Jadot",
+   "shortName": "Jadot",
+   "party": "EELV",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yannick_Jadot%2C_2014_(cropped).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Yannick_Jadot%2C_2014_(cropped).jpg"
+  },
+  "emmanuel-macron": {
+   "slug": "emmanuel-macron",
+   "name": "Emmanuel Macron",
+   "shortName": "Macron",
+   "party": "REN",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel_Macron_2025_(cropped).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg"
+  },
+  "valerie-pecresse": {
+   "slug": "valerie-pecresse",
+   "name": "Valérie Pécresse",
+   "shortName": "Pécresse",
+   "party": "LR",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Val%C3%A9rie_P%C3%A9cresse_(2022)_(cropped_2).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Val%C3%A9rie_P%C3%A9cresse_(2022)_(cropped_2).jpg"
+  },
+  "francois-hollande": {
+   "slug": "francois-hollande",
+   "name": "François Hollande",
+   "shortName": "Hollande",
+   "party": "PS",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg"
+  },
+  "francois-ruffin": {
+   "slug": "francois-ruffin",
+   "name": "François Ruffin",
+   "shortName": "Ruffin",
+   "party": "D!",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois_Ruffin_(cropped).jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg"
+  },
+  "jordan-bardella": {
+   "slug": "jordan-bardella",
+   "name": "Jordan Bardella",
+   "shortName": "Bardella",
+   "party": "RN",
+   "generic": false,
+   "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/MEP_Jordan_Bardella.jpg?width=160",
+   "photoPage": "https://commons.wikimedia.org/wiki/File:MEP_Jordan_Bardella.jpg"
+  }
+ }
+}

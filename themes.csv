@@ -1,0 +1,9 @@
+﻿code;nom;icone;couleur;pole_negatif;pole_positif;description
+econ;Économie;💶;#0055A4;Économie dirigée / publique;Libéralisme économique;"Impôts, emploi, place de l'État dans l'économie."
+welf;Protection sociale;🩺;#D7263D;Redistribution forte;Responsabilité individuelle;"Retraites, santé, aides sociales, inégalités."
+soci;Société & mœurs;👨‍👩‍👧;#8E44AD;Progressisme;Conservatisme;"Famille, mœurs, laïcité, école et transmission."
+euro;Europe;⭐;#1B998B;Intégration européenne;Souveraineté nationale;La place de la France dans l'Union européenne.
+ecol;Écologie;🌱;#2EAD5A;Priorité à l'écologie;Priorité à la production;"Climat, énergie, agriculture, transition."
+immi;Immigration;🌍;#E08A00;Ouverture;Restriction;"Accueil, asile, nationalité, intégration."
+auth;Sécurité & libertés;⚖️;#34495E;Libertés individuelles;Autorité et ordre;"Police, justice, libertés et surveillance."
+inst;Institutions;🗳️;#E4572E;Rénovation démocratique;Continuité de la Ve République;"Pouvoirs du Président, Parlement, démocratie directe."
