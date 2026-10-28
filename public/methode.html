@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Méthode et sources — verdict27</title>
+  <meta name="description" content="Comment sont calculées les moyennes de sondages, le score du test et la proximité avec les candidats. D'où viennent les positions attribuées aux candidats.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 20'%3E%3Crect width='10' height='20' fill='%230055a4'/%3E%3Crect x='10' width='10' height='20' fill='%23fff'/%3E%3Crect x='20' width='10' height='20' fill='%23d7000f'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="legal">
+  <header class="topbar">
+    <a class="brand" href="/"><span class="flag" aria-hidden="true"><i></i><i></i><i></i></span>verdict27</a>
+    <nav aria-label="Sections"><a href="/#sondages">Sondages</a><a href="/#evolution">Évolution</a><a href="/#duels">Second tour</a><a href="/#test">Test</a></nav>
+    <a class="btn primary" href="/#test">Faire le test</a>
+  </header>
+
+  <main class="wrap prose">
+    <h1>Méthode et sources</h1>
+    <p class="lead">Ce que le site calcule, avec quelles données, et ce qu'il ne faut pas lui faire dire. Tout ce qui est décrit ici est vérifiable : les données sont des fichiers ouverts du projet.</p>
+
+    <nav class="toc" aria-label="Sommaire"><strong>En bref</strong>
+      <ol>
+        <li><a href="#sondages">Sondages et moyennes</a> : chiffres des instituts, moyenne simple sur 60 jours.</li>
+        <li><a href="#qualifies">Candidats « qualifiés »</a> : les deux premiers de la moyenne, ex æquo compris.</li>
+        <li><a href="#test">Score du test</a> : de −100 à +100 sur 8 thèmes.</li>
+        <li><a href="#positions">Positions des candidats</a> : notées avec les mêmes questions que vous, puis sourcées.</li>
+        <li><a href="#proximite">Proximité</a> : écart moyen entre vos positions et les leurs.</li>
+        <li><a href="#duels">Second tour</a> : moyenne des sondages de duel, votes des visiteurs à part.</li>
+      </ol>
+    </nav>
+
+    <h2 id="sondages">1. Les sondages</h2>
+    <ul>
+      <li><strong>Source :</strong> le tableau des sondages de la <a href="https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027" target="_blank" rel="noopener">page Wikipédia consacrée à la présidentielle 2027</a>, relue automatiquement toutes les 30 minutes. Les instituts (Ifop, Elabe, OpinionWay, Harris, Odoxa…) sont ceux que Wikipédia référence.</li>
+      <li><strong>Plusieurs scénarios :</strong> un même sondage peut tester plusieurs listes de candidats. Chaque scénario est conservé. Un contrôle rejette tout scénario dont la somme sort de 88–108 %, ce qui évite les erreurs de lecture.</li>
+      <li><strong>Moyenne :</strong> moyenne simple des sondages des 30, 60 ou 90 derniers jours, au choix. Par défaut un candidat non testé dans un scénario compte pour 0 % (option modifiable). Les sondages ne sont pas pondérés par leur échantillon ni par la qualité de l'institut.</li>
+      <li><strong>Calcul pas à pas :</strong> (1) on prend tous les sondages dont la date est comprise dans les 60 jours précédant le plus récent ; (2) dans chaque sondage, on fait la moyenne des scénarios pour chaque candidat ; (3) on fait la moyenne de ces valeurs sur tous les sondages de la fenêtre ; (4) on trie. Un candidat jamais testé dans la fenêtre n'est pas classé.</li>
+      <li><strong>À garder en tête :</strong> un sondage mesure des intentions déclarées à un instant donné, avec une marge d'erreur de l'ordre de 2 à 3 points. Les sondages ne sont pas des résultats.</li>
+    </ul>
+
+    <h2 id="qualifies">Les candidats « qualifiés »</h2>
+    <ul>
+      <li><strong>Règle :</strong> les deux candidats en tête de la moyenne sur 60 jours (zéro compté pour un candidat non testé, voir plus haut) sont surlignés partout sur le site : classement, tableau, courbes, grille des duels.</li>
+      <li><strong>Égalité :</strong> si le deuxième et le troisième ont la même moyenne, à 0,1 point près (la précision affichée), <strong>les deux sont surlignés</strong> : le site ne départage pas des candidats que les données ne départagent pas.</li>
+      <li><strong>Ce n'est pas une prévision :</strong> c'est une projection du type « si le vote avait lieu aujourd'hui, d'après la moyenne des sondages récents ». L'écart entre le 2e et le 3e est souvent inférieur à la marge d'erreur (2 à 3 points) ; la moyenne peut aussi changer avec chaque nouveau sondage ou le choix de la fenêtre (30, 60 ou 90 jours).</li>
+      <li>Le même calcul est utilisé côté serveur (pages candidat, e-mail mensuel) et dans le navigateur : les résultats sont identiques.</li>
+    </ul>
+
+    <h2 id="test">2. Le test</h2>
+    <ul>
+      <li><strong>Questions :</strong> 208 affirmations réparties sur 8 thèmes (économie, protection sociale, société, Europe, écologie, immigration, sécurité et libertés, institutions). Chaque question a un niveau : 8 pour le mode <em>Express</em> (une par thème, 2 minutes), 20 (<em>Rapide</em>), 50 (<em>Moyen</em>), 208 (<em>Précis</em>).</li>
+      <li><strong>Réponses :</strong> de 1 (pas du tout d'accord) à 5 (tout à fait d'accord). Chaque question a un sens : être d'accord rapproche d'un pôle du thème ou de l'autre. Les sens sont mélangés dans chaque thème pour que « tout approuver » ne donne pas un profil extrême.</li>
+      <li><strong>Score d'un thème :</strong> pour les questions répondues, on additionne <code>(réponse − 3) × sens</code>, puis on ramène à une échelle de −100 à +100. 0 = position équilibrée.</li>
+      <li><strong>Limites :</strong> une phrase est toujours une simplification. Le résultat dépend de la formulation et du nombre de réponses ; le mode Express est un aperçu, pas un diagnostic.</li>
+    </ul>
+
+    <h2 id="positions">3. Les positions des candidats : comment elles sont déterminées</h2>
+    <ol>
+      <li><strong>Une note par question :</strong> pour chaque candidat, l'éditeur répond aux mêmes affirmations que celles du test, avec la même échelle de 1 à 5, en se demandant « d'après ses programmes, ses votes et ses déclarations publiques, serait-il d'accord ? ». Cela donne un tableau candidat × question (<code>positions.csv</code>).</li>
+      <li><strong>Même formule que pour vous :</strong> les notes d'un candidat sur un thème sont converties en score de −100 à +100 avec exactement la formule du test (<code>(note − 3) × sens</code>, ramené à l'échelle). Un candidat et un visiteur sont donc comparés avec le même instrument.</li>
+      <li><strong>Seuil de fiabilité :</strong> un thème n'est retenu pour un candidat que s'il repose sur au moins 3 questions notées. Quand une position a été saisie directement à l'échelle du thème (<code>positions_themes.csv</code>), elle prime sur le calcul.</li>
+      <li><strong>Contrôles automatiques :</strong> avant chaque mise en ligne, un contrôle vérifie la cohérence du tableau (notes entre 1 et 5, sens des questions, positions plates ou inversées par rapport à l'orientation attendue). Il a déjà permis de corriger des notes saisies à l'envers pour certains candidats.</li>
+      <li><strong>Sources et corrections :</strong> chaque position peut être reliée à des sources (voir ci-dessous) et peut être corrigée sur signalement (paragraphe « Signaler une erreur »).</li>
+    </ol>
+    <ul>
+      <li><strong>Ce que c'est :</strong> pour chaque candidat et chaque thème, une position de −100 à +100 sur la même échelle que celle du test. Elle est attribuée par l'éditeur du site, à partir de programmes, de votes et de déclarations publiques.</li>
+      <li><strong>Sources :</strong> chaque position peut être justifiée par une ou plusieurs sources (titre, adresse, date). Le bouton « Pourquoi ce score ? » du résultat les affiche. Quand une source manque, c'est écrit : « source à compléter ». Un thème sans source reste une estimation.</li>
+      <li><strong>Un jugement humain :</strong> traduire un programme en un nombre suppose des choix. Ces choix sont publics et discutables ; ils sont rectifiés dès qu'une erreur est signalée.</li>
+      <li><strong>Candidats peu documentés :</strong> un candidat n'est classé que si au moins 4 thèmes sont renseignés. Sans position établie, il n'apparaît pas dans votre résultat.</li>
+    </ul>
+
+    <h2 id="proximite">4. La proximité avec un candidat</h2>
+    <p>Pour chaque thème où vous et le candidat avez une position :</p>
+    <p><code>accord = 1 − |votre score − son score| ÷ 200</code></p>
+    <p>La proximité affichée est la moyenne de ces accords sur les thèmes communs (100 % = positions identiques, 0 % = opposées). Exemple : sur l'économie vous êtes à +40 et le candidat à −20 → écart 60 → accord 1 − 60/200 = 70 % ; sur l'Europe vous êtes à +10 et lui à +30 → accord 90 %. Si ce sont vos deux seuls thèmes communs, la proximité est de 80 % (en pratique il en faut au moins 4). Tous les thèmes pèsent autant : le site ne devine pas ce qui compte le plus pour vous. Un pourcentage élevé signifie « proche sur l'ensemble », pas « vous voterez pour lui ».</p>
+
+    <h2 id="duels">Le second tour : duels</h2>
+    <ul>
+      <li><strong>Sondages de duel :</strong> chaque case de la grille est la moyenne des sondages de second tour de ce duel sur les 90 jours précédant le sondage le plus récent de ce duel. La couleur est celle du candidat en tête ; le chiffre affiché est celui du candidat de la ligne. Les pages « duel » utilisent la même fenêtre.</li>
+      <li><strong>« Duel probable » :</strong> les cases entre candidats surlignés comme qualifiés (voir plus haut), pas une prévision.</li>
+      <li><strong>Absence de sondage :</strong> une case sans chiffre signifie qu'aucun sondage de ce duel n'a été trouvé, pas un score nul.</li>
+    </ul>
+
+    <h2 id="actualite">L'actualité du mois</h2>
+    <ul>
+      <li><strong>À part :</strong> les questions d'actualité (guerre, énergie, lycées, maintien de l'ordre, racisme…) sont facultatives et <strong>n'entrent pas dans le score principal</strong>.</li>
+      <li><strong>Formulation :</strong> chaque affirmation porte sur une réponse politique possible, pas sur les faits, et est écrite de façon neutre ; le contexte factuel est rappelé avec ses sources.</li>
+      <li><strong>Positions des candidats :</strong> une position n'est enregistrée que si une déclaration publique datée et sourcée a été trouvée (nombreuses fiches reprises d'<a href="https://observatoire2027.fr/" target="_blank" rel="noopener">Observatoire 2027</a>, dont les contenus éditoriaux sont sous licence CC BY 4.0, et articles de presse). L'éditeur traduit cette déclaration en note de 1 à 5 ; cette traduction est une interprétation, à vérifier avec le lien de la source.</li>
+      <li><strong>Absence de position :</strong> si aucune déclaration n'a été trouvée, la case reste vide : ce n'est pas un désaccord. Un candidat n'est classé que s'il a au moins 3 positions sourcées sur les questions auxquelles vous avez répondu.</li>
+      <li><strong>Calcul :</strong> accord = 1 − |votre réponse − sa note| ÷ 4, moyenné sur les questions communes.</li>
+    </ul>
+
+    <h2>5. Le fil d'actualité</h2>
+    <p>Il affiche les titres, résumés courts et liens de flux RSS publics de médias français, filtrés sur la présidentielle et les candidats. Les articles appartiennent à leurs éditeurs : le site ne les copie pas et renvoie vers leur page d'origine. Le choix des sources est dans <code>data/sources.csv</code> et peut être élargi.</p>
+
+    <h2>6. Les votes des visiteurs</h2>
+    <p>Les votes sur les duels viennent de visiteurs volontaires, un vote par duel et par navigateur. Ce n'est <strong>pas un sondage</strong> : l'échantillon n'est ni tiré au sort ni redressé, et il peut être influencé. À lire comme un jeu, pas comme une mesure de l'opinion.</p>
+
+    <h2>7. Neutralité et indépendance</h2>
+    <p>Le site n'est affilié à aucun parti, candidat ou média. Il ne recommande aucun vote. Les mêmes règles de calcul s'appliquent à tous les candidats, et les fichiers de données sont ouverts à la vérification.</p>
+
+    <h2>8. Signaler une erreur</h2>
+    <p>Une position qui vous paraît fausse, une source à ajouter, un sondage manquant ? Écrivez à <strong>[adresse e-mail de contact]</strong> en indiquant le candidat, le thème et, si possible, un lien. Les corrections sont appliquées à la prochaine mise à jour des données.</p>
+
+    <p><a href="/confidentialite.html">Confidentialité et données personnelles</a> · <a href="/">Retour à l'accueil</a></p>
+  </main>
+  <footer class="footer"><div class="wrap"><p><a href="/">Accueil</a> · <a href="/candidats">Tous les candidats</a> · <a href="/mentions-legales.html">Mentions légales</a> · <a href="/donnees-ouvertes.html">Données ouvertes</a> · <a href="/confidentialite.html">Confidentialité</a></p></div></footer>
+</body>
+</html>

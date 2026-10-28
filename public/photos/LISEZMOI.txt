@@ -1,0 +1,19 @@
+PHOTOS DES CANDIDATS
+====================
+
+Par défaut, le site affiche les photos de Wikimédia Commons (récupérées via la page Wikipédia des sondages).
+Si une photo manque ou si vous préférez la vôtre, déposez-la ici :
+
+    marine-le-pen.jpg
+    jean-luc-melenchon.png
+    edouard-philippe.webp
+
+Règles :
+- le nom du fichier = l'identifiant du candidat (en minuscules, sans accents, avec des tirets) ;
+  la liste des identifiants est dans data/polls.json, clé "candidates" ;
+- formats acceptés : .jpg, .jpeg, .png, .webp ;
+- format conseillé : carré ou portrait, visage centré, 300 x 300 px minimum ;
+- une photo déposée ici est prioritaire sur celle de Wikimédia. Pas besoin de redémarrer le serveur.
+
+Sans photo, le site affiche les initiales du candidat dans un cercle.
+Pensez à vérifier les droits d'utilisation de chaque image que vous ajoutez.
