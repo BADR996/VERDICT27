@@ -1,0 +1,26 @@
+{
+  "name": "politest",
+  "version": "0.7.0",
+  "description": "Agrégateur de sondages présidentielles + test d'orientation politique",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "update-polls": "node scraper/update-polls.js",
+    "templates": "node scripts/export-templates.js",
+    "check-data": "node scripts/check-data.js",
+    "update-news": "node scripts/update-news.js",
+    "send-digest": "node scripts/send-digest.js",
+    "build-cards": "node scripts/build-cards.js",
+    "test": "node --test tests/basic.test.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "compression": "^1.7.5",
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.16"
+  }
+}

@@ -1,0 +1,38 @@
+﻿id;theme;question;sens;marine-le-pen (avant->après);jean-luc-melenchon (avant->après);edouard-philippe (avant->après);raphael-glucksmann (avant->après)
+57;econ;Les entreprises créent plus de richesse pour le pays que l'État.;1;2->4;5->1;2->4;4->2
+61;econ;Les syndicats ont aujourd'hui trop de pouvoir en France.;1;2->4;5->1;2->4;4->2
+67;econ;La concurrence entre opérateurs privés améliore la qualité des services publics.;1;2->4;5->1;2->4;4->2
+75;econ;La France devrait protéger davantage son industrie par des droits de douane.;-1;4->2;1->5;4->2;2->4
+78;welf;Le système de protection sociale français coûte trop cher.;1;2->4;5->1;2->4;4->2
+84;welf;Les allocations familiales devraient être réservées aux familles modestes.;1;2->4;5->1;2->4;4->2
+86;welf;Les mutuelles et les assurances privées devraient jouer un rôle plus grand dans la santé.;1;2->4;5->1;2->4;4->2
+88;welf;Il faut contrôler plus sévèrement les arrêts maladie et les fraudes aux prestations sociales.;1;2->4;5->1;2->4;4->2
+90;welf;Les jeunes de moins de 25 ans ne devraient pas toucher de minimum social sans contrepartie.;1;2->4;5->1;2->4;4->2
+102;soci;On parle trop des discriminations et pas assez du mérite.;1;2->4;4->2;3->3;4->2
+119;euro;La Commission européenne n'a pas la légitimité démocratique pour imposer des règles aux États.;1;2->4;4->2;4->2;4->2
+121;euro;La France devrait fixer seule ses règles budgétaires, sans contrainte européenne sur le déficit.;1;2->4;4->2;4->2;4->2
+125;euro;Les agriculteurs français devraient être protégés de la concurrence des autres pays européens.;1;2->4;4->2;4->2;4->2
+134;ecol;Le nucléaire doit rester la base de la production d'électricité en France.;1;2->4;4->2;3->3;4->2
+136;ecol;L'écologie punitive pénalise surtout les classes populaires et les zones rurales.;1;2->4;4->2;3->3;4->2
+139;ecol;Les vols intérieurs devraient être interdits quand une alternative en train existe.;-1;4->2;2->4;3->3;2->4
+144;ecol;Les OGM et les nouvelles techniques génomiques devraient être autorisés en agriculture.;1;2->4;4->2;3->3;4->2
+145;ecol;Les mégabassines d'irrigation devraient être interdites.;-1;4->2;2->4;3->3;2->4
+146;ecol;Il faut relancer l'exploitation de ressources minières et énergétiques sur le territoire national.;1;2->4;4->2;3->3;4->2
+148;ecol;L'innovation technologique résoudra le problème climatique sans changer nos modes de vie.;1;2->4;4->2;3->3;4->2
+150;ecol;Le zéro artificialisation nette (ZAN) freine trop le développement des communes.;1;2->4;4->2;3->3;4->2
+152;immi;La France accueille plus d'étrangers qu'elle ne peut en intégrer.;1;1->5;4->2;2->4;4->2
+154;immi;Le nombre d'étrangers admis chaque année devrait être fixé par le Parlement ou par référendum.;1;1->5;4->2;2->4;4->2
+160;immi;Un niveau de français et l'adhésion aux valeurs de la République devraient être exigés pour obtenir un titre de séjour.;1;1->5;4->2;2->4;4->2
+168;immi;Les moyens de Frontex et des contrôles aux frontières doivent être fortement renforcés.;1;1->5;4->2;2->4;4->2
+171;auth;La police doit avoir davantage de moyens pour contrôler et sanctionner, même si cela impose plus de contraintes aux citoyens.;1;2->4;4->2;2->4;4->2
+172;auth;La prison devrait être le dernier recours : les peines alternatives doivent être privilégiées.;-1;4->2;2->4;4->2;2->4
+174;auth;Les contrôles d'identité doivent être strictement encadrés pour éviter les discriminations.;-1;4->2;2->4;4->2;2->4
+181;auth;Les parents de mineurs délinquants devraient être sanctionnés financièrement.;1;2->4;4->2;2->4;4->2
+189;auth;Les multirécidivistes devraient être incarcérés plus longtemps, même pour des délits mineurs.;1;2->4;4->2;2->4;4->2
+190;inst;Les parlementaires devraient être limités à un seul mandat à la fois et à un nombre limité de mandats successifs.;-1;4->2;1->5;4->2;2->4
+193;inst;Le Conseil constitutionnel doit conserver son rôle actuel.;1;2->4;5->1;2->4;4->2
+197;inst;Le mandat présidentiel doit rester aligné sur celui des députés.;1;2->4;5->1;2->4;4->2
+199;inst;Les partis politiques traditionnels restent les meilleurs véhicules de la démocratie.;1;2->4;5->1;2->4;4->2
+201;inst;Le Président doit pouvoir dissoudre l'Assemblée nationale quand il le juge nécessaire.;1;2->4;5->1;2->4;4->2
+203;inst;L'État central doit garder la main sur la plupart des politiques publiques, plutôt que de les confier aux régions.;1;2->4;5->1;2->4;4->2
+205;inst;Le référendum est un outil dangereux, à utiliser avec prudence.;1;2->4;5->1;2->4;4->2

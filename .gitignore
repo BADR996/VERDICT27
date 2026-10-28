@@ -1,0 +1,8 @@
+node_modules/
+data/politest.db*
+data/.salt
+data/polls.json.tmp
+data/news.json
+data/news.json.tmp
+data/scraper-status.json
+data/alert-state.json
